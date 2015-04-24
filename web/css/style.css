@@ -1,0 +1,102 @@
+body {
+  background-color: #1F1F1F;
+  font-family: 'Helvetica Neue', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  margin: 0;
+  color: #111111;
+  line-height: 1.5em;
+}
+
+a {
+	color: #3BBEBA;
+}
+
+p {
+	color: #eee;
+}
+
+@font-face {
+    font-family: 'scorched_earthregular';
+    src: url('/fonts/ScorchedEarthDEMO-KCFonts-webfont.eot');
+    src: url('/fonts/ScorchedEarthDEMO-KCFonts-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/ScorchedEarthDEMO-KCFonts-webfont.woff2') format('woff2'),
+         url('/fonts/ScorchedEarthDEMO-KCFonts-webfont.woff') format('woff'),
+         url('/fonts/ScorchedEarthDEMO-KCFonts-webfont.ttf') format('truetype'),
+         url('/fonts/ScorchedEarthDEMO-KCFonts-webfont.svg#scorched_earthregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1, h2 {
+	font-family: scorched_earthregular;
+  	letter-spacing: .1em;
+  	line-height: 1em;
+}
+
+h3, h4 {
+	color: #666;
+}
+
+h3.time {
+  font-family: scorched_earthregular;
+  color: #DA2B2B !important;
+  font-size: 16px !important;
+  letter-spacing: .1em;
+}
+
+div.presenter a {
+	font-family: scorched_earthregular;
+  	letter-spacing: .1em;
+  	font-size: 11px;
+}
+
+div.room {
+  font-family: "Gill Sans", "Futura", "Tahoma", sans-serif;
+  text-transform: uppercase;
+  color: #acaa48;
+  font-size: 12px;
+  letter-spacing: .1em;
+}
+
+div#room {
+  margin-top: -10px;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
+#sessionlist div.presenter a {
+  font-family: 'Helvetica Neue', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+h1 {
+  max-width: 550px !important;
+  letter-spacing: .2em !important;
+  line-height: 1.2em !important;
+}
+
+#presentername {
+  font-size: 20px;
+  padding-top: 20px;
+}
+
+.session_description p {
+	color: #000;
+}
+
+ul.sessionsList li h4 a:link, ul.sessionsList li h4 a {
+  color: #3BBEBA !important;
+}
+
+footer {
+	background-color: #1F1F1F;
+	float: left;
+	clear: both;
+	margin-left: 30px;
+}
+
+footer h4 {
+	color: #555;
+}

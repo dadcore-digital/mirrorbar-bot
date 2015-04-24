@@ -1,0 +1,506 @@
+Open Source tools for Businesses at MinneBar 1
+Microformats (MinneBar 1) at MinneBar 1
+MindTouch DekiWiki (Demo) at MinneDemo 1
+Aaron Kardell has founded a few startups, a couple of which have had successful exits.  More recently, he's the author of twice featured by Apple iGarageSale and the founder of MobileRealtyApps.com.
+MobileRealtyApps.com (Demo) at MinneDemo 8
+Getting started with iPhone & iPad Development at MinneBar 5
+Adah Ojile is the Managing Principal and founder of Minng! - a cross-promotion and networking platform for local businesses (http://minng.com). Ojile is an Aeronautical Engineering graduate of the United States Air Force Academy and a graduate of Cornell Law School. Over the years, he's worked as a corporate attorney at a top 10 international law firm, and as an IT business analyst/consultant at a major retailer, web marketing company and a couple of startups.
+Physics-based Interfaces with UIKit Dynamics at MinneBar 9
+Business Idea Speed Dating 2.0 at MinneBar 7
+1. Founded 3 successful companies, lifetime company revenues in excess of $11 million.
+2. Hired, lead, trained, and managed over 25 employees.
+3. Created training curriculum and taught over 50 people within three companies.  Recruited and managed a successful sales team of 6 professionals.
+4. Interviewed, quoted, or featured in over 20 real estate media stories in major media, including Money Magazine, Wall Street Journal, 60 Minutes, ABC News, the Star Tribune and more.
+5. Helped over 16,000 home sellers save over $1 billion in real estate commissions.
+6. Testified in court, consulted, or assisted the US Federal Trade Commission, US Department of Justice, US House of Representatives Financial Services Committee, and Canadian Competition Bureau work on anti-trust activities in real estate.
+7. Elected, appointed, or served in leadership of numerous community and industry associations, including the founding of one industry association.
+8. Created and executed business plans, marketing plans, operational plans, and budgets from startup to company maturity in three companies.
+9. Created and managed internet marketing strategies that generated a majority of company revenue and substantial return on investment, including search engine optimization and pay per click since 2000.  Web advertising strategies also involved significant social media and display advertising targeted at consumers for both product and service.
+LinkedIn Profile http://www.linkedin.com/pub/albert-hepp/8/228/8b3
+BuySelf.com Flat Fee Home Sales
+Drupal Experiments at MinneBar 5
+Head of Partnership & Integrations at MailChimp
+Designer and client-side coder.
+Founded Minnesota's Barcamp and together with Luke Francl put together various events and programs throughout the year aimed at catalyzing tech and design innovation and a startup culture within the state.
+Co-Founder of Refactr LLC, a consultancy and product development shop focused on rapidly developing and deploying web and mobile applications.
+Design 2.0: What's a web designer to do? at MinneBar 2
+You can do that? Selling agile to the enterprise at MinneBar 2
+Small Teams, Big Results at MinneBar 3
+Design Coding Panel Discussion at MinneBar 3
+Midwestern Startups: What is Possible? at MinneBar 4
+Web App Builders Roundtable at MinneBar 4
+The Perils and Pitfalls of Consulting at MinneBar 5
+Building Web Apps Discussion at MinneBar 7
+The Crowdfunding Panel at MinneBar 8
+Facebook Profile
+Get More From Your Data at MinneBar 6
+Ben Peirce is CTO at Zipnosis, a web-based healthcare startup.
+Civic Tech and Open Government Year 1 - Open Twin Cities Showcase at MinneBar 9
+Developing an Android RESTful Client App at MinneBar 7
+Speaker Deck: http://speakerdeck.com/u/bbroulik
+Phonegap + jQuery Mobile = Awesome at MinneBar 7
+LigerMobile - True Hybrid App Development at MinneBar 9
+Communication For Geeks:How to Influence Your Boss, Your Customers, And Your Team at MinneBar 3
+How a Continuous Integration Server changes your team at MinneBar 3
+Monitoring at a SaaS Startup: Tradeoffs and Tools at MinneBar 9
+DevOpsDays Minneapolis at MinneBar 9
+Bridget Kromhout spent years as a sysadmin at ISPs and in academia, and is now doing DevOps at 8thBridge (which means lots of fun with MongoDB, EC2, Chef, Nagios, Hadoop, and the like).
+Me, You and EC2 at MinneBar 2
+Richfield, MN 
+All the monitoring; forget everything you knew about nagios, zabbix and ganglia at MinneBar 8
+Rise of the Fiber Project: Transforming a Small Town into a Gigabit City at MinneBar 9
+I am a programmer at Jostens.  Earned a BS in Imaging & Photographic Technology from Rochester Institute of Technology.  Completed some graduate course in Computer Science at Towson University, Maryland.
+http://www.linkedin.com/in/caseyhelbling
+The Intersection of Nonprofits and Technology. A panel discussion with some of the most influential nonprofit technologists in the Twin Cities. at MinneBar 8
+Lightning Sessions at MinneBar 9Stuff to check before locking our event dates
+San Francisco, CA 
+Reputationland at MinneBar 3
+JRuby (Demo) at MinneDemo 4
+Mirah: A Pragmatic Replacement for Java at MinneBar 6
+JVM Bytecode for Dummies at MinneBar 6
+Minecraft 101: Digging, Building, Hacking at MinneBar 8
+Memcached and MySQL Sitting in a Tree at MinneBar 3
+Titanium Powered Desktop & Mobile Apps at MinneBar 4
+What We Don't Know at MinneBar 7
+From Open Source to Open Space: The Growth of Coworking and Collaboration Spaces in Minnesota and Across the Globe at MinneBar 6
+Secrets of a Successful Open Source Project at MinneBar 5
+Chris is one of the lead developer's of Satchmo, an ecommerce framework built using Django.
+New York, NY 
+Sartell, MN 
+Cliff Robbins is a Mobile Software Development Manager at W3i in Sartell, MN.
+This is his first whirl at Management with previous gigs as a .net developer for financial institutions.  Due to a non-management background, Cliff has had the opportunity to try out various ideas while leading the team; which has ultimately leaded to scaling his team from 1 single agile team into 4 agile teams.
+His attitude of being an optimistic realist, along with his passion, is what has helped drive the endeavor.
+SSH: Best kept secrets at MinneBar 8
+Crowdfunding: Fact or Crap? at MinneBar 7
+The Geek Car, State of EVs in Minnesota Panel Discussion. at MinneBar 9
+Migration+ at MinneDemo 11
+The REAL Value of Data - Big or Small at MinneBar 9
+Founder of small infrastructure outsourcing company
+-Founder of www.produceratings.com
+-Consultant with Accenture
+Bowling for Marketshare--How to Grow Your Startup by Narrowing Its Focus at MinneBar 5
+Five Marketing Points to Tackle BEFORE You Start Coding at MinneBar 6
+Nailing Your First Client: Customer Acquisition for Geeks at MinneBar 7
+What Obama (and Romney) Can Teach You About Mobile. at MinneBar 8
+Beyond Mobile: How Connected Devices are the Next Evolution of Mobile at MinneBar 9
+LinkedIn
+Can you legally sell, lend, or give away purchased digital content? What happens to digital assets when you die? at MinneBar 9
+Data mining: what is it good for? at MinneBar 5
+Event Burn (Demo) at MinneDemo 9
+Co-founder of Blue Shift Lab
+Eagan, Minnesota 
+Team Anti-Patterns at MinneBar 1
+Startup Camp Is Coming at MinneBar 2
+Web 2.0: In business, out of beta at MinneBar 2
+Coworking (MinneBar 2) at MinneBar 2
+Screw You LAMP. Plus Virtualization at MinneBar 3
+State of the State: Technology in Minnesota at MinneBar 3
+How Can Minnesota be Better? at MinneBar 5
+Manymo (Demo) at MinneDemo 12
+Stillwater, MN 
+San Francisco, CA 
+Comment on MinneDemo:
+Demoing at MinneDemo gave us fantastic exposure.  The format for demoing really helped me refine the core message of what Red Stamp does so it was clear and understood in a short amount of time.  It's focused how we explain and demo our app to others which has led to larger exposure at events like SXSW.
+I am a partner in The Tea Garden and Steepery Tea Bar.  I have been aggressively learning Ruby on Rails and have 2 online projects coming "soon" (yeah right): "Steepr" Steepr & "GiggleTrigger" GiggleTrigger.  I have a Master's degree in Theistic Philosophy (what?) and some day I would like to create a better seminary. 
+Talk to me about tea, theology, business, Ruby on Rails, or Bob Dylan. 
+@thatdankent
+Rochester, MN 
+As the Director of Marketing for the US Army, Dave helped leverage the power of social media to help the Army communicate the value of being a Soldier to those considering joining.  Since leaving the Army he has worked as a consultant helping start up companies and large advertising agencies.  Prior to his involvement in marketing he worked as a Strategic Planner for the Secretary of the Army.
+Greetings! At the University of Minnesota-Twin Cities I serve as an Associate Professor in the Postsecondary Teaching and Learning Department within the College of Education and Human Development. I teach an undergraduate world history course and a graduate education course for teachers to embed best practices of student engagement, enrichment and academic support within their college courses. I investigate the history of postsecondary college access, social media for transformative learning experiences, and academic interventions supporting improved student achievement and persistence.
+Publish or Perish or Self-Publish: From Franklin to eBook Same Game, New Rules at MinneBar 7
+Content 101—101 Ways to Publish Content at MinneBar 8
+David Hedrick Skarjune is an Electronic Document Professional (EDP) through Xplor International and a web communications and ePublishing consultant with Word & Image, LLC. He has worked as a writer, editor, journalist, photographer, designer, analyst, developer, instructor, and online community builder. Recently he has consulted on Content Strategy projects for the University of Minnesota, State of Minnesota, and Windustry.
+Chicago 
+Web Framework Panel at MinneBar 2
+David teaches and coaches agility in companies of all sizes all over the world. For more than 10 years, David has evolved the successful adoption and use of agile methods in medical, retail, legal, education, health care, control systems, digital audio, financial and more. Sometimes he is pairing with developers and testers, while other times he is helping product manager create product roadmaps. David believes in helping companies design processes that help them instead of simply teaching them a process to follow. Along with working side by side with design and delivery teams, David works with leader and executives to promote the use of agile methods to attack the real challenges of their specific industry.
+LinkedIN Profile
+Remix + Adaptive Avenue: A Commercial Application of Best Buy's Open API at MinneBar 4
+Web Framework Panel at MinneBar 2
+An explosion of startups...in the Land of 10,000 Corporate Drones – a very serious proposal at MinneBar 8
+Don is co-founder of CoCo coworking and collaborative space, with locations in St. Paul and Minneapolis. He believes strongly that a diverse intellectual ecosystem is necessary for true innovation and creativity.
+Boom!
+Resume
+Lessons on Recruiting Open Source Contributors from the Google Summer of Code at MinneBar 7
+Gentoo Linux, or Why in the World You Should Compile Everything at MinneBar 7
+DevOpsDays Minneapolis at MinneBar 9
+Enleiten (Demo) at MinneDemo 5
+Schumpeters HiveConsciously Weaving Our Collaborative Innovation Networks at MinneBar 5
+Who Do You Know - Evaluating Your Entrepreneurial Social Capital at MinneBar 6
+Percolate Your Trep Net - Expanding Your Entrepreneurial Social Capital at MinneBar 7
+Percolate Your Trep Net II—Expanding Your Social Network Focus for Greater Entrepreneurial Social Capital at MinneBar 8
+Drew is a 21-year High Tech industry veteran working with virtual teams and work design within global collaboration networks.  Drew has worked in various capacities with Toshiba, Dell, ADC WorldMap, Empower, TerraGraphics, SpatialSherpa, and Microsoft.  He is known for his entrepreneurial mindset, weaving networks, and building worldwide sales and marketing channels through strategic alliances.  
+Over the years, Drew has co-founded a Business Intelligence firm serving High Tech start-ups in the Pacific Northwest, co-founded a Knowledge Age networking group called The Hive, and served on the board of the Wisconsin Innovation Network.  He reviewed a chapter in a recent book on using virtual environments in corporate education and development.  
+Drew has a Masters and PhD in Human and Organizational Systems, a Masters in Management and Organizational Behavior, a Bachelors in Management and Communication, and a Bachelors in English Literature.  He is an adjunct professor in Concordia University's MBA program and the Advantara Global Executive Learning and Coach Education Institute in London.  Drew also served eight years in the US Air Force and US Air Force Reserves as a member of the command section in an award-winning Airbase Ground Defense unit.  Drew is currently teaching, consulting, and conducting research on global collaborative innovation networks.  He consults under his moniker GlobalVoyager Enterprises.
+Drew founded Gorton Studios in 2001 and since then he's been growing a team of incredibly talented people. He's also provided all sorts of good organizations with web solutions customized to their needs, including a wide variety of media, entertainment, education, wholesale, retail, financial, governmental, medical, arts and non-profit organizations.
+Drew began working on the web in 1996. Since then, his work and company have won praise and attention from organizations including Newsweek, Time Magazine, USA Today and Yahoo. In addition to his consulting work, Drew is an occasional presenter on web topics (including technical topics like CSS and web topics like Process Management) Drew can also be found on Drupal.org as dgorton.
+Drew has a broad range of other interests, has lived and worked in Asia, Europe and North America and speaks several languages. He has an advanced degree in the martial art of Aikido and a liberal arts degree from St. Olaf College.
+He's also a generally nice fellow.
+LiveEdit (Demo) at MinneDemo St. Cloud
+Eagan, MN 
+Twin Cities 
+Paris, France 
+FeedSeeder Project - The Collaborative Aggregator at MinneBar 2
+Designing for Use at MinneBar 2
+Design 2.0: What's a web designer to do? at MinneBar 2
+Ban Helvetica * Or Why Ignoring Web Safe Fonts Makes Your Website Better at MinneBar 4
+Cucumbers for UX Designers at MinneBar 5
+Do Not Track: Remarketers, Tracking Bugs, and Online Privacy at MinneBar 6
+Ban Helvetica Part 2: How to Pair Fonts at MinneBar 6
+Every HTTP Status Code at MinneBar 7
+410 Gone: A Discussion of Burnout, Depression, and Finding Happiness in the Technical World at MinneBar 7
+Valtira Online Marketing Platform (Demo) at MinneDemo 4
+EnStratus (Demo) at MinneDemo 6
+How I Learned to Stop Worrying and Love Localization (in CakePHP) at MinneBar 4
+Minneapolis MN 
+@gregglind
+Core organizer of PyStar.org
+Senior Developer at Renesys
+PyMNtos Organizier
+Exosite Connected Devices (Demo) at MinneDemo 10
+Hans' background is in electrical engineering but somewhere fell off the wagon and began writing software and managing different aspects of business operations.  He has been developing embedded systems since the mid 90's and created some of the first open hardware System on Module designs in the early 00's.  Over the years, as the discussion has moved from hardware peripherals to operating systems to connectivity, he has shifted focus in step and founded Exosite (www.exosite.com) in 2009 to provide connectivity to devices and systems.
+His passion is discovering patterns that span industries, and then creating generic technology products that can be extended as whole products for select verticals.  He gets excited about creating value in business along side of people who love what they do, and who do it with integrity.
+San Francisco, CA 
+Discovering Scala at MinneBar 4
+Personal Rapid Transit at MinneBar 6
+I'm an open source programmer, primarily web development and primarily Python (though increasingly Javascript).  I work for Mozilla (in Labs.  I work from home, outside of my attic Mozilla does not otherwise have a presence in Minnesota ;)
+I previously worked for The Open Planning Project, focused on software for civic participation.
+I live in the Powderhorn neighborhood in Minneapolis.
+Minnetonka, MN 
+OpenStreetMap 101 at MinneBar 6
+OpenStreetMap 201 at MinneBar 7
+The Tech Behind Obama's 2012 Campaign at MinneBar 8
+Mapping Your World With OpenStreetMap (Minnebar 8) at MinneBar 8
+Fiery Inferno A web consultant roundtable at MinneBar 9
+Jackie Levin, Leadership Coach, Process Integrator & Entrepreneur
+Working in business and public education settings over the past 30 years, Jackie has designed a wealth of products and programs including life resource tools and guided self discovery experiences that inspire individuals and teams to bring their full expression into "work life" and "life work." As a co-founder of AbleNet, Inc. in 1985, Jackie led the development of assistive technology products and curriculum that offer a means of independence and fulfillment for individuals with disabilities worldwide. 
+As an independent consultant, Jackie currently designs process models and provides leadership training and development in profit, non-profit organizations and public school settings.  Jackie's work to engage students (elementary through college) in learning and life is also expressed through L.E.A.D., a discovery model of personal leadership she designed along with a variety of affiliate programs including Project M, The DreamScape (and MEscape) Experience, The Power of YES! for Educators and Business and YES I CAN! YES I AM! for CAREER TRANSITION.  
+In 2004 Jackie co-founded The Butterfly Peace Path labyrinth with sacred earth artist and corporate creativity consultant William Grace Frost. Jackie's Butterfly Peace Path curricular resources and collaborative partnerships with International Peace Site Schools, residential treatment centers and health care facilities create a powerful context for educators, health care providers, patients and families to foster learning and wellness through stress reduction, conflict resolution, life balance and healing.
+Jacqueline is Co-Founder and CEO of SieEnt, LLC, a video game development company creating games for women. She is also the Managing Director of Girls in Tech Twin Cities, on the board of the annual "She's Geeky" unconference for women, and very active in the International Game Developers Association.
+Unit Testing on iOS at MinneBar 8
+How entrepreneurs waste their development budget at MinneBar 9
+How to win Vegas-style: To exploit or to explore is the question in consumer behavior modeling in digital advertising and marketing at MinneBar 8
+Jamie is CTO of SPS Commerce, the retail industry's most broadly adopted cloud services platform. Previously, he served as CTO for leading financial publishers including the Wall Street Journal Digital Network, Enterprise Media Group of Dow Jones and MarketWatch, Inc. He was the founding CTO of BigCharts, the leading provider of financial tools and information to consumers and financial services companies via the web. In 1999, BigCharts was acquired by MarketWatch and the technology is still used by Dow Jones & Company today. In addition, Jamie has developed and managed products and technologies for properties including Barron’s, Virtual Stock Exchange, Dow Jones Newswires and Dow Jones Indexes.
+Web 2.0 in the Real World at MinneBar 1
+On the Couch with David Heinemeier Hansson at MinneBar 2
+Startup Camp Is Coming at MinneBar 2
+Power WordPress plus MinneWordCamp Discussion at MinneBar 3
+State of the State: Technology in Minnesota at MinneBar 3
+Wikis with Structured Data at MinneBar 6
+Do Not Track: Remarketers, Tracking Bugs, and Online Privacy at MinneBar 6
+MinneBar on MinneBar at MinneBar 6
+Social Commerce (Demo) at MinneDemo 10
+Every HTTP Status Code at MinneBar 7
+Running a Virtual Server with Confidence at MinneBar 7
+MinneBar 8 on MinneBar at MinneBar 8
+Build and Deploy Ridiculously Advanced MediaWiki Websites at MinneBar 8
+Minnebar 9 on minnebar at MinneBar 9
+OmniFocus Meetup at MinneBar 9
+Doppler Value Investing: the next generation of value investing at MinneBar 9
+What to Look For When Hiring a Communications Professional or Agency at MinneBar 8
+Schaweet App at MinneDemo 13
+The Missing Web Curriculum: What Every Web Professional Should Have Learned at MinneBar 6
+Brahmageddon at MinneDemo 11
+The Intersection of Nonprofits and Technology. A panel discussion with some of the most influential nonprofit technologists in the Twin Cities. at MinneBar 8
+Chasing Ninja Rockstars: Searching For Top Talent and Why We're Doing It All Wrong at MinneBar 9
+Fundraising from Minnesota at MinneBar 6
+Fundraising in Minnesota at MinneBar 7
+Fundraising in Minnesota (Minnebar 8) at MinneBar 8
+Minnesota's tech startup community: what's next? at MinneBar 9
+Palo Alto, CA 
+Beyond DevOps: User-Centered IT at MinneBar 7
+LinkedIn
+Piranha Pool (TM) at MinneBar 9
+The future of crowdfunding and fundraising at MinneBar 9
+Purpose of "WHY", Build Your Brand and Culture, What I learned from Steve Jobs at MinneBar 8
+Think Live Social Networking, Technology to Get Your Audience Engaged at MinneBar 9
+My name is Jenna. I am a web developer, business owner, photographer, Ambassador for the Twin Cities Geekettes, Rails mentor for Thinkful, speaker, skier, traveler, shoe lover, wannabe yogi, migraineur, and all-around awesome person (but laced with a little sarcasm on a quite regular basis).
+Minneapolis, Minnesota 
+Intro to iPhone Development at MinneBar 3
+SmartThings (Demo) at MinneDemo 13
+Adago (Demo) at MinneDemo 7
+Made for iPhone at MinneBar 8
+Minnesota Indie Game Developer Microtalks at MinneBar 9
+Think Live Social Networking, Technology to Get Your Audience Engaged at MinneBar 9
+Scaling Ruby for Enterprise Applications at MinneBar 8
+PHP Developer while drinking the Ruby on Rails kool-aid, Man about Town, Gardner, Cad, Whippet aficionado, Layabout.
+Maple Grove, MN 
+Room and Bored at MinneBar 5
+Color Theory & Consumption: A Matter of Life & Death? at MinneBar 6
+Color Theory: Hot-Neutral-Anchor at MinneBar 7
+Online education: As good as it gets? at MinneBar 8
+Faculty at Rasmussen College in the School of Technology & Design. I teach in the Multimedia Technologies program.
+The Bet: Why we feel your project is worth talking about and why its costing us at MinneBar 9
+Saint Paul, MN 
+SaySwap (Demo) at MinneDemo 1
+Video Transcoding at MinneBar 2
+Ruby on Rails: An Overview at MinneBar 2
+Zencoder (Demo) at MinneDemo 4
+Consulting for fun and profit at MinneBar 3
+Tumblon (Demo) at MinneDemo 5
+How Can Minnesota be Better? at MinneBar 5
+Funding a startup: a discussion of three approaches at MinneBar 5
+Startups vs. Consulting: smackdown at MinneBar 5
+Fundraising from Minnesota at MinneBar 6
+How to Raise Investment for Your Startup, Guaranteed at MinneBar 6
+Zipnosis (Demo) at MinneDemo 9
+A Country Club For Tech at MinneBar 4
+Curation FTW at MinneBar 5
+Locate My Deal (Demo) at MinneDemo St. Cloud
+Why Don't You Blog More? at MinneBar 6
+3D Printing on a Makerbot at MinneBar 7
+Justin Porter has numerous years of experience in a variety of technology and business roles. His most recent position was working in an environment where he was responsible for launching high technology-based start-up companies. He previously worked with a variety of consulting clients in a professional services role. He has a balanced mix of consulting, industry, and technical experiences, allowing him to be leveraged in all phases of a company. Mr. Porter has experience across many technology sectors including life sciences, physical and engineering sciences, software and information technology, and agriculture. Mr. Porter holds a BSB in Management Information Systems and Entrepreneurial Studies from the University of Minnesota – Twin Cities and an MBA from the University of Minnesota – Carlson School of Management.
+Android * What is that robot up to? at MinneBar 4
+IOS Development for the Beginner at MinneBar 7
+Justin Porter has numerous years of experience in a variety of technology and business roles. His most recent position was working in an environment where he was responsible for launching high technology-based start-up companies. He previously worked with a variety of consulting clients in a professional services role. He has a balanced mix of consulting, industry, and technical experiences, allowing him to be leveraged in all phases of a company. Mr. Porter has experience across many technology sectors including life sciences, physical and engineering sciences, software and information technology, and agriculture. Mr. Porter holds a BSB in Management Information Systems and Entrepreneurial Studies from the University of Minnesota – Twin Cities and an MBA from the University of Minnesota – Carlson School of Management.
+How to Start a Company Based on U of M Technology at MinneBar 6
+IP: Your Super Secret Weapon Against the Evil Competition at MinneBar 7
+The Crowdfunding Panel at MinneBar 8
+Gigabit (Speed) SYN, SYN-ACK, ACK (Networking) for Geeks at MinneBar 9
+The (A)BC's of Corporate Blogging at MinneBar 9
+Kevin Donlin is Co-director of Guerrilla Job Search International. Kevin is a contributing co-author to "Guerrilla Marketing for Job-Hunters 2.0," author of 2 other books, and writes a job search column for the Minneapolis Star Tribune and Examiner newspapers. More at - http://www.mynewjobhunt.com
+Creating an Early Stage Fund - Group Discussion at MinneBar 6
+The Crowdfunding Panel at MinneBar 8
+Google Page Speed Upgrades - Optimizing Website Downloads with a Simple Plugin at MinneBar 5
+For more information, see my linkedin profile.
+I'm founder of the Minneapolis Biomass Exchange which helps connect buyers and sellers of biomass renewable energy and livestock feed.  
+I have 10 years of technology experience, working for several Internet-based companies in Colorado from 2000-2005: a web conferencing company, a library software company, a cell phone recycling company, and a reference management company (sort of like salesforce.com).
+Eventually I decided I would be more passionate about the renewable energy industry and here I am.  I came to Minnesota and have learned and worked in biomass consulting roles until July 2009 when I embarked on this startup.
+I received my MBA from U of Minnesota in 2007 and bachelors of science degree in computer engineering at the U of Michigan 2000.
+At the Minneapolis Biomass Exchange, we deal in wood chips, hays, wheat straw, corn cobs, corn stover, dedicated energy crops (prairie grasses, cottonwoods), etc.
+Native Android, Blackberry, and iPhone OS apps in JavaScript at MinneBar 5
+What should we do about Apple? at MinneBar 5
+Building Google Voice with Rails, Knockout, and Twilio at MinneBar 8
+Technical Support for Developers Panel at MinneBar 8
+Kristin Oberhaus is a two-time graduate of The Ohio State University with a Bachelor of Music Education and an MBA with an emphasis in Marketing and Information Systems. Her career has encompassed all components of Software Product Management ranging from Strategy Planning and Product Marketing to Technical Specifications and Product Launch Management. Kristin's past employment experience has focused on business-to-business enterprise systems enhanced by an integration of disparate components and systems.
+St. Louis, Missouri 
+Merb 1.0: Ruby on Rails that Scales at MinneBar 3
+Merb 1.0: Ruby on Rails that Scales at MinneBar 3
+The Yogi & The Entrepreneur at MinneBar 9
+Fundraising from Minnesota at MinneBar 6
+Workface (Demo) at MinneDemo 12
+Pack Your Own Chute - The Personal Decision to Join a Startup at MinneBar 9
+Unbenchable at MinneDemo 15
+Kenmore, WA 
+Lightning Talks (MinneBar 3) at MinneBar 3
+Clojure for Newbs: An Introduction at MinneBar 4
+Midwestern Startups: What is Possible? at MinneBar 4
+Lightning Talks & Demos at MinneBar 7
+Technical Support for Developers Panel at MinneBar 8
+Lightning Talks at MinneBar 8
+Mobile Roots (Demo) at MinneDemo 8
+Design Coding Panel Discussion at MinneBar 3
+Des Moines,IA 
+I'm a guru, not a god: A Tao of System Architecture at MinneBar 5
+Brain-computer Interfaces: Hacking Wetware at MinneBar 6
+Beautiful Chaos: The Evil Genius' Introduction To Juila, The New Scientific Computing Language at MinneBar 8
+Getting your Fiber: Fiber-to-the-premise planning with PostGIS and pg routing at MinneBar 9
+Building a File System From Scratch at MinneBar 6
+Scaling a Startup from 3 to 30 to 300 at MinneBar 7
+Journey to the Bottom of the Storage Stack at MinneBar 8
+Action Chess (Demo) at MinneDemo 6
+Local "Indie" Video Game Development at MinneBar 4
+Intro to iPhone Game Development at MinneBar 6
+Oppo-Citrus at MinneDemo 13
+Minnesota Indie Game Developer Microtalks at MinneBar 9
+iPhone / iOS application developer working at Code 42. Especially interested in video games and mobile computing, particularly where the two intersect.
+Hey Startups, Ask an Ad Agency (and Vice Versa) at MinneBar 6
+Flex (MinneBar 2) at MinneBar 2
+Farmsourcing Rails: or How I Stopped Worrying and Love the Enterprise at MinneBar 3
+Pedal Brain (Demo) at MinneDemo 8
+Fundraising from Minnesota at MinneBar 6
+The Hardware Startup: From Napkin To Retail Shelf at MinneBar 6
+St. Anthony, Minnesota 
+Teaching kids (and other newbies) to code at MinneBar 8
+Matt Ronge is an iOS consultant who has been programming in Objective-C since the early days of Mac OS X. Matt has built and worked on numerous Mac apps and for the last two years he's been focused on iOS apps. Matt spent a couple years doing web development in Java and Python but found he enjoys mobile development more. When not programming you might find Matt hanging out at home with his fiancee, fishing, reading non-fiction or collecting NES games. 
+He can be found online at http://www.mronge.com or on Twitter as @mronge.
+Washington, DC 
+The most interesting challenges ahead for journalism at MinneBar 4
+CrashPlan - Automatic off-site backup at MinneBar 2
+CrashPlan (Demo) at MinneDemo 3
+State of the State: Technology in Minnesota at MinneBar 3
+Event Burn (Demo) at MinneDemo 9
+Fundraising in Minnesota at MinneBar 7
+OpenPGP-GnuPG Key Signing Party at MinneBar 7
+Free and open source bioinformatics & data visualization hacker.
+Mike is an instructor and coach who supports service organizations in optimizing their connections with current and potential clients.  
+His understated expertise lies in critiquing customer service engagements and resulting experiences enjoyed or endured by clients.  
+In addition, he is a master at helping young and older professionals, from all walks of life and organizations, catch-up with the futures of their fields.  
+Mike shares over twenty-two years of independent consulting experiences with his clients. Dr. Mike to some,  has taught management classes at (St. John's in Collegeville, MN) and organizational behavior classes at U. of St. Thomas MBA programs in business.  
+A native of Missouri and graduate of the University of Missouri--Columbia, he enjoys writing, reading mass quantities of books on science, history, biographies and art.  In addition, he hunts pheasants and enjoys fishing.  When he has free time he loses himself in photography, Photoshop, video and Final Cut Pro.
+The FUTURE at MinneBar 9
+What's New in PHP 5.4 at MinneBar 7
+Learning Intellectual Property Basics (and a little music) at MinneBar 8
+Asynchronous Social Pythoning at MinneBar 7
+Bannerflow (Demo) at MinneDemo 5
+An Introduction to HTML5 at MinneBar 4
+Getting started with CSS3 at MinneBar 5
+How Can Minnesota be Better? at MinneBar 5
+HTML5, CSS3, & Mobile: Responsive Design at MinneBar 6
+Fundraising from Minnesota at MinneBar 6
+Fundraising in Minnesota at MinneBar 7
+Fundraising in Minnesota (Minnebar 8) at MinneBar 8
+Minnesota's tech startup community: what's next? at MinneBar 9
+Get Emotional: Designing for engagement in native mobile apps at MinneBar 9
+Data Center 101 at MinneBar 9
+Leveraging Cloud Hosting: Principles & Profits at MinneBar 7
+Triplemap at MinneDemo 13
+Mike is an independent consultant with experience building web applications with Java, Groovy, Grails and any other open source technology he can get his hands dirty with.   Piragua Consulting, Inc.
+MyON Reader (Demo) at MinneDemo 10
+The Art of Message Queues at MinneBar 4
+Leveraging Zend Framework for Sending Push Notifications at MinneBar 7
+Gearman: A Job Server to Scale at MinneBar 7
+Varnish, The Good, The Awesome, and the Downright Crazy at MinneBar 7
+Saint Paul, MN 
+WordPress Plugin Speed Dating at MinneBar 7
+The Non-Designers Guide to WordPress (Making Your Site Look Awesome) at MinneBar 8
+Natasha Tong, Knowledge Integrator and Innovation Activist
+Natasha has worked in technical product management and development over the past 15 years.  Trained as a Mechanical Engineering and business development, Natasha has led the design, manufacturing, marketing of services, businesses and products to the global market in multiple industries.
+As an independent consultant, Natasha currently designs innovation models and framework and provides leadership business training and development in profit, non-profit organizations and public school settings.  Natasha's work is about engage people and organization in wanting something different, better or more with the focus in innovation since "the first step of defining the problem is always the hardest."
+Team Anti-Patterns at MinneBar 1
+Pack Your Own Chute - The Personal Decision to Join a Startup at MinneBar 9
+The FUTURE at MinneBar 9
+Appleton, Wisconsin 
+Additional Bio
+Nena continues to practice law as a Senior Associate at the law firm of Fredrikson & Byron P.A. where she focuses primarily on government contracting but also practices in the areas of land use, public finance, environmental compliance and political law. Before joining Fredrikson & Byron, Nena practiced law at Dorsey & Whitney, LLP.
+Nena was an Adjunct Professor of Law at the University of Minnesota Law School for three years, where she designed and taught a course on Local Economic Development Law. Nena’s course introduced students to the practical challenges facing local economic development initiatives and examined the tools that local government entities and their private partners use to spur and control economic development.
+Nena is also a community and policy leader. Nena currently chairs the Citizens League Board of Directors and leads the African Development Center’s Jobs & Prosperity Capital Campaign. Nena is also a leader in the Minnesota State Bar Association, where she serves as Chair of LawPAC, the Association’s political committee. Before that, Nena chaired the Association’s Civic Education Committee. In 2008, Nena participated in the Minneapolis FBI Citizens Academy, and then served as Treasurer of its Alumni Association for two years. Nena was named a “Woman to Watch” by the Minneapolis-St. Paul Business Journal in 2010.
+A life-long Minnesota resident, Nena grew up in Eden Prairie and earned her undergraduate and law degrees from the University of Minnesota. Nena and her husband, Aaron Street, live in Minneapolis with their daughter.
+You can reach Nena directly at nena.street@roboticsinnovation.com or 612.2.ROBOT.8 (612.276.2688).
+Anonymity: a real trend or just hype? at MinneBar 9
+Web Redesign with Ajax and Rails at MinneBar 2
+Design Coding Panel Discussion at MinneBar 3
+CSS frameworks when and why to use them at MinneBar 3
+Is a community for Designers and Developers possible? at MinneBar 4
+The Crowdfunding Panel at MinneBar 8
+Technology Driving Consumer Centered Healthcare at MinneBar 8
+The future of crowdfunding and fundraising at MinneBar 9
+Everyday I am motivated by the fact that I can have a positive influence on lives by expanding local access to capital. 
+Therefore, I dedicate my work to educating people to directly access capital at a point where reputation meets technology.  
+My background is as an entrepreneur, investor, securities analyst and corporate development. 
+Full Bio: **http://www.linkedin.com/in/patrickedonohue**
+Twitter: **@DonohuePatrickE**
+The Yogi & The Entrepreneur at MinneBar 9
+Revenge of the Type Systems at MinneBar 2
+The Mathematical Foundations of Music at MinneBar 3
+Algorithms and Refutations at MinneBar 4
+High-Performance GPU Computing on the iPad at MinneBar 5
+Brahmageddon at MinneDemo 11
+Musician + Internet. Discuss. at MinneBar 7
+Scheduling MinneBar with Simulated Annealing at MinneBar 9
+Networking Online at MinneBar 4
+How to Fireproof Your Career and Chortle at Recession Worries at MinneBar 5
+Managing Your IT Career: Part III at MinneBar 6
+Recruiting For Start Ups (Or any Size Company) at MinneBar 6
+Managing Your IT Career: Part IV at MinneBar 7
+Recruiting For Start Ups 2012 (Or any Size Company) at MinneBar 7
+Managing Your IT Career v5 at MinneBar 8
+Recruiting 2013: For Start Ups Or Any Size Company at MinneBar 8
+Managing Your IT Career v6 - (Why do recruiters suck so bad?) at MinneBar 9
+Pack Your Own Chute - The Personal Decision to Join a Startup at MinneBar 9
+Connect with Paul:
+LinkedIn
+Facebook
+Blog RSS Feed
+Email pdecoursey@8thbridge.com
+Info about Paul:  http://studioe9.com/leadership.html
+Landing the First Hundred Customers at MinneBar 9
+GeoMoose (Demo) at MinneDemo 10
+Almost... but not quite local, I grew up in Southeastern Wisconsin and got a degree in Computer Science in 1992.  After a several years living out/about I settled in the San Francisco Bay Area as a systems engineering consultant; working at well-known companies like Cisco Systems, Intel, Philips Electronics and Sun Microsystems.
+By 2001 the "DotCom" era was over and I decided to make a career shift.  In 2003 I moved to the Twin Cities to attend graduate school at UMN, finishing in 2006 with a degree in Geographic Information Science.
+After several years as GIS Coordinator at a local water resources engineering firm, I began to miss the feeling of innovation and excitement that surrounds the Bay Area.  And so, in 2008 I launched Northstar Geographics (NSG), specializing in applied geographic analysis, web mapping application development, business intelligence services and GIS consulting.
+Collaborative Multi-Touch Books for the iPad at MinneBar 7
+Program your Contracts with LaTeX at MinneBar 9
+This Thing called Twitter at MinneBar 3
+Beyond coffee, cigarettes, and the morning paper: Building hyperlocal news systems & engaging community at MinneBar 5
+WordPress Geek-Out at MinneBar 6
+Putting a Neighborhood Online: Creating Sustainable Online Communities at MinneBar 6
+Current position is at a small GIS firm called Northstar Geographics. Before that, I worked as a web developer at the University of Minnesota then as an independent web developer (mostly WordPress) for a couple of years.
+My main blog (since 2004) is the PF Hyper Blog where I have reported on broadband initiatives (among other topics) in the Twin Cities and elsewhere. I manage (with co-manager Becca Vargo Daggett) the Seward Neighbors Forum, an online discussion group in Seward Neighborhood in Minneapolis. I started the Seward Profile Online News blog in 2009 for Minneapolis's Seward Neighborhood. I'm seeking funding to create a sustainable model that could be ported to any community.
+I was on the Minneapolis Digital Inclusion Fund Advisory Committee through 2010 The Committee oversees and funds digital inclusion proposals in Minneapolis.
+In 2001, I taught at Minneapolis Community and Technical College and established courses in HTML, CSS, and web scripting for the Electronic and Web Publishing Department. I still serve on the Department's advisory board.
+While at the University, I co-founded the CSS (Cascading Style Sheet) Development work group (now the Web Standards Group) which helped in kickstarting widespread use of CSS at University of Minnesota web sites. I'm also on the Minnewebcon organizing committee which stages the University of Minnesota's yearly web conference.
+I got a Masters of Public Affairs from the University of Minnesota Humphrey Institute in 2009.
+I grew up on northern Minnesota's Iron Range which has a culture more akin to New York City than Minnesota Nice. (Maybe why Robert Zimmerman headed east.) Most of my life has been spent in Minneapolis.
+Please log in to upload files.200px 
+Founder of Code Savvy a nonprofit organization inspiring a kids and teens to explore computer programming and creative problem solving. Code Savvy initiatives include CoderDojo Twin Cities, TechnovationMN, Get With the Program and the Northside Code Clubs. Tweeting @CodeSavvyOrg @rebeccaschatz
+Teaching Kids to Code -- why, where and how. at MinneBar 9
+Rich has been building and securing mostly .edu networks since the early 90's. Among his brilliant early decisions was pushing akebono.stanford.edu off campus for excessive non-academic use of bandwidth. Now settled with wife and kid in Northfield, Rich continues to watch packets and fight the forces of evil.
+Collaboration 2.0 at MinneBar 4
+Social Media ... So What? at MinneBar 5
+I Yam What I Am at MinneBar 6
+Business Apps for the Corporate Environment at MinneBar 7
+Learn more about your facilitator via my web site, NorthstarNerd.Org (http://www.northstarnerd.org/econtent/hoeg.html)
+Robert Altman is an independent software developer and consultant.  He has over 15 years of development experience and holds a number of Microsoft certifications, including MCP, MCAD, MCSD, and MCSD for .NET (C#).  Robert currently develops for multiple systems, including Windows, .NET, Windows Mobile, and iOS (iPhone / iPad), and is looking forward to finding time to including Android and Windows 7 Phone in the previous list.  Robert is a technology enthusiast and enjoys working with diverse platforms and learning new systems; he is passionate about using technology to make working easier and using new ideas to solve problems.  In his spare time, Robert enjoys spending time with his family, reading science fiction, and keeping current in the latest cosmology news.
+Functional Languages and Agile Development at MinneBar 2
+Rough Spots with Agile Development at MinneBar 3
+RFP - an open source, mobileweb voting system at MinneBar 5
+Minneapolis, Minnesota 
+I'm a strategic planner and consultant. I collaborate with clients to design innovative marketing, services and products that reach customers by integrating brick and mortar with e-commerce, social networks and mobile applications.
+In order to build long-term success, I work with clients as they manage change that makes an organization more authentic and true to mission.
+I also write and speak about brand narrative and how influence works on the Social Internet.
+I was SVP Product & Technology, Knight Ridder and COO Ikonic/USWeb.
+The Narrative Platform of A Brand at MinneBar 8
+Rough Spots with Agile Development at MinneBar 3
+Ryan Miest is a partner at the law firm Robins, Kaplan, Miller & Ciresi L.L.P. whose practice focuses on technology transactions, strategic intellectual property monetization, and mergers and acquisitions.  Mr. Miest has represented numerous technology companies in negotiations regarding the acquisition of rights to and sale and offering of digital content offerings, including digital music and video.
+Physics-based Interfaces with UIKit Dynamics at MinneBar 9
+Intro to Drupal at MinneBar 4
+Minneapolis 
+Qonqr (Demo) at MinneDemo 9
+I Think I Want to Be a Startup at MinneBar 6
+Gaming and Gamification at MinneBar 8
+Gamify Your Equity Model at MinneBar 8
+Scott Davis is a seasoned consultant with a decade of consulting experience on both the Microsoft and Java platforms.  Scott is the owner and principal consultant for Ignition Point Solutions. Recent projects for Scott include writing Silverlight 4.0 and Windows Mobile 6 applications, as well as executive-level IT strategy and planning consulting. In addition to consulting full time, Scott is the leader of the Twin Cities Silverlight User Group, President of BizLounge Entrepreneurship Group, and an adjunct instructor at St. Mary's University in the Information Technology Management masters program.  Scott earned an MBA in Entrepreneurship from the University of St Thomas.
+What is Bitcoin? at MinneBar 9
+I am a software developer at Tightrope Media Systems where I mostly work on making software for Digital Signage.  I am also an iOS developer with a few apps in the App Store (HomeGuru and Caar.
+Business - Scott is the current president of BizLounge (www.BizLounge.org) a networking group for aspiring and emerging entrepreneurs.  He holds an MBA in Entrepreneurial business from the University of St. Thomas and is an adjunct faculty member in the Information Technology Management masters program at St. Mary's University.  Scott has been a founding member of 5 businesses. 
+Technical '�_��_ Scott has been a software consultant since 1999, independently employed since 2008.  Scott focuses primarily on the Microsoft technology stack, specializing in Silverlight development, but has worked as a Java developer for a number of years.  Scott is the leader of the Twin Cities Silverlight User Group and a regional conference speaker.  In addition to his Silverlight consulting work, he is currently building an application for the Windows Phone 7 as part of his involvement in a new startup, QONQR.
+Metaprogramming in Groovy at MinneBar 3
+Rough Spots with Agile Development at MinneBar 3
+SmartThings (Demo) at MinneDemo 13
+Making Music Like a Nerd II at MinneBar 6
+Why Emacs? at MinneBar 9
+Selah is a musical dabbler and programmer at Clockwork.
+Creating Crackberry Apps That ''Don't'' Suck : How To and What's New in Waterloo at MinneBar 4
+Mobile App development using Ruby at MinneBar 5
+I am a developer of smartphone applications for Android, Blackberry, Iphone/Ipad, Symbian and Maemo platforms.
+shawn dot butler at beamstack dot com
+Shakopee, Minnesota 
+2 for 1 - Neighborhoods Online and Social Advocacy via Twitter at MinneBar 5
+Geeks Connecting Neighbors - BeNeighbors.org Tech Input Session at MinneBar 6
+Las Vegas, NV 
+Thomas is founder & CEO of clippPR.com, a startup advisor, and a connector for the #VegasTech community.
+He has been a community architect, community cultivator, product designer, social marketer, customer developer, and startup advisor for companies including 500Startups, LaunchRock, Zappos, UserVoice, and Seesmic.
+Presentation and Discussion: Groupserver at MinneBar 3
+Managing your social media with Clove. Get an introduction to building on our SDK at MinneBar 5
+What the F is Social Curation? at MinneBar 6
+Team Digest at MinneDemo 11
+Getting to know BuddyPress at MinneBar 4
+WordPress Geek-Out at MinneBar 6
+Fiery Inferno!!! A web freelancer roundtable at MinneBar 8
+Building Awesome Online Communities with WordPress at MinneBar 8
+Fiery Inferno A web consultant roundtable at MinneBar 9
+The Bet: Why we feel your project is worth talking about and why its costing us at MinneBar 9
+Madrid, Spain 
+When WordPress Gives You too Little and Drupal too Much, Choose Contao at MinneBar 6
+I am a web developer, computer accommodations specialist, and computer support guy in Disability Services unit at the University of Minnesota.  I have used WordPress for a personal project and am trying to learn Drupal for a work project.  During the last year plus I have been using Contao CMS for hosting multiple websites at work and found it to be a great tool.  I am eager to share what I have learned about Contao and learn from others about their experiences with CMSs .
+Wade is an MD/PhD candidate at the University of Minnesota and has 10 years of software development experience in computational biology and web technologies. With a focus on healthcare IT, his current interests include managing large data sets, such as imaging and genetic sequencing information, and interoperability of healthcare information systems using standards-based web services.
+Minnesota 
+Wolf Loescher is a coder, designer, drummer, singer, and record producer (although not usually all at the same time). He exercises the right side of his brain at Brandpoint creating content marketing magic for the web and mobile platforms. Meanwhile, he scratches his musical itches with local celti-cajun folk pop band the Sweet Colleens.
+Minnesota Indie Game Developer Microtalks at MinneBar 9
+I'm a lawyer by training and work at an investment bank, raising capital for later stage companies.  Geek at heart :) 
+More about me: 
+
+Website 
+
+
+Bio
+No bio provided.
+
+
+Sessions
+Zach Valentiner has presented 1 sessions, most recently on 10 May 2008, at MinneBar 3.
+
+
+ Rapid Application Development in Action, Minnesota Daily Finals Edition at MinneBar 3
+
+

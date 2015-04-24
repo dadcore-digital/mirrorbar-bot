@@ -1,0 +1,972 @@
+Online DIY financial tools abound. A handful of straightforward, free sites and low-cost services can help you choose what to put into your 401(k), where to invest your IRA, and how to track your spending and savings, all leading to greater likelihood of an MIT education for your child and/or an expedited retirement for you. We will also cover key questions to ask if you decide to delegate responsibility to your father's broker or your college buddy. I make only a small portion of my income from financial advice, and only through transparent, hourly fees. Bring your last-minute questions on what to do with your 2013 retirement contribution before completing, or amending, your taxes for last year.
+
+Ok, maybe we won't actually cover 101 different things, but... There is so much more to maps on the web than Google, Bing! and Yahoo. Open source tools like OpenLayers and GeoServer, commercial solutions from ESRI or Microsoft, apps like MapBox for your iPhone. I'll give a whirlwind tour of some of the best and easiest to use mapping tools. We'll take a look at OpenLayers, ArcGIS Online, MapBox and Google Fusion Tables.
+Northstar Geographics (NSG) specializes in applied geospatial analysis, web application development, business intelligence services and GIS consulting.
+
+E-Democracy.org can host two short sessions in one slot - Part one will talk about how to connect your neighbors online (previewing two projects - http://e-democracy.org/nf and http://neighbor.be ) led by E-Democracy.org Executive Director, Steven Clift. Part 2 will explore Social Advocacy via Twitter led by Alan Rosenblatt with the Internet Advocacy Roundtable who is visiting from DC (and an E-Democracy.org Board member.)
+
+Makerbot Thing-O-Matic #4966 will be in attendance.
+We'll print stuff and chat about printing stuff.
+Bring questions and curiosity.
+
+
+Do any of these ring a bell?
+
+Many startups fail to succeed due to their ineffective marketing efforts--especially technology companies. These failures are often caused by committing one or more of the 7 Deadly Sins of Startup Marketing. If you’re an entrepreneur, you need to understand each of these sins before you spend your first marketing $1.
+
+Come to this session and learn how bloggers turn themselves into old-school authors. I've mentored authors who've transformed their online work into recipe books, text books, how-to's, memoirs, mysteries, and more.
+Reports of the death of print have been greatly exaggerated, to paraphrase a well-known self-published author (cough, MARK TWAIN.) In the same way that music went from vinyl to tape to disk to MP3 and back to vinyl, readers can't quite abandon the sensory pleasures of the printed page, and indie authors have more power than ever before.
+Cyberspace writers, take note. Your blogs, tweets, status updates, and emails all tell a story. If you've been only sporadically blogging on any topic for any length of time, you've probably fantasized of printing that stuff out and binding into a book. Heck--you've probably written a trilogy's worth of material by now. Best of all, you've already built the platform that an author needs to sell books, so you're five steps ahead of everybody else.
+
+Money. Technology. Chutzpah. A socratic conversation under the following headings:
+CHUTZPAH: - What's your passion? - The enemies of chutzpah (Your house? Your job? Your 401k?) - If at first you don't succeed, be retrospective. - It's a lonely world out there. Find good partners.
+MONEY: - "I don't have the money": the excuse we give ourselves to do nothing. - Get acquainted. There's money all around you. - When the ideas run out, the money follows. - Don't spend money like a corporation.
+
+A Country Club like place for Making Tech Stuff. Interesting? We're building one. 
+It's a launching pad. A tech center. It exists to catalyze a new generation of tech startups in the Twin Cities and to build a culture to sustain it.
+It's not a solicitation environment. It's not a place for service providers.
+
+What is this about? Well, definitely *not* about virtual technology. Visit http://www.youtube.com/watch?v=gA3zqaz3kmM to get an idea of the topic
+
+Come and participate in a brainstorm/discussion on how technology will shape the future of marketing and commerce and how it all will affect our time, our privacy, and our business.
+
+I'm no expert at presenting at conferences, but I do enjoy it. I'd like to share my experiences in preparing and presenting at tech conferences and why it doesn't need to be as scary as it sounds. We'll spend the first part of the session covering the basics, getting the conversation going. If you've never presented before and if even if you have, come prepared to share your own experiences and ask questions.
+
+At the data mining session presented by Dan Frankowski, a significant number of people expressed interest in Processing (http://processing.org) as a tool for data visualization. An ad hoc session was scheduled for an open room in the afternoon (Learn, 3:40 - 4:30 pm).
+Key points of the presentation:
+
+The agile method has been proven effective in the world of software development yet the various design disciplines (information, interaction, visual, etc.) seem to have fallen behind on this. Discuss how agile themes and methods can be incorporated into the work flows of designers regardless whether or not they are working with an agile development team.
+
+
+
+By now you've been exposed to the hype that is Ajax. You've been awed by Google Maps, you've tried Ta-da List, heck, maybe you even know what AJAX the acronym means. In the past we had to choose between difficult to deploy thick clients or feature bare thin clients but today we have a new choice: We can give our users the best of both worlds thanks to Ajax techniques. In this presentation, we'll cut through the hype and help you see where Ajax makes sense in your applications. We'll give you a brief overview of what Ajax is and recommendations for its usage, followed up by tips on how to take some of the pain out of JavaScript. Leading companies are introducing your customers to the possibilities of a richer web experience and after this talk; you'll be on your way to meeting their new expectations.
+
+Programmers spend a lot of time inventing, using, and fighting with abstractions. We give a lot of thought to the technical mechanics of how we make them (OOP! metaprogramming! your tool here!), but don't often pause to consider //what// abstractions are, how they //evolve//, and //why// they do or don't work.
+The late philosopher Imre Lakatos examined these questions in the realm of mathematics, and came to some surprising and profound conclusions, puncturing many widely held presumptions about what math is. His conclusions translate directly into software: they have implications for topics as diverse as API design, requirements gathering, unit testing, the design of whole languages, and the names of individual variables. The same bad presumptions Lakatos uncovered in mathematics help explain the failures of many development methodologies old and new, and provide an answer to the age-old question of why software never seems to be //done.//
+Come join in this interactive and opinionated talk on why you should change your fundamental assumptions about how software happens.
+
+
+
+
+Learn how Groovy and Grails can help you to move into the wonderful world of dynamic languages and convention over configuration without having to give up all your built up knowledge of Java. Groovy is a powerful dynamic language that runs on the JVM and integrates seamlessly with Java. Grails is an MVC web framework that is built on proven and scalable open source frameworks such as Spring, Hibernate, Quartz, and Site Mesh.
+
+An introduction to HTML5, and how it will change the way you build web applications.  
+Demo Site: http://www.livefront.com/html5
+Slides: http://www.slideshare.net/livefront/an-introduction-to-html5-2568048
+
+There's a lot of UNIX commands with funny names that can make your life a lot easier if you know what they are. This is a brief introduction to a few commands like sed and awk that perhaps you've heard of, but never knew what they did or how simple and useful they can be.
+Remember that your Mac is running a flavor of UNIX under the hood.
+
+Been hearing a lot of hype over Android? Come and join us as we talk about just what that little green robot at Google is up to. http://www.android.com/
+We'll cover a brief history of Android, some of the features of the operating system, dig into code and highlight why Eric Schmidt, CEO of Google has said that "Android adoption is about to explode."
+2010 is set to be "the year" for Android. Come learn why and how to develop applications on this up and coming mobile platform.
+
+Secret, Whisper, Rumr, FireChat, and (local MN venture) StartupsAnonymous.com are all about anonymity in an age where we wonder if anything is really private anymore (i.e. Facebook, Google retargeting, Hotmail email snooping, etc).
+Are "anonymous" apps/sites just a fad, or is it a real trend to bring the internet back to its roots (anyone still on usenet)?
+We'll talk a bit about why we started StartupsAnonymous and our experiences running the site.
+
+The strength of your community is the best predictor of your project's long-term viability. What happens when your community is gradually infiltrated by assholes, who infect everyone else with their constant negativity and personal attacks? This talk will teach you about the dramatic impact assholes are having on your organization today and will show you how you can begin to repair it. We'll discuss successful strategies that have worked for me and for your fellow attendees for both measuring the magnitude of the problem and fixing your communities.
+Slides
+
+Tame slow responses, queue long running tasks, have a cup of coffee, query the social graph and meet a couple of nice guys. All this and more can be yours. Learn how to use mongodb as a broker for celery in python. Talk to the graph asynchronously using celery tasks written in python. Read your Tweets to update other internal systems, also in Python. Be more responsive for your users. Responsive web isn't just for UI, it's for life.
+
+Infrastructure as Code, DevOps or insert catchy title here are all things the kids are talking about these days. This session will be for anyone interested in learning the benefits and reasons for infrastructure automation using Opscode Chef.
+During this session I will walk you through the basics of starting with Chef. Together we'll walk through the ins and outs of setting up your Chef repository and deploying configuration management and automation to your environment. I'll be happy to answer questions on best practices and use of Chef. When we're done, I'll show you how to launch 10's, 100's or 1000's of machines in minutes, from nothing.
+This session should please all levels of experience who are interested in Chef. Start putting more dev in your ops.
+
+Good web design is about appropriateness * appropriate colors, layouts, actions. Now, there are dozens of ways to use more appropriate fonts and typefaces on your website.
+SiFR, Cufon, CSS's @font-face (like my own Kernest), and a bunch more.
+Let's explore the different methods and dig into the appropriateness of each method of adding a custom font to your website.
+
+Finding one font is fun. Finding a second font and third font that both go great with the first - is the challenge. And while computers can win game shows - they haven't yet developed the aesthetic sensibilities required for picking great font combinations.
+In this session we'll discuss some methods for creating better, more complimentary font pairs - whether online or off.
+
+
+If it's not completely clear yet, the actual "paper" forms of the morning, afternoon, and evening newspapers will cease to exist sooner rather than later. Yes, it's wonderful to read the New York Times in bed on a Sunday morning but we can't sustain both the real and the environmental cost of getting that paper to your bed when we have an Internet primed for free delivery to a screen of your choice.
+In this session, I want to discuss community news dissemination at the hyperlocal level. I can share what I'm doing today with the Seward Profile in the Minneapolis Seward Neighborhood and what I want to do. I hope to get new ideas and feedback from you. Can we rebuild the twenty-first century news infrastructure from the bottom up? What else besides news is a strong online neighborhood presence good for? (I'm thinking reflecting the fabric of the community itself and creating an ongoing documentary of its life force.) Can we create a system of distributed hyperlocal sites and share ways of engaging community and kick-starting crowd-sourcing? Can we mashup existing tools and create new services to benefit everyone? (Jon Udell's Elm City project) What are some of the tools we can work with? How can we actually engage community to step beyond reading to writing and posting? Can it all be done at very low cost and not rely on advertising?
+To prime the pump, you can check out my proposal submitted to the Knight News Challenge last year. It fell just short of the final fifty for funding. It's still very much a work-in-progress.
+
+DevOps tries to help organizations rapidly produce software products and services by dissolving unnecessary boundaries between development and operations teams. I believe DevOps is a necessary but not sufficient step in meeting the tremendous challenges currently facing IT. This presentation will tie together trends in Cloud Computing, DevOps /NoOps, Lean, Service Design, and the Consumerization of IT to define an approach to software services where delivery teams, from marketing and design, through development and QA, to operations and support, are radically aligned with each other and with the customer. In addition to surveying the trends that make it necessary, I will also describe the activities and behaviors that characterize User-Centered IT organizations.
+
+Apps are so 2011, yet too many of us are locked into developing for 1920 x 1080 pixel (and smaller) screens. Recent products like Coin, Google Glass, and Pebble are only the beginning of this trend. Whether they're wearables or Bluetooth-connected hardware, connected devices are changing the way we live, work and play.
+Mobile-connected devices have expanded video off smartphones, moved inputs externally and have made smartphone our preferred computers in less than a few years. We look at how they've driven down development costs while driving up innovation. Well also review many B2C and B2B examples. And we'll cover tips on where you can start in this rapidly expanding mobile niche market.
+
+Bootstrapping is not only a necessary step in building many companies, it is becoming a viable "financing" option.   This program will cover the current factors driving an increase in bootstrapping as well as lessons learned about how and how not to bootstrap a start-up.
+
+Entrepreneurs are built to uncover and exploit opportunities. With this inane skill come bad habits that can lead us into money-losing endeavors: focusing on too many target markets, not testing assumptions and using infrequent marketing tactics. Any one of them alone would be a drain on your hard-earned cash reserves.
+This session will showcase the Bowling Pin Method for Segmented Growth. This is a disciplined process that narrows your target market(s) into segmented niches, refocuses development efforts, leverages lead generation to build sales pipelines, and nurtures prospects into customers. This common sense approach focuses on a disciplined, gradual process for helping startups of any size grow their sales.
+This ongoing process can start producing within 90-120 days, and lead to higher market share, more profitable sales and easier entry unto new markets over time.
+
+Once existing only in science fiction, brain-computer interface technologies have advanced rapidly over the past decade. Research institutions are conducting experiments which just a few years ago were science fiction; legal scholars are examining the privacy and evidenciary ramifications; advertisers are using them to test out campaigns; and the commercial price-point for certain technologies has become attractive enough for consumer-products and amateur researchers to perform wetware hacking.
+This session will provide an overview of a complex and rapidly growing field, which is an important part of the technological future, and will touch the areas mentioned above. In addition, a demonstration of some of the currently available commercial technology is planned.
+
+Q&A session with Dan Schwarz, CEO of Lift Bridge Beer Company and a software developer. We will start out talking about the brewing process, how we got started in the beer business and how we leverage software brewing, distribution and marketing.
+
+
+Build and Deploy Ridiculously Advanced MediaWiki Websites Slides
+
+What's involved in developing a new file system? What tools are available to help design, develop, and test file systems?
+This session is a conversation about how new technologies and new opportunities drive innovation in file systems. I'll be speaking based on my experiences at Tintri and Kealia, but I welcome other perspectives as well--- please feel free to join in with your own experience, ideas, and questions!
+
+This presentation will explore a few of the many curious details and pitfalls of building the infrastructure for a global Content Distribution Network (CDN) in-house, with Open Source software and a minimal budget.
+From the basics of how the Internet really works - BGP routing - to NSA surveillance, obscure Murphy's Law corollaries, and forming Finnish corporations, no trivia will be left unmentioned and no business case can possibly be justified.
+
+
+
+You've written a bit of jQuery. You understand its power and appreciate the ability to easily navigate the DOM, do some event delegation, and maybe even perform an Ajax request. But you've found yourself in need of a plugin. You've spent plenty of time searching for just the right one, but can't seem to find the perfect match. It either does too much or too little, and modifying these already complete plugins may be far more work than its worth.
+So you've decided to write your own. Youre ready to apply your back-end developer mindset to a front-end problem. The only trouble is you don't quite know where to start. How do you define your plugin? Which jQuery selectors can you attach? What about a callback or options?
+This talk will discuss when it may be appropriate to reinvent the wheel and how to tackle the solution with future scenarios in mind. We'll remember our JavaScript best practices as we develop a simple plugin that will add some options and even implement a callback.
+
+It's very easy to complain about who is missing in the sea of faces at your typical tech conference / group / company. Complaining isn't enough. Tips for:
+
+I know some things about building applications for the web. There is much more that I don't know. I'd like to chat with others who know some things in a discussion-oriented session about what goes into planning, marketing, designing, and building web-based products.
+We can share stories of failure and success and collectively learn what has worked and what hasn't.
+
+Wordpress now powers over 12% of websites and it's used by so many people you'd think it was simple to make it bulletproof, secure and to run perfectly. While that is possible, it takes some knowledge and understanding to make it so.
+In this session we examine:
+
+Rich Hoeg will lead a discussion about the evolving field of business apps for mobile devices. Come prepared to discuss what your organization is doing in this area, and what development needs you perceive. In addition, Rich will review Honeywell's fledgling internal corporate apps store which includes both internally developed apps, as well as links to publicly sold apps. It may be interesting for "non corporate types" to learn how a traditional manufacturer is approaching this domain space.
+
+Minnebar 2011's Standing Room Only Smash Hit!
+Have an idea that could be a business? Need the right team to go further? Want to hear about idea stage business ideas that you could be a part of?
+Participants will present a handful of business ideas, answer and ask questions. Come participate and maybe you could be a part of to be the next big thing. This will be one part dueling idea cage match, one part gong show, and one part of speed dating for ideas and individuals who would consider being part of a start up business project. Entrepreneurs, Developers, Geeks, Techies, and people with ideas are all welcome.
+
+Have an idea that could be a business? Need the right team to go further?
+Geeks, want to hear about idea stage business ideas that you could be a part of?
+Participants will present a handful of business ideas, answer and ask questions. Come participate and maybe you could be a part of to be the next big thing. This will be one part dueling idea cage match, one part gong show, and one part of speed dating for ideas and individuals who would consider being part of a start up business project. Entrepreneurs, Developers, Geeks, Techies, and people with ideas are all welcome.
+
+When you "buy" e-books, movies, and music, what are your legal rights? When you finish an e-book, can you lend it to friends -- like with you can with physical copies? If you don't listen to a digital album any more, can you sell it? And when you die, can you pass along your digital assets? In this fast-paced session, a tech lawyer will discuss these and other cutting-edge legal questions.
+
+Corporate use of NoSQL systems has increased dramatically over the last few years. Best Buy has implemented multiple systems using various NoSQL engines. In this presentation, we will take an in depth review of how BestBuy.com uses both Cassandra and Riak to solve business problems while meeting the technical demands of one of North America's largest online retailers. We will review two solutions, one using Cassandra and one using Riak. These solutions are highly distributed and highly responsive while serving specific business needs. We will provide an overview of the main lessons learned along with best practices we have developed in our journey.
+Joel Crabb and Kannan Swaminathan presenting from BestBuy.com
+
+If you are involved with web or mobile technology in any way (or if you just pay attention to the world) you know that the industry is constantly in need of talented programmers and designers. Employers struggle to find, hire, and retain talent. Employees flounder when trying to evolve their skills in order to remain relevant. It's possible that the solutions to these problems are much more subtle than we think.
+Drawing from anecdotal evidence as well as research, we'll address the following questions and topics:
+
+Recently, mass-produced hardware originally intended to receive digital TV in Europe has been discovered to function as an inexpensive general-purpose radio tuner. Hobbyists have written tons of software to let you listen in and decode a variety of signals sent over the airwaves. Plug a device into your USB port, hook up an antenna, and you have a cheap, wide-coverage scanner or shortwave radio at your disposal - the result is fun!
+You won't need a degree in Electrical Engineering to get started, and you especially don't need a pile of money or a bunch of gear.
+We'll explore some basic radio concepts and a bunch of neat things you can do with a $20 device and an antenna: listening to conventional broadcast radio, tuning in to ham radio operators and shortwave radio stations around the globe, tracking nearby aircraft, decoding various digital transmissions, reading your weather station, and more!
+
+
+Clojure is real-world Lisp for the JVM (and soon, the CLR). As a functional language with a built-in Software Transactional Memory system, Clojure is ideal for today's highly concurrent architectures.
+In this presentation, I'll introduce Clojure as I have learned it, by building a simple Bayesian classifier. This will be an introduction to the language by a fellow newcomer.
+
+Come answer all your burning technical questions about what the heck are these DogeCoin and CatCoin things, how they work, and what they do by doing a CopyCatCoin hackathon.
+We'll select an internet meme, clone the Catcoin/codecoin source repository, and start hacking.
+Will it function? Probably.
+
+Rich Hoeg, who leads collaboration and web 2.0 projects for a large Fortune 100 firm will lead a session of the use of enterprise 2.0 tools inside the firewall. Rich will demo some of the collaboration tools used at his company. Participants are encouraged to bring their own laptops, VPN connections and ability to share!
+In addition to reviewing collaboration tools such as Confluence, SharePoint 2007, Yammer, etc., Rich will run a live Google Wave session (and keep the Wave rolling through the entire day). More details will be posted later via this wiki page, but my Google Wave account is: richardhoeg@googlewave.com
+Rich may also be contacted at RichardHoeg{dot}GMail{dot}com
+
+I tell my students that graphic design is rarely a matter of life and death, unless you're designing freeway signs. However, when it comes to what we consume on a daily basis, the design of our food and its packaging seems to encourage us to make unhealthy selections. Have our expectations trumped our common sense? What role do color and other design elements play in our purchasing decisions? And, what is the responsibility of the designer in all of this?
+This session will aim to spur discussion on the ethics of design, consumer habits, and color theory in practice. I certainly don't have the answers, but there are questions that need to be asked.
+
+Hot-Neutral-Anchor is an approach to generating color schemes loosely based on the HSV model. It doesn't deny the merits of the 12-point wheel of subtractive color or the venn diagram of additive color. These are valuable tools, but they focus entirely on hue. Hot-Neutral-Anchor focuses on differences in saturation and value to create rich and balanced combinations.
+Hot-Neutral-Anchor isn't anything new, and for many of us it's probably something we do intuitively. It's mostly a labeling mechanism that creatives and non-creatives can easily understand. And, it's completely flexible and modular.
+All this said, it's just one approach to generating and identifying color schemes. My approach. And it's still new to me. And I'm still deciding whether it's valuable or not.
+
+What is life like as a contract developer? How do you set prices, get projects, build a team, and enjoy your work, without running out of money? This talk is for employees interested in freelancing, freelancers interested in building a consulting company, and companies looking to grow. It will be based on my experience building Slantwise Design, a small shop that specializes in web design and Ruby development. But we'll also talk about your experiences too.
+
+
+Content is a banquet, be that a fancy feast, all-you-can-eat buffet, sliding-scale vegan fundraiser, or maybe just an endless highway of fast food joints. Digital content is consumed on impulse, from desire, with abandon, and in real time, real fast, across a multitude of devices. How can content managers and engineers keep up with the demand effectively and efficiently?
+Content Strategy is a methodology for planning, assessing, sourcing, assembling, delivering, managing, reusing, and governing content through media channels. Content Strategy has evolved from an information architecture for enterprise content through a turning point in web content to a savvy approach for multi-channel marketing and communications.
+Hear Content Strategy trends. Learn about tactics. Consider some tools.
+
+A creative and collaborative environment with developers from a wide range of organizations working and sharing ideas does not have to end after Minnebar. We will have a discussion to promote and guage interest of how a Coworking environment might succeed in the Twin Cities area. We will also discuss how this concept of working space could be applied to other industries as well. The Coworking WIKI, defines Coworking as: cafe-like community/collaboration space for developers, writers and independents.
+
+Learn a truly break-thru technique for improving your brand image with integrated Social Media VISUALS. How you LOOK and present yourself has everything to do with whether they reach out to you or move onto someone else.
+This high-energy session starts with LinkedIn (profiles, company pages) and then expands to Twitter, Facebook, Google + and YouTube.
+You will learn the formula
+
+Creating a Minnesota Focused Early Stage Tech Investment Fund for entrepreneurs by entrepreneurs Out of the Box Thinking/ Brainstorming / Group Discussion (not presentation). Must remember: 1) Not all ideas or teams should be funded, 2) fund must provide a risk adjusted return to investors.
+
+This session will cover the ins and outs of creating applications for the latest and greatest generation of Blackberry devices.  It's BarCamp so the contents of this session will greatly depend on what //you// want to talk about.  I'll plan on talking about getting started with the basics of native Blackberry development but we could skip to more advanced development topics, making big monies on themes, avoiding App World deployment headaches, Blackberry widget development using standard web tech (xHTML/js/CSS), etc.
+If the right crowd shows up code might rear its ugly head.  
+And with the BB Dev Conf announcements we can finally talk about how to use the latest and greatest enhancements rolling out of RIM HQ:  JSR 239 and OpenGL ES(finally!), Forward/Reverse geolocation, Push API for the dirty, unwashed masses, and Flash, oh my.
+
+This is a brainstorming session about passion. We all want to make a product that takes on a life bigger than it's self, but how do we do that... What makes us passionate about something? How can we turn our users into fans? What inspires culture around a product? What feelings do our products create? How can we use these ideas in our own development?
+What are you passionate about? Come prepared with some ideas!
+
+There are lots of crowdsourcing platforms out there, including Chaordix, IdeaScale, CrowdSpirit, Zyrist, and MobIncentive. Anybody actually implemented one? Anybody know what works and what doesn't? The idea seems simple enough, but obviously the platform and its capabilities, stability and extensibility can affect the success of the crowdsourcing effort. Let's learn from one another about what makes a good plaform, and a good crowdsourcing project.
+
+So you've heard of CSS frameworks, want to find out what the fuss is about? I will show reasons for and against using CSS frameworks like Blueprint CSS  or Yahoo! User Interface. This session will be geared towards anyone that really really likes web sites! .
+
+Garrick van Buren will be discussing how Cucumbers are the future of interaction design artifacts, prototyping, and User Experience design. No programming or illustration ability required.
+
+The buzz about curation is alive and well among us. Does it change anything you're doing? What's the value of curation? Is there any power in limitation?
+
+I will lead a discussion of around different approaches to metrics driven User Experience Design with at the intersection of mobile games, adverstising, and innovation. If metrics driven user experience design, mobile games, advertising are of interest to you please come the presentation and discussion. Please bring thoughts or questions about how you measure the success of the design decisions and what your framework is for measuring and managing those choices are.
+
+We will review the basic requirements for data centers.. The Critical Infrastructure components of: SPACE, POWER, COOLING, NETWORK and SECURITY. What options do you have and why you might choose one vs. the other? Deploy in your office, a collocation data center or the cloud?
+Together we will discuss the following questions:
+
+Notes from the completed session: Blog post. Original session description:
+Data mining, machine learning, data crunching, different names for the same thing: wading through piles of digital junk looking for treasure. When do people actually do this in a business setting in the Twin Cities? What techniques do they use? What results have they gotten?
+This will be an OPEN DISCUSSION. I will bring a couple of notes, but no slides, no prepared material. I stand to FALL FLAT ON MY FACE if no one else has anything interesting to say, so please come if you are interested in data mining, especially if you've done it or want to do it in your job.
+
+Software-as-a-service is just that: a service. It should be designed as such. SaaS is also unique in the velocity with which it changes and evolves. The delivery of new functionality is one of the major touch-points through which customers experience software services.
+Design, Development, QA, and Operations all have to work together to make the software delivery process efficient and meaningful. I would like to facilitate a discussion about how to dissolve boundaries between these disciplines using techniques such as Service Design, Agile, Behavior-Driven Development, and DevOps.
+
+What do web designers face today, what are some current trends that are good and what are some that need to fade away, what do we see coming in the future.
+
+Is your next web app build to be used or looked at? Will people want to use it the 5th or 6th time? Bring your projects and leave with napkin sketch wireframes. This is a working session on designing front-end interfaces to make people smile.
+
+The SmartThings open platform allows you to control things in your home by writing your own SmartApps and DeviceTypes. This session will focus on some of the more advanced techniques used by people building the platform; sort of an insider's "tricks of the trade" session. There will be a lot of code in this session so a moderate understanding of SmartApp development is expected. Based on general interest, we will go in-depth on some of the following topics:
+
+Since a 2009 start in Belgium, DevOpsDays events around the world have become a key venue for developers and operations professionals to meet and exchange ideas about their DevOps practice.
+This July 17-18, DevOpsDays is coming to Minneapolis! We'll have two days of single-track talks and Ignite presentations about DevOps tools and culture, as well as Open Space attendee-directed round-tables. Join your local organizers for a panel discussion about their involvement with DevOps and a Q&A about the current plans for this summers event. Offer your input on what you'd like to see at the first Minneapolis edition of DevOpsDay!
+
+An introduction to Scala, with practical application sprinkled in. Some language examples of interesting FP and OO features; some discussion about practical Scala usage today, and  the implementation details of Scala that make it a realistic contender on the JVM.
+
+The push for free online services and apps have given rise to an ecosystem of organizations that track, cross-reference, compile, and then resell you to advertisers.
+
+The Dojo Toolkit is the standard library Javascript never had. I'll talk about Dojo's package system and some of the more popular packages for doing Ajax and Widgets. Since Dojo is huge, this will be an overview, but if there's interest, I can give a second talk that dives deeper into Dojo.
+
+Lean thinking is washing over how we build, first in manufacturing, then in software, and now, how we fundamentally build businesses and new products in the Lean Startup movement. But what if youre tasked with building new products or business not in a start-up but, gasp, in the enterprise?
+In this session, Ill outline a few principles weve used to guide a lean path within Pearson VUE, cover lessons learned (good and bad), and tactics you can employ to bring this approach to the day job.
+Well conclude with a group brainstorming exercise intended to add your expertise to the equation, and give participants a chance to grapple with the tactics. Bring your passion for making a difference in any setting!
+
+Conventional value investing looks for stocks with the lowest price/earnings ratios or price/book value ratios. Unfortunately, earnings and book value have too many inequities that hinder apples-to-apples comparisons and are sometimes even manipulated through discretionary accounting methods. As a result, many of the bargains in the stock market are mirages.
+Doppler Value Investing link uses free cash flow and the net liquid assets on the balance sheet to calculate the estimated intrinsic business value of a stock. Free cash flow and net liquid assets are less dependent on arbitrary accounting methods and are more difficult to manipulate. These yardsticks provide a much more accurate picture of a company's performance and financial soundness than the conventional yardsticks like earnings and equity.
+Just as Doppler weather radar reveals tornado vortex signatures and other weather features that conventional weather radar does not, Doppler Value Investing reveals warning signs that conventional value investing does not. Doppler Value Investing helps you to see what Warren Buffett sees and why he's willing to pay higher price/earnings or price/book multiples for certain types of companies but uninterested in buying other types of companies at any multiple.
+
+Meet 3 Drupallers who use Drupal for various experiments. These experiments will show how Drupal can be used as a framework for building community applications.
+Presenter Line Up
+
+JAMF Software manufactures the Casper Suite, which is an enterprise toolkit for managing Mac OS X. A brief overview of primary functions of the suite will include zero touch OS X deployments, modular image creation, post fix automation and license compliance. The Casper Suite is used in leading organizations in business, education and government and is developed in the Midwest with headquarters in downtown Minneapolis.
+
+During the SOPA blackout we all learned that we shouldn't send a HTTP Status 200 for a blackout. Everyone knows what a 404 is. And most of us know the difference between a 301 and a 302. But there are over 65 HTTP status codes! We live eat and breath the web and we had better know what these status codes mean!
+In this session we will quickly go over every HTTP status code, what it is for, why you use it, etc. This will be part informational and part theater as we try to make it through each one in the 45 minutes allotted us!
+Be on time!
+
+This session will explore the current capabilities of Near Field Communication technologies on Android. We'll cover the basics, look at NFC's limitations, and consider what it's good for. Finally we'll see how developers can use NFC to enhance their apps or just create something fun to play around with.
+
+Where is it all heading with respect to: Advertising, Technology integration, User Experience, Monetization opportunities
+Lets spend some time sharing experiences as well as lessons learned in integrating them together. Specific topics to cover: Best Practices, Integrating Advertising, Anonymous users vs. Known users, App/Tab duality, Current limitations
+Format will be to kick off a topic and create a group discussion atmosphere where everyone can participate.
+
+Think you're hip and cool because you know Rails and your job is safe from being outsourced? You're wrong. Know why I know? Because for the last six months I've been sending your job to India. I also know why it doesn't work and what will. Come hear why Ruby on Rails and the midwest can save the enterprise.
+
+Being a web consultant ain't always peaches and cream. Come to this session prepared to talk about the challenges (and successes) you're having in your business.
+Things your fellow business owners might want to hear from you about:
+
+
+As the complexity of systems and systems of systems has increased, so has the need to accurately model their behavior, predict their feasibility, and train users via simulation. Accordingly, simulations themselves have reflected the increased complextity of the systems they model, and have moved beyond a monolithic computational model to a more distributed and interactive model.
+This session will provide an introductory overview of the Distributed Interactive Simulation (DIS) model.  DIS "provides an infrastructure to build large scale-simulations for the simulation of highly interactive activities by interconnecting several types of simulators via a network."  We'll look at the history of DIS, some of its IEEE standardized protocols, dig into some code, and try some examples.
+This session should be of interest to those with an interest in scientific computing or  MMPOG/MMOG development.
+
+This is not as much a session as it is a bulletin board. Trying a very low tech approach using a white board or craft paper posted on a wall somewhere in the venue. Individuals can leave a note indicating what their looking for and contact details. Others could view this and make a connection that very same day.
+ie. Business founder looking for tech co-founder, current product written in asp.net and SQLServer. idea is in the relationship management space. If interested contact Jon at jon@insphere.co or txt 651 353 9488.
+
+Ready, Fire, Aim is too common of the practice for tech startups. I'm sick of seeing great technology without one damn solid market, bad products with great customer prospects, and jimmy-rigged bloatware that no one wants.
+This session is not about the latest marketing tactics or cutting-edge tactics. It's not about cute social media tricks that will score you cult status. And it's not about leveraging your CRM or ERP or @&#$! implementation to increase your ROI.
+It's about getting your shit straight before you even consider crafting that first line of code. It's about understanding your prospect before you start brainstorming your brand. And it's about using common-sense logic upfront before you waste the next six, 12 or 18 months of your life creating crap.
+
+The Adobe framework Flex based upon Flash has been getting a lot of buzz. Come join this discussion to find out why
+
+Last year I spent my morning and afternoon commutes hacking away on a side project http://www.whenworksforyou.com using Groovy and Grails. Come learn about how I pushed myself over the "I should really find the time to..." hurdle and actually got something up and running. I'll talk about some of the obstacles I encountered along the way and discuss some of the benefits of bringing a project to fruition.
+Do you have a pet peeve you think you could solve with software? Are you working on a side project? Come share your experiences and be motivated (or help motivate others).
+
+Besides bringing us Linux, Drupal, Wikis and WordPress, open-source culture can take credit for giving birth to the current coworking movement.
+Up from approximately 300 spaces at the end of 2009, there are now over 1,200 collaborative spaces around the world. One analyst predicts 10,000 such spaces in the U.S. alone in the next 5 to 7 years.
+But it's not just coders driving this movement. We're seeing new kinds of collaborative spaces opening up, including commercial kitchens, industrial design and machine shops.
+
+I have taken on an ambitious goal of raising $25,000 towards funding Lymphoma research at the Lymphoma Research Foundation (LRF). The unique thing about this is that I am planning to do this entirely on the social media - Twitter, Facebook etc. I am doing this since my father passed away from Lymphoma and during his illness LRF was very useful in supporting us. In this session, I want to share what I have done so far and poll the audience for what other strategies can be used to get to my goal.
+My effort has been documented in Social Media for Healthcare here
+
+Startups aren't free. It costs a lot to get a startup off the ground, even if the only cost is your time. So how do you do it? In this session, we'll talk about the various options, including:
+
+
+Talk about XNA and game development for Windows, Zune and the XBOX 360.
+
+
+
+Gearman is a (a)synchronous job queue that can help your website scale. From image and video processing, to emails, previews and more. Using gearman can help you scale the possibilities. Never again will you be angered at cron running every minute; ensuring correct locking mechanisms to prevent race conditions, not making use of the time to run through jobs immediately and simply managing them to the correct users cron.
+This talk will go over general implementation of gearman, optimizing the workflow through code, looking at the short comings and how to handle them and eventually ending up at keeping your workers / daemons running.
+
+In past years we've presented on community participation online on public Neighbors Forums, now E-Democracy.org is looking to create a brand spanking new service that connects nearest neighbors online. Think electronic block clubs, National Night Out - but online and on-demand, and general goodness that comes from neighbors knowing neighbors.
+See the http://BeNeighbors.org open source style online working group for our recent how should we build an Alpha quickly and cheaply to test the core concepts.
+In this session, the project concept will be shared and then we will dig in on technology options and ideas. Contact Steven Clift - clift@e-democracy.org - ahead of if you would like a copy of the full concept outline before the session.
+
+We believe that success in life and work requires skill and capacity in the Three Cs for Success: CLARITY, COMMITMENT and CONNECTION. Our experience has demonstrated that the probability for success in achieving personal and/or professional goals is directly related to CONNECTION as defined by the number and strength of relationships in four resource domains (family, peers, academic/professional and organization/community) in addition to the degree to which individual resources within each domain value and promote a specific goal.
+During this engaging and interactive session, participants will learn about and practice using a resource tool that the presenters are currently developing for youth and young adults that combines social mapping with traditional networking to help participants identify gaps and the right resources. We also believe the RESOURCE MAPPING process may be a benefit for everyone, including all levels of managers and employees to identify a sustainable resource network and design alliances with key people to establish goals, accountabilities and commitments. Participant feedback will be solicited to strengthen the value of the RESOURCE MAPPING tool for the original target market.
+To get to know our work visit: www.mindfulinnovation.com
+
+We use mobile apps everyday, in every context, and in every mood. More than ever, the design of mobile interfaces affects our experience and engagement with brands and the services they offer. Mike will discuss strategies for making a human connection through design when building a mobile product.
+What will I learn?
+
+An introduction to CSS3, and how to start using it right now. If you want to. But only in some browsers. And only for little design elements that you can do without. And only if you're comfortable explaining your design strategy as "progressive enhancement". But seriously, you should come to this session.
+
+In this session we'll run through everything you need to know to get started developing for the iPhone or iPad. We'll spend most of our time walking through a tutorial development project, but we'll start with some high-level information on how to get started, things to watch out for, and things to think about in marketing your app.
+
+You need to build an app, and you need it to run everywhere. And you need it now! jQuery Mobile gives you the ability to write once and run everywhere. In this talk, we will discuss jQuery Mobile's advantages and unique features. We will also talk about jQuery Mobile design strategies, highlight many tips along the way, and see how to get up and running quickly.
+
+'UPDATE (11/23/2009) Read the notes/summary from this session.
+In this session, I will demo some of the cooler features of BuddyPress and share my experiences developing and designing for it as well.  There will be plenty of opportunities for discussion and Q&A in this session.
+BuddyPress is a Wordpress plugin that turns any WordPress Multi-User installation into an online community website like Facebook or Ning.
+
+What happens when you and a small-town city councilman propose a municipal Gigabit FTTP deployment to each home and business, but the rest of the city council is reluctant to spend money for a feasibility study which would tell how much the deployment will cost until they know how much the deployment will cost? And they don't believe the build-out costs of other deployments reflect the local build-out costs?
+This session will show how to go about answering these questions using public government data, PostGIS, pg_routing and Google Earth.
+
+We all love attending events organized by the minne team, but there is never enough time to meet everyone at the events. Plus, if you are anything like the stereotypical geek, then you might be a little (or a lot) introverted. Well, this is the session for you! We get the crowd to connect with each other in a fun and energetic way through speed networking.
+What is "Speed Networking"? Speed Networking is an efficient, face-to-face professional networking model that enables participants to make new contacts through one-on-one focused conversations lasting between 3-5 minutes.
+How speed networking works: Its organized chaos loud, energizing, and fun! Participants are split into two groups and face each other. The person sitting across from you is your first partner. You spend no more than 5 minutes with each partner (1.5 minutes for each person to speak plus 1 minute for questions) before the bell/horn/whistle indicates that time is up and the designated side of the table is told to move one seat over to face the next person. Once the speed part is over, theres time later for people to reconnect with those they wanted to talk to in more detail.
+
+You can view Nena Street's presentation online: http://prezi.com/jeu1t11rlkfg/ri/
+Nena Street, from Robotics Innovation, will discuss her efforts to build a research park/business incubator for the robotics industry in Minnesota.
+Robotics Innovation is working in collaboration with public and private parties, including ReconRobotics, Inc. and Robotics Alley, to build the Global Robotics Innovation Park (GRIP). GRIP will contain light industrial, office and laboratory facilities for high tech research, development, testing and evaluation (RDT&E) of robotics and automated systems, and related business incubation, classroom and event space.
+
+Everybody knows social media is only good for advertising, marketing, sales prospecting and branding. At least that's what most large enterprises think of when they think about social media.
+The reality is there are many other places where social media can help support the enterprise, from product development to employee retention to crisis communications, and more. In fact, in the socially-optimized enterprise of the future, social computing will be as pervasive as email is today. So what will that enterprise look like, and how will it benefit from going social?
+Social Media Performance Group has been building an Enterprise Social Media Framework ™ (ESMF) to map out touch points throughout the typical enterprise structure along with best practices and case studies. In this session, we'll share some of the draft framework and listen to your ideas for novel uses of social computing to solve business problems.
+
+
+Let's talk about tech, government, civic engagement, transparency, and all that stuff.
+This isn't going to be a presentation.  Maybe you have an idea you want to talk about?  A project for which you would like to find collaborators?  I have some of these too.  But we're all equally special, so while I will prepare some conversation starters to avoid awkward silences, I'm hoping those won't be necessary.
+
+
+Software and web development shouldn't happen in a vacuum -- it's all about a community ecology. Ecologies take care and feeding. A concept we've been exploring to grow our local community is Etienne Wenger's "communities of practice" model.
+Using the multi-faceted local Drupal community as an example, we'll discuss how local groups can organize and thrive.
+We'll talk about the elements of a sustainable local ecology and how to maintain them:
+
+This panel discussion will revolve around the trials, tribulations, and triumphs of launching a technology start-up company in the mid-west. The point of this session is enlighten and encourage those who want to participate in a start-up, while at the same time giving those who attend a candid overview of how start-up life really is.
+The session will be led by the 28-year old Founder / CEO of SwapBeats, Inc. (www.SwapBeats.com), David Atkinson. Quietly flying under the radar for the past three years, David has been able to get his Minneapolis-based start-up privately funded, and has grown the Company to a team of 12 over the past 8-months. The journey hasn't been all sunshine and smiles, and having traveled an exciting but bumpy three-year journey to arrive where the Company is now, David and SwapBeats' CTO, Seth Viebrock, will discuss some of the lessons they have learned along the way and their current approach to the business.
+The discussion topics may include, but are not limited to:
+
+Learn proven techniques that drive distribution and revenue generation for mobile applications. Marketing starts prior to submitting your app to the App Store. Build in features that truly engage the user for viral and repeat traffic that gets apps to the top of the charts as well as features to increase revenue. The next step is getting approved for the App Store learn tips to increase your chances.
+
+With so many startups banking on ad-based revenue models, a panel from ad agency Fallon is here to answer questions about how agencies and their clients really think.
+Fallon's clients include Cadillac, H&R Block, Travelers Insurance, Totino's, Purina, the Cosmopolitan of Las Vegas, and NBC Universal, and all of them are investing more time and money in digital platforms. Accordingly, Fallon has some questions for the startup community, too.
+
+Modern graphics processing units (GPUs) are enormously powerful. Though designed for specialized graphics tasks, they can perform general-purpose computation often far faster than CPU-only code. However, GPU programming requires not only specialized technical know-how, but entirely new algorithms. It comes with a steep learning curve.
+This talk gives you a boost up that learning curve. We'll get into the nitty-gritty of a practical example, using the iPad's GPU to speed up the most critical computation-intensive task known to humanity. (Fractals, of course. What else are computers for?) No prior knowledge of iPhone OS or graphics programming needed.
+Although this talk examines an iPad / iPhone example, the code examples apply to all OpenGL ES 2.0 platforms, including the latest Android and Palm devices. The principles apply to all GPU computing. Cool pictures included.
+
+Check your Minnesota nice at the door and break out the alter ego for a candid yet pragmatic conversation about the circumstances surrounding Minnesota's startup community and (by extension) the future of Minnesota tech. A working framework will explore the concepts of:
+risk-heritage-entrepreneurialism-capital-media-legacy orgs-competition-leadership-strength-weakness-opportunity
+Facilitated by two Minnesota entrepreneurs passionately committed to seeing early-stage Minnesota tech be all that it can be, this session poses one simple question with no easy answer.
+
+You've got a great idea and cobbled together enough seed money to start building something. The next step is hiring a developer and rolling in the $ \$ $.
+Unfortunately, things rarely work out this smoothly. Software is a complex world where mistakes are easy to make and costly - especially for those who new to the industry. It's easy and common for entrepreneurs to spend their entire development budget and have no product to show for it.
+In this session we'll talk about how to avoid the costly mistakes that can tank your company before it gets off the ground. I'll bring war stories from 20 years as a developer & consultant. Experienced entrepreneurs should bring their own experiences to share with those learning the ropes.
+
+I'll talk about how easy it can be to localize and internationalize your PHP or CakePHP application. Discussion of some of the major hangups and hurdles.
+
+This session is for anyone with a B2B software product that is interesting in improving their success rate in acquiring new customers. I will be using coaching materials from internal sales development workshops I have organized at NativeX. We will cover the basics of the Solution Selling framework, and then apply it to real world software sales examples.
+
+Bad job? No job? No problem.
+Learn 5 high-tech and no-tech secrets to real job security from Minnesota Headhunter, Paul DeBettignies, and Star Tribune Careers columnist, Kevin Donlin.
+Here they are ...
+
+Hear the employer and the employee side of a case study involving networking skills, Product Camp and the ability to never, ever give up.
+
+Most of us are evaluated on the Profit and Loss for our products and as such are well versed in the mechanics of determining the optimal price point. What happens when that price point is free? Research shows that .5-2% of consumers actually pay for their software, which leaves 98-99.5% using the software for nothing.
+So, how does one make money on Free? Learn about proven no-charge business models that can pay off quickly using minimal in-house resources and generate the cash or traffic you need to survive in this down economy.
+This presentation covers many of the free models, including try and buy, freemium, ad-supported, and cross-subsidy or save-and-shave, and open up discussion on any additional models that the audience has used. Much of the information will come from the experiences at W3i, who delivers software to nearly 10 million users a month all for free and from the many discussions occurring since the release of Chris Andersons book Free- The Future of a Radical Price.
+
+Startups need funding, whether that funding comes from investors, a corporate sponsor, or a day job. While there are pros and cons to any approach, a majority of successful startups take outside investment at some point.
+In this session, we'll talk about how to raise money, and why. Who should you raise from? When is it appropriate to take investment? What do investors look for? What do terms look like? How long does it take? And how can you tilt the odds in your favor?
+
+So you want to start a company and work with the University of Minnesota... let Justin and Andrew help you out. We've been navigating the behemoth of an organization for numerous years and have some suggestions on how to work with the U. We'll cover a host of topics (inventions, start-up evaluation process, CEOs-in-Residence, and much more). Feel free to send over questions ahead of time via email (juporter@umn.edu) or tweet them with "#umnbarq" in the tweet.
+
+Learn how to design and build flexible sites that look great regardless of screen size and are optimized for both mobile + desktop web. This presentation builds on my previous talks on HTML5 and CSS3.
+
+Technorati is tracking 38.1 million sites, most of them blogs. Is this the end of Main Stream Media as we know it or are we all just wasting our time? Why do you blog? Why do I blog? Let's talk blogging and what we get out of it and how it might change things in the worlds of media and education. I will ask probing questions like "Can citizen journalism replace the Star Tribune?", "How can you make money blogging?" and "Why don't you read my blog?". Seating order to be determined by Technorati rank. Vloggers, podders, and blog newbies welcome!
+
+In this session, we will go through the basics of what it takes to work for yourself. Whether you want to be a solo entrepreneur or start the next Internet wonder, there are some basic steps most companies must take to get off the ground. This session will focus on bootstrapping the small startup, but will contain content that also applies to businesses that plan to raise millions in investment capital.
+Scott will share his experience of being an independent software consultant for the past 3 years and what it was like owning a small residential construction company for 8 years. Scott is also a member of a 6 person startup called QONQR, winner of Startup Weekend Twin Cities and finalist at SXSW Accelerator. QONQR is starting their investment funding search, and Scott will share some things they have learned from this process. He will share his experience of how QONQR built their team, how they are positioning themselves for success, and what the joys/pains of bootstrapping a startup as a team have been.
+A small portion of the content in this session may be a review of last years Success in Consulting session, and this years presentation will include more audience participation and product focused startup topics.
+
+From skunkworks project to integrated production application. Learn how Honeywell grew a 3 person private cloud microblogging network to a 5,000 person technical community which is integrated with Sharepoint and the corporate intranet. Expect a live demo. You've heard about Facebook for the Enterprise. See it in action with a business focus.
+Participants are most welcome to show their own corporate social networks. Bring your laptop!
+
+Why do some systems succeed and others fail?
+Is the philosophy/mindset of those designing a system really important?
+What are the characteristics of successful systems?
+
+Most of us have an idea for an app or website but don't know how to make it a reality or even where to start.
+This session will focus on the tools and tips picked up over the last two years taking an idea to a working beta.
+Tips and Tools will be shared for each of these:
+
+Rock the mouse in Adobe Illustrator. Techniques everyone can learn and use every day. Exploit the Pathfinder panel for all it's worth.
+
+Nothing will sink your app's reviews like crashes and sluggish performance. Learn how to eliminate crashes and speed up your app from experience gained working on complex iOS apps. In this talk you'll learn tips and tricks that lower your memory usage and weed out crashers. I'll go over Apple's profiling tools and how to best use them. In addition I'll give real world examples of performance optimization and how they apply to your code.
+
+This discussion will detail how my startup, HitMeUp, has begun to tackle various problems with creating a social product, and our chosen strategies of how to integrate our social activities with Facebook. It's more than just sharing, because no one wants their wall filled up with crap without their approval.
+Hit Me Up [sometime] - texthmu.com
+
+We'll take a look at what Drupal is and what it can do right now as well as where Drupal is going with the upcoming Drupal 7.
+
+Modern Distributed Version Control Systems (DVCS) like Git, Mercurial and Bazaar aren't going away any time soon and will soon be (if they aren't already) an integral part of our development life. Whether you are a developer, designer, web techhead, CTO, or developmenet manager It is worth your time to understand the basics of Distributed Version Control Systems.
+We are going to talk about:
+
+Basic introduction to developing for the iPhone SDK in Objective-C.
+
+This is meant to be a high-level primer on Game Development for iOS.
+We will talk about the various frameworks and tools available to iPhone developers, as well as general topics related to game development as they apply to the iPhone. We will also look at some code samples, mostly using the Cocos2D framework. By the end of the session, you should know more or less how to build a 2D game for iPhone, and where to begin learning about making 3D games.
+This is a beginner talk, but if you are already doing some game development for iPhone, please feel free to show up to network and/or add your perspectives and opinions to the session!
+
+We'll cover the basics of Android development. There will be some chit chat about the tools, tricks and trade of developing Android apps. We'll then dive into the guts and talk about how to make money in the market (this not only applies to Android, but to all Markets) and use Android as a MVP (minimum viable product) for your start up.
+In this session you'll get an overview of how develop applications with Android for your startup from an industry expert. Donn's apps have been downloaded from the Android Market over 4.2 million times. Donn is also the author of Android Application Development for Dummies an Android Tablet Application Development for Dummies as well as many articles and online video tutorials.
+Donn is a partner in these local Twin Cities startups: - Qonqr (www.qonqr.com) - Agile Health (www.agilemedicine.com) - Barcodes.IO (www.barcodes.io)
+
+Satchmo is an ecommerce framework created with Django. This discussion will be an opportunity to learn more about it. 
+Thoughts for discussion, feel free to add your own:
+	* Satchmo features and functions
+	* How to get started with Satchmo
+	* Roadmap for the future
+	* How to help out or get involved
+	* Any other questions related to ecommerce or Django in general
+
+Introduction to TYPOlight http://www.typolight.org a feature rich, accessible, Open Source Content Management System. Presentation will cover:
+
+
+You've seen the numbers: 315 million devices worldwide, 25 billion app downloads, more than four billion dollars paid to developers. You've heard that this is an extraordinary time to be an Apple developer, but you don't know where to begin.
+This session will get you started. You'll get a high-level overview of Objective-C (the primary language used to develop iOS apps), an introduction to XCode and Interface Builder (Apple's IDE), and a quick introduction to the major frameworks. You'll also receive a handy list of additional resources and topics you can explore when you're ready to dive deeper.
+
+
+Whether by way of layoff/downsizing/rightsizing or by choice doing a job search sucks. Worse, you may be submitting a resume to hr@xyz.com or resume@xyz.com or filling out that 7 page online web form that takes 20 minutes to fill out and are getting no responses.
+I will cover 12 tips that will make you more effective and help you "Be Your Own Headhunter"
+I want you to share what has and has not worked for you and I and the group will give you some ideas to try out.
+
+
+You've written applications for the JVM, using various frameworks and maybe even various languages. You understand how to rig up the CLASSPATH, get .class files to load, compile source, and set up an IDE. But you've always wanted a better understanding of the plumbing underneath. How does JVM bytecode work? How does the JVM itself work? This tallk will walk you through JVM and JVM bytecode basics, with lots of examples how to subvert the JVM to your whims.
+
+One of the greatest challenges for any young company is keeping the leads coming in. In this session we'll talk about getting to your first 100 paying customers. It's a journey past the low hanging fruit you start with. Testing your imagination, determination, and passion. The session will break into two halves. We'll start sharing about the unique ways we've found our customers. We'll finish off by focusing on how to got those leads to close.
+Finding Customers:The first half of our time will be talking about lead generation. Where do we look when our friend and acquaintances are sick of us. Without leaving it up to the mystery of the internet. Come prepared to share your strategies to strike gold.
+Closing Each Deal:With each lead being so precious, how can we give ourselves the best chance of closing the deal. In the second half of the time we'll collaborate around how to do this well. This is an often over looked aspect of getting your customers signed up.
+
+A discussion of the recent Limewire decision, as well as the previous Grokster and Naptster file sharing decisions, and the impact of these legal developments on file sharing as a business model.
+
+What's the statistic...? Something like 1 in 10 startups are still operating three years after incorporating? This session will be an opportunity to hear what it's like to be one of the other 9 that doesn't make it.
+Spoiler - it's tough, but there's a lot to learn from it and we'd do it again in a heartbeat.
+
+
+The Google Summer of Code enables ~1000 students to contribute full-time to open-source software every summer. This will be Gentoo Linux's 7th year in GSoC, and we successfully recruit around 2/3 of all the students who participate in our program as long-term developers (typically ~15/year participate and ~10 join).
+This talk will introduce you to GSoC, share what we've learned from it, and attempt to convince you to apply next year, either as a student or a mentoring organization.
+
+Thinking of moving from hosting on shared hardware to your own virtualized server via cloud-based hosting?
+This seminar will cover the basics you need to consider when deciding between different virtualization and cloud solutions. Including:
+
+Many websites have a mobile application these days. With the mobile revolution there are applications that have a need for both real-time data as well as a way to notify their users. This is also expected by many users that have installed your application.
+Implementing push notifications from ZF is easy; especially given the mobile push notification technology. This talk will go over the fundamentals of push notifications (such that we talk protocols), implementing push notifications and best practices of push notifications.
+
+Presently hybrid apps are at the forefront of the mobile development discussion. When done properly they allow for a shared code base between iOS and Android apps, web developers the opportunity to put their front end skills to use for mobile development and the ability to reuse any number of previously created HTML/CSS/JS components.
+The problem is that building them requires a different way of thinking and a new set of tools. During the creation of the new ReachLocal app, both of these things were developed. The standard "single page app" approach was ditched and the Cordova Framework was extended to produce a framework that can truly be called hybrid.
+The presentation will walk you through the creation of an app using the LigerMobile framework.
+
+Carrying the torch for Luke.
+You get five minutes to present whatever you want. Email me with your talk ideas 'casey@softwareforgood.com'.
+
+
+I will be moderating a Lighting Talk session in the classic model, where you put your name on a list with the amount of time you want, and we'll go shortest talks to longest until we run out of either speakers or time.
+No need to register in advance, just show up with something to demo or talk about, and we will take it from there!
+
+Got something you want to show off, but don't want to do a full-fledged session on it? We will have at least one session for 5 minute long "Lightning Talks". Please email look@recursion.org to sign up.
+
+LiveCode has its heritage in the HyperCard hypermedia system released by Apple back in 1987. HyperCard was a inspiration to Tim Berners-Lee's development of the WWW. LiveCode is developed and supported by the RunRev corporation in Edinburgh, Scotland.
+It allows developed applications to run on the Mac, Windows, Linux, iOS and Android plus related servers. LiveCode is available in a free open source Community version and a Commercial version for publishing through the Apple AppStore and Google Play stores. The LiveCode IDE development system will be demonstrated on the Mac with simulations on both iPhone and Android devices.
+LiveCode was a recent finalist in the Dr. Dobb's Jolt Award for Mobile Development Systems. LiveCode's recent emergence was funded by a successful Kickstarter project in early 2013.
+
+We'll discuss the local IGDA chapter, local game development companies, common or timely techniques for "Indie" game development (iPhone, android, flash, etc.), and maybe if all that gets boring we'll talk about what new games to pick up this holiday season.
+Bring your games to show off.
+A roundtable discussion moderated by Martin Grider (and hopefully other local IGDA members).
+
+The specifics are still in flux, but more than likely, we'll be putting together a music theory-aware MIDI arpeggiator using [processing.org Processing] and Ruby Processing.
+This could also be done using Clojure in place of Ruby. If you have a preference one way or the other, make a note by your name.
+
+In Making Music Like a Nerd I, we looked at the beginnings of a live-coding, music composition and performance environment built using the Clojure programming language.
+In part two, we'll expand the system with a higher-order step sequencer, interactive controls, and generally tinker about in our fully hackable, infinitely flexible, home-brewed music box.
+(Making Music Like a Nerd I is not a required prerequisite of this session.)
+
+A new stack of Android networking libraries can make interacting with a REST API server easy.
+Having spoken about many different solutions recently at MN DevFest 2014, I will showcase a particular networking solution using Octo's Robospice and Square's Retrofit and OkHTTP.
+Step-by-step, we will build up a simple, open source application using real world data. The session is aimed at both Android and Java developers, both experienced and aspiring.
+
+(If you have your own story to relate about malvertising, especially if you have inside knowledge from the perspective of an advertising network, please email me asap -- I'm not hard to find. I have plent of material to fill the session, but it's more fun with more people talking.)
+In recent years, the Star Tribune, New York Times, and Fox News web sites have been abused in well-publicized FakeAV scareware campaigns. During a snow emergency last year, the WCCO and KARE11 web sites were serving up more serious malware that attracted little attention outside the security community.
+If you're not the Times, you don't need to worry so much about becoming a target of choice, but you may be a target of opportunity. So please:
+
+
+Last year the first question was, "Why do recruiters suck so bad?"
+My guess is that sentiment is stronger this year.
+This is the 6th year of doing this kind of presentation... a few slides and a lot of Q&A and discussion.
+
+This will be the third time I have held a conversation about job search, networking and career maintenance at MinneBar.
+This time thankfully the economy is better and my recruiter colleagues are tripping over themselves trying to source/recruit you.
+So rather than talk about how to find a job we are going to talk about:
+
+This will be the fourth conversation about job search, networking and career maintenance at MinneBar that I have done.
+Likely you are getting calls from folks like me every week (day) to see if you are looking for a new job or consulting gig.
+Frequent conversations I have had lately include (and bring what is on your mind):
+
+Join us for an introduction to Clove, the social media management application unlike any other. We will be giving a demonstration of the desktop app, and will be showing some examples of plugins built with the Clove SDK!
+Some background on Clove:
+Clove is a social media discovery platform. We are building an application that allows users to aggregate and interact with their total desired social media presence. Clove is built on an open SDK for development, which allows anyone to add functionality and feeds to the application. Furthermore, Clove is social network independent, meaning it reaches far beyond Twitter, Facebook, and Myspace. Any social network with an API can easily be added to Clove.
+
+OpenStreetMap is the Wikipedia of maps. Anyone with a mouse and a web browser can edit a free wiki map of the world, adding points of information, roads, and even marking the locations of your favorite tree. The data is released to the public using an open source share-alike license so that anyone can build maps that blow the basic maps offered by Google and Yahoo out of the water.
+In this session, we'll explore the rich ecosystem of data, tools to work with that data, and applications using it as well as check the area around BestBuy HQ to see if we're missing your favorite location.
+More info at Map Minnesota and OpenStreetMap.org.
+
+
+Before you can pitch Agile development methods (see above), you've got to have someone to pitch to in the first place! You've put a lot of time and hard work into developing your product, but now you need to put yourself out there. We'll discuss marketing your services if you're a service-oriented group, and marketing your Web Application if your a product-oriented company.Topics will briefly cover SEO/SEM, Social Networking (online and off), Viral Marketing, and utilizing Local Resources. This will be a very open discussion. If you have successfully launched your own brand in the past, please come and share your stories for those just starting out!
+
+Join me for a look at using Amazon's infrastructure-on-demand services (EC2, the Elastic Computing Cloud) to bootstrap your next web application. EC2 means you can get the scalability and reliability of Amazon.com's data-centers without having to raise venture money first. Can you really run the next YouTube on this stuff? Come join our discussion and find out.
+
+Metaprogramming is writing a program that manipulates programs, including itself. Groovy makes metaprogramming easy and provides a number of techniques for doing so. We'll discuss what metaprogramming is and walk through some examples of using Groovy's different metaprogramming techniques with discussion about when and why you might want to use them - as well as when and why you might not want to use them.
+
+What does it mean to create a startup in the Midwest? Is it possible, or should we all just move to Silicon Valley? What kind of companies can succeed here? How do you fund a startup in this region? What can we do to promote tech startups in the Twin Cities?
+These are some of the questions I'd like to discuss, along with other people who've started their own companies, or are trying to get going. 
+Ben and I would also like to talk about some ideas for MinneStart and what we could do to encourage more startups here.
+
+
+This session will provide an update on the continuing development of the minne events and organization and our efforts to insure that great events like MinneBar and MinneDemo continue to catalyze the Twin Cities technical, design and startup communities. Half of this session will provide an update on these goals and the other half will serve as a forum to hear from the community.
+
+This is the 6th MinneBar and the event has been an amazing success. Ben Edwards and Luke Francl have done an amazing job creating such a great event. Over those 6 years MinneBar and MinneDemo have helped create and expand the tech and startup community in the Twin Cities. This session will provide a brief (less than 10min) recap of the history of MinneBar and MinneDemo and an introduction to the non-profit minne organization. We will then have an open forum for discussion and feedback about future events and how we can evolve.
+
+Minnesota has a vibrant game development scene! In this session, local game developers will each take the podium for 5 to 10 minutes. They might be showing off their latest game, they might be talking about how they structure their business, they might show off some piece of interesting new technology, or rant about the state of the industry. If there is time left over, we'll do roundtable Q&A, talk about the game development events hosted by IGDA Twin Cities, and maybe play some locally made games!
+This session description will continue to get updated as the individual speakers are confirmed/scheduled.
+Speakers
+
+Minnesota's tech startup community has evolved considerably over the past five years. A plethora of new formations, traction gains, record funding levels, exits, increasing national attention, etc. With all this positive activity we ask: what's next?
+Based on on the axiom that entrepreneurial communities are led by entrepreneurs - in this open forum, we'll combine data + anecdotes to pose some tough questions that will challenge us all to think bigger, act bolder and continue building off the momentum.
+Check your Minnesota nice at the door. Bring your first hand perspective and hear from peers who have constructive ideas to share about the future of Minnesota's tech startup community.
+
+These days you can't swing a stick without hitting a new JVM language. But there's something missing: none of them fits well as a drop-in replacement for Java itself. Perhaps they are dynamic languages with performance concerns. Perhaps they are functional languages with wildly different semantics. Or perhaps they simply require too large a runtime library to be easily deployed. Enter Mirah.
+Mirah is a new language for the JVM that's statically typed, easy to extend and fun to use. It combines Ruby-like syntax with a typed-inferencing compiler that produces standalone Java source or class files...imposing no runtime library upon you whatsoever. It supports features like closures, optional arguments, optional dynamic invocation, literal lists, hashes, and regular expressions, and more.
+I will show the basics of Mirah, with a focus on getting a new project up and going. We will explore projects people are using Mirah for today, like Google AppEngine and Android apps. If there's time, we'll also see how to extend Mirah by either writing compiler plugins (in Ruby!) or by writing app or domain-specific macros in either Mirah or Ruby.
+
+Session will cover your options for developing and deploying applications for the major smartphone platforms using Ruby and my own view on the central role that powerful scripting environments will play in creating the Internet of Things that is radically going to reconfigure our world in the next few years.
+Will look in a little more detail at using the open source, Rhomobile framework (using Ruby and Erb) to build a mobile app for Android, Blackberry, WinMo, iPhone and Symbian and some of the work I've done to get it live knock on wood on the Intel/Nokia Meego platform.
+I will try and cover the unique software-as-service features that Rhomobile offers for enterprise application development relative to some of the other cross-platform tools by building a working Android or Blackberry app.
+
+In this session we'll discuss the best methods of redirecting mobile users to a mobile site based on phone type and capabilities, advertising phone apps on your site, redirecting users back to the full site, user preference remembrance, and general phone usability topics.
+
+There are a lot of news monitoring / aggregation solutions out there. In this session, I am going to talk about NewsRack (no, not the iPhone/iPad rss reader) and its approach to news filtering.
+While NewsRack's UI is quite bad, if you are willing to look beyond the UI, NewsRack provides a mini-language for specifying news filters and organizing them. Some of the features are documented here in a user guide. It is also multi-lingual, i.e. your filters can track news in multiple languages simultaneously.
+This tool is heavyweight for casual news tracking, but is good for someone who has niche and more sophisticated news tracking needs that goes beyond a few keywords. Besides organizations and sites in India that use this, MediaDoctor and NewsTrust both use NewsRack's feeds in their projects.
+
+When I joined a SaaS startup already in progress as their first ops hire, what monitoring existed was a twisty maze of half-measures. The devteam dreaded oncall, and our Mean Time To Lost Sleep was way too low.
+Improving visibility into our infrastructure and application performance required trying new tools and changing how we thought about what we were measuring. Join me for a tragicomic journey from the vale of blissful ignorance through the straits of Nagios and into the mountains of Graphite. We'll talk tools and pitfalls, missteps and dead ends, and everything we haven't yet done but should.
+Tools covered will include Nagios, StatsD, Graphite, and Sentry, with some digressions into others such as NewRelic and MMS.
+
+Bandcamp, Soundcloud, Kickstarter, podcasts, iTunes, Amazon, Rhapsody, MySpace, Creative Commons, DAWs, TwitFace+, lolcats!
+At the very first Minnebar, I ran a group brainstorm on The Internet and the Future of Art. A lot of what seemed like speculation and hope back then is now reality: a musician can make a shockingly good recording in their home studio, and reach a worldwide audience without waiting for the Magic Golden Touch from a shady record exec.
+Now musicians face new challenges. How do we navigate the mind-boggling array of online artist tools? How do we cut through the din of the net to get our music heard? How do we build a non-crap web site on a musician's budget? Do we share our process, or post only tip-top polished work? Make a physical product, or go digital only? Sell or give away?
+
+
+Customer acquisition is a lot like dating:
+
+Stop in and learn how to build native mobile apps with JavaScript using Titanium Mobile. We covered the desktop at the last MinneBar - now it's time to go mobile! Titanium applications run on Android, iPhone OS (iPhone, iPad, iPod Touch), and now Blackberry (beta support rolling out now). Titanium is open source goodness (Apache 2.0) and is a great way to create cross-platform apps with native UI and platform features for mobile.
+Questions to answer:
+
+Are you taking on projects with just a handshake? Or maybe you have finally learned to spell things out in a letter of agreement or contract - but still ended up in a dispute with your client. Youre not alone!
+Your expertise is writing code, not writing contracts!
+Yet most entrepreneurs in their first year in business attempt to go it alone and create their own contracts. So, how can you avoid the pitfalls of a poorly constructed contract?
+In this workshop, you will discover:
+
+How might we use social media to build electronic block clubs? What about broader neighborhood networks that help us build community with those who live near us? There is tremendous social media talent in Minnesota corporations, how might we leverage that talent to benefit our communities?
+E-Democracy.org is gearing up to explore social media in local public life as part of its new Participation 3.0 initiative. The project is positioning Minneapolis as a national pilot city for next generation online civic engagement.
+
+This may not be the coolest session of the day but you may be the coolest coder and be able to create the best web sites but if no one knows who you are does it matter?
+I will go through how to do an online audit of yourself, optimize social network profiles, a couple of Twitter and LinkedIn search strings to find people and talk about how to use these sites for networking.
+Like I said, not ooh ahh but if you are not managing your career well or at all this will be of use to you.
+
+With the economy hitting nonprofit gives, how can relationships be strengthened in a true testament of passion and connection. Panel discussion on new software, e-marketing tools and idea-infrastructure for the non-profit community.
+Panel will consist of: * Kate-Madonna Hindes: Community Engagement Manager, Ignitus, Inc. (www.ignitusinc.com) * Lisa Foote: MixMobi (www.mixmobi.com) * Glen Townsend * Alan Hill * Kay Roseland
+Bring your insight, and collaborate with us to inspire social media use in the non-profit world.
+
+The flexibility and scalability promises of NoSQL databases makes them an exciting option for designing new systems. By now, NoSQL has been around long enough for many of us to have had a chance to explore it. As a long time SQL guy, I've worked on some non-relational projects but am now designing a service using MongoDB. I'd like to assemble a handful (or so) people who've deployed solutions using non-relational approaches and hear their stories. My primary interest is document databases (e.g. MongoDB, CouchDB) but anyone with a story to tell is welcome. Be prepared to give a quick overview of your project and answer a few questions from the crowd. Let's assume the audience will have at least a "PowerPoint" familiarity with the various NoSQL paradigms (document, key/value, column).
+Come prepared to share your success, misconceptions, lessons learned and catastrophic failures.
+Email me at jaim@sharpfivesoftware.com if you'd like to share your experiences.
+
+If you use OmniFocus to manage tasks and work with projects and contexts come to this session for an informal meetup to discuss OmniFocus best practices, power user tips, and share some of the interesting ways that you use OmniFocus. This session will have a loose agenda, but the intent is for everyone to join in the conversation and share things.
+
+An interview with the creator of Ruby on Rails, David Heinemeir Hansson.
+
+Open discussion about the tools & techniques of advanced analytics, data mining, and as time permits, predictive modeling.
+The panel will discuss a case study where web text mining sites were developed for target marketing or CI; connecting this to a offer optimization engine. Merging mapping technology and advance/predictive analytics, and more. We look forward to audience participation.
+Panel:
+
+What is open source hardware? Why is becoming popular? How did we get here? How does it relate to open source software? What are the advantages? What does it mean for hardware companies? How can hardware companies still add value? And... some examples.
+We've been working with different open hardware platforms for the last 10 years and we're just stoked to see the trend of hardware commoditization motivating companies to differentiate on adding value vs. protecting past accomplishments. Open source hardware shifts the focus of product development to the applications the hardware enables. It is a trend that is feeding innovation and allowing software developers to quickly create powerful applications that include hardware as part of larger systems.
+
+This session is getting started in 3D programming. OpenGL is cross platform, and iPhone will be used as an example platform.
+Being a fan of the Spore video game, and after busting my chops implementing some iPhone titles, I naively decided I wanted to implement a Spore-like (3D) game on iPhone. Oh, little did I know. This session describes my journey from knowing nothing, to getting to the point of algorithmically generating a planet, including parameterizing the planets surface, how to create the surface itself, and how to texture the resulting geometry. I will show you code, and Wrath-Of-Khan style planet panorama sequences.
+
+Many of us sign our free and open source project artifacts with OpenPGP/GnuPG keys. This session proposes an informal key signing party:
+"A key signing party is a get-together of people who use the PGP encryption system with the purpose of allowing those people to sign each others keys. Key signing parties serve to extend the web of trust to a great degree."
+http://www.cryptnet.net/fdp/crypto/keysigning_party/en/keysigning_party.html
+
+Learn all about the free wiki map of the world!
+I'll give a short talk about what OpenStreetMap is, how it works, and how to use it. But the greatest part of OSM is that you can contribute quickly and easily, so bring your laptops and we'll have you mapping in no time. Last year we mapped the parking lot outside the MinneBar venue, this year we'll map the neighborhood!
+
+Discover the project that Bing, MapQuest, the US government, and Apple all take advantage of in products you use every day! In this session we will explore the free wiki-style map of the world. We'll work together to improve the map data and then explore some of the endless ways you can use this data in your projects. Bring your laptops!
+
+So, you've got a cushy job building software at a big company. But you want something more challenging. Maybe you've got an idea for your own company, or maybe you're getting recruited to join an existing early-stage start-up. It sounds exciting! But you've got college loans, or a mortgage, a spouse, two kids, or whatever. So it still just seems a bit risky, expensive, and scary.
+What kind of lifestyle should you expect? What happens to your career prospects if you fail? How do you figure out what your worst case scenario is, and avoid it? Or maybe you just have no idea how to answer the basic question, "Is this something I can even consider?"
+There are plenty of resources for discussing business models, fundraising, Lean Startup, MVPs, and the like. We'll discuss none of that here. We want to discuss the very personal decision to found or join a start-up, and tactics for how you can arrange your personal life to enable your adventure while managing the risk.
+
+Far too often we get a great idea for a project and want to hit the ground running. Designers want to start the design; devs want to hit the keyboard. But hold on there...something is missing - the cheapest, easiest way to plan any application.
+In this session we will discuss the various aspects of paper prototyping.
+
+Effectively weaving your entrepreneurial social networks doesn't have to be left to chance.
+If we accept that who we know plays a critical role in our venture creation process and the probability of our success, then we can evaluate our entrepreneurial connections that add value to our effortsour entrepreneurial social capital.
+But, after evaluating our entrepreneurial social capital, what happens next? How do we become smart network weavers to expand our entrepreneurial social capital?
+
+
+Why do innovation networks form the way they do?
+Why do some people seem to be more connected than others when it comes to sharing innovative ideas?
+Based on a Social Network Analysis study of an emerging innovation network devoted to Web 2.0 and 3.0 development, this presentation explores this question by looking at the possible relationship between network members' centrality and temperament.
+
+Personal Rapid Transit is new idea for public transit that is not mass transit. This concept has in the past seen development here in Minnesota, though the idea is now coming to fruition abroad, most notably with the ULTra project at Heathrow airport.
+The PRT concept is automated vehicles, typically on an elevated track, that take a passenger directly to their destination, without sharing the vehicle (except with those you want to share with) and without stopping at intermediate stops. It's somewhat similar to a taxi, with vehicles moving about the system until a customer requests the vehicle, and then until the customer reaches their destination they are the only user of the vehicle. The PRT concept originated in the 60s, and by now technology has more than caught up, though many questions remain, especially about construction costs, politics, safety, research, etc.
+I am not involved with any PRT technology, but I have found it interesting and have followed its progress, and it has several features that I think will make sense particularly to a technical audience. This presentation will describe PRT and compare it with traditional transit options. PRT has traditionally been the source of a controversy (even derision) in transit circles, and though I'll be presenting a largely pro-PRT viewpoint I will encourage the audience to challenge that viewpoint at any time. No, wait... this is BarCamp, there is no "audience"! I mean my fellow presenters who just happen to be sitting across from me.
+
+Already a web developer? Then learn how to build native iPhone and Android apps using PhoneGap, jQuery Mobile and your HTML skills.
+I'll walk through the whole process in order to demonstrate:
+
+Security has been all the rage in recent years definitely in the PHP area where the tools exist to properly secure an application. This will be a presentation focused on security techniques, features to utilize and also serve as a question and answer after the presentation for questions people may have.
+
+Learn the basics of creating realistic physics-based animations in your iOS apps. Discover best-practices and advanced techniques for creating compelling user interfaces and see code walkthroughs and examples from real-world applications using UIKit Dynamics.
+
+Sponsored by AngelPolleNation, Piranha Pool (TM) is Minnesota's own live take on the TV series "Shark Tank." A panel of experienced, local tech investors will, on the spot, consider investments in FishFood (TM), aka local entrepreneurs. Confirmed Piranhas are well-known local investors Joy Lindsay, Ed Cannon, David Dalvey, Ronald Eibensteiner and Barbara Stinnett. Details on how to apply to participate as FishFood are here: http://www.messerlikramer.com/sites/messerlikramer.com/files/Piranha%20Pool%20Application%20Package.pdf.
+Joy Lindsay has been an active member of the Minnesota venture capital community since 1998. She is President and co-founder of StarTec Investments, LLC, a private venture capital firm focused on investing in high-tech companies based in the Midwest.
+In addition to her role at StarTec, Ms. Lindsay is a member of the Sofia Angel Fund, a Minnesota-based womens angel fund focused on making private equity investments in companies founded by or led by women, or whose products and services target women. She is also a member of the Gopher Angels, a group of angel investors who share screening and due diligence and is a founding member of MOJO Minnesota, an innovation co-operative working to fuel entrepreneurship and reignite Minnesotas culture of innovation.
+
+Do you have a WordPress blog? Or 2 or 3? Come to have a discussion about some power plug-ins for WordPress than can save you a ton of time. Plus some discussion of SEO techniques for your WordPress blog. We'll also have a short discussion about getting MinneWordCamp, a Minneapolis WordCamp, together in the fall!
+
+E-Democracy.Org has begun to organize and support neighborhood "Issues Forums" in St. Paul and Minneapolis (and around the world) we'd like to start by briefly discussing our work - and then open the discussion for others to talk about how they use the internet to share information and connect with the people who live next door, or just down the street. What are the best tools currently available AND what tools are still needed?
+
+A brief introduction to this open-source collaboration server that supports many-to-many, and one-to-many, interaction in groups and communities via a robust email AND Web interface. E-Democracy.Org has been using Groupserver for over three years to create online public spaces for civic discussion. In this session, we'll show you how we are using Groupserver and then initiate a discussion about alternative uses for this application and the potential for creating a community of local developers interested in improving this as a free and powerful tool for online citizen engagement - and other forms of online collaboration.
+
+Have an itch? Launching a product? Launched one? Let's talk!Over the last 6 years, Code 42 developed the technology that launched 6 other startups.In January, we launched our own consumer product entitled CrashPlan.I'll share why we did it, how we did it, what worked well and what did not.
+
+I bet you hate tracking changes in Word, right? So why are you still using it for all of your legal documents? You already know how beautiful and simple text files can be. And text files work great with version control.
+Come find out how Software for Good uses classic software development techniques to improve our contracts, increase our legal consistency, and strengthen transparencyall while remaining paperless. We've dropped the chunkiness of Word while embracing version controlled, text-powered PDFs.
+In this session we will cover:
+
+We'll be talking about a very small part of the the vast canyon of CSS: pseudo elements. Essentially, for every element on page, you get two free elements you can create through CSS via the :before and :after "selectors." They are part of CSS2, so the browser support is pretty deep, but the things you can do with them are rather amazing. And since this all happens in the CSS, markup remains clean and uncluttered.
+
+
+Let's talk about neighborhood information sites. I can share what I've been doing over in Seward Neighborhood for the past year+ with Seward Online (Seward Profile, @SewardTweets, Seward Community Forum, Seward Calendar) and give you an idea of the challenges involved in truly crowd-sourcing an effort like this and making it sustainable with no cash flow and avoiding burnout.
+In the process, I'll share what I've learned about using the major social media tools for neighborhood engagement and debunk some of the myths. No, you don't have to follow everyone who follows you. You don't have to follow anyone!
+It's not really about "citizen journalism"; it's about keeping a community informed about events and meetings and creating a searchable repository of community meeting minutes, police updates, and conversations. In somewhat metaphysical terms, it's about reflecting the fabric of the community itself and creating an ongoing documentary of its life force.
+
+Drupal? Why should you care? Drupal is a popular Web Content Management Framework; this session will cover the basics of what Drupal is and does. We will also look at a number of examples of Drupal websites (e.g. WhiteHouse.gov, http://Grammy.com, PopularScience.com, http://Ozzy.com, http://OpenSource.com, http://Duke.edu and more) as well as what it is like to work with Drupal - as both technical and non-technical users.
+
+
+The War For Talent Part II is under way in Silicon Valley and while Minneapolis/St Paul is not there yet there are definitely recruiting skirmishes and we are seeing job seekers receiving multiple offers.
+Every event like this I go to an entrepreneur (or CEO of seven year old company) says they are having a hard time finding staff.
+And here you are attending MinneBar with lots of talented folks running around many of whom want to find a new job or gig.
+
+Last year I spoke about how the War For Talent was under way in Silicon Valley with some skirmishes in Minneapolis/St Paul.
+Now with IT unemployment in MSP at the battle is on.
+This year we are going to talk about:
+
+We'll do a step-by-step example that brings Remix data to life in a dynamic Web app.
+Remix + Adaptive Avenue is a powerful combination that demonstrates the convergence of hyper-granular data sources with high-level application builders.
+Adaptive Avenue is an application builder that enables non-technical users to create rich, data-driven Web applications from hyper-granular, structured data sources -* using a visual interface without custom development. Best Buy's 'Remix' open API is a structured data source that is ideally suited to this approach. By publishing its vast product catalog over an API, Best Buy is enabling it to become more distributed and transparent across the Web. As a presentation layer for structured data, Adaptive Avenue is optimized to leverage the data that is unleashed by Remix.
+
+This will be an unstructured discussion on the state of reputations today, whether traditional or online, managed or emergent, throwaway or permanent. Are old identity structures being replaced by new ones, or are traditional identities necessary for the survival of newly defined communities? What sorts of identity are suitable for what situations? How are old and new identities being expressed in software (or even hardware), how are they being worked into projects you might be working on today? In the unconference spirit, bring your own opinions, experiences and shibboleths and watch them contend with everyone else's.
+
+Every day, the majority of the population goes about their daily lives, blissfully unaware that all around them, a secret war is raging: the war between static and dynamic type systems. Why do programmers care? Because differences in type systems, even subtle ones, present difficult and important trade-offs in how programmers work with a language. This talk aims to get past the "type wars," and take a level-headed look at those trade-offs, sans dogma. Java, Ruby, and Haskell will be under the microscope. Ace programming expertise not required — this talk is for anybody curious about the fundamental differences between popular languages, code slingers and code dabblers alike.
+
+I recently was at the Humphrey Institute at the U of Mn, where I was asked my opinions on how they could make the building more open to the community. I suggested something else: How about the Dean of the Humphrey Institute and students/faculty came to MinneBar to collaborate on an open source voting system experiment in Mn, developed by this community, shepherded by the political geeks at the Humphrey?
+We all know the day will come when we can securely vote via web/mobile web. Why not make it happen here?
+Let's discuss current experiments around the globe, map the legal and technical hurdles, and start a project, with MinneBar community as the fuel?
+
+What happens when you try to make your small town into a Gigabit city? Why are some towns creating municipal fiber utilities and ISPs? What is driving this change? Why aren't existing telecom and cable companies providing better services?
+This is a tale of the quest to rescue a small town from broadband despair. The journey is fraught with traps and deception by those who would resist this change.
+In this session, we'll explore the creation of goals and a vision, researching and choosing engineering options, validating the costs and feasibility, and the process to make it happen.
+
+Learn how to use RoboSpock, where you write your beautifully expressive tests written in Groovy. Test your Android app quicker and more thoroughly (really). Based on Spock, RoboSpock combines the best features of proven tools like JUnit, jMock, and RSpec, and innovates on top of them.
+This session will offer a pragmatic overview, allowing any Android developer to immediately put RoboSpock to work. I will also give guidance on the new world order of Android development: Android Studio and gradle.
+
+Success stories of women in tech can somtimes gloss over the true-grit realities. Yet we must share these stories -- with all their bumps -- in order to learn and grow. Sara Heitkamp discusses the challenges, failures, and joys of navigating a male-heavy career track and what she's learned along the way. Come for a real conversation on how to find support, confidence, and success. Men welcome!
+
+Learning on your own to stay relevant and be innovative are basic requirements for techies and designers alike. That being said, where does formal education fit in? Is a college degree just nice to have, or is it truly prized? If you could change college to better meet industry demands, what would you do? Or, is the disparity between academia and corporate a fine and necessary phenomenon?
+
+Facts, not hype, presented by Twin Cities Rubyists.  Plan on a 15 minute jam session to build an application from scratch, some time to highlight Rails and some nearly objective thoughts about the hype and counter-hype
+
+Ruby on Rails currently has a lot of momentum and a lot of hype. We will cut through the hype and explain what Ruby on Rails is, how it works, what makes it special, and what pitfalls to avoid.
+
+Do you have a box on Linode for your blog? Maybe a VPS with Slicehost? If you've provisioned a bare VPS from install you know there is a lot to keep in mind. Is it secure? How are you dealing with hack attacks? Is the software up-to-date? You are monitoring your logs right?
+In this session I'll walk through a "best practices" taking a bare Unix box to running a handful of web sites. I'll use Ubuntu 10.04 LTS as the example case with a VPS on Linode. The material will be generally applicable to anyone using a Linux/Unix based host and needing to make sure that it is sound for service.
+
+When it comes to social media many companies, large and small, seem to jump in with no real strategy. Many organizations just don't know where to start.
+One Fortune 500 company once asked, "Three years ago when we developed our marketing plan Facebook and Twitter were not what they are today. How do we anticipate what they will be three years from now as well as anything new that comes up during this time?" This demonstrates the confusion between strategy and tactics.
+This session is intended to help reduce the confusion and help give you some ideas on how to develop a strategy for your business. It's never too late to create or update your strategy.
+
+A proliferation of new devices means unprecedented content management challenges. We suddenly need to reshape, rethink, and redesign our content to work on smartphones, tablets, apps, social channels, eBooks, and more including whats yet to come.
+This presents new challenges for content management systems. In order to get content to work across many devices, we need to separate content creation and management from display. Content needs to live in its own structured, semantically rich environment, so it can be easily accessed and manipulated across platforms.
+To do this successfully, we need to dramatically rethink the CMS. And we need to do it with a deep understanding of workflow and the authoring experience.
+
+Youre organizing a conference, assigning sessions to time slots. Should you avoid putting the robots opposite the 3D printer? Is it important to spread out the iOS-related sessions, even if that means the advanced-level programming sessions end up bunched together? Which design-related talks will draw which developers?
+Where do you even start?
+If youre MinneBar, you write software to decide for you! We gather feedback from participants on which sessions they are interested in using the veryweb interface you are at looking at right now then feed that data into an algorithm which generates a schedule to please as many people as possible as much as possible. The algorithm we use to do this originally comes from the physics of molten metal as it solidifies. Yes, really.
+
+How do we spark and expand innovation in our collaborative networks?
+Famed Austrian economist Joseph Schumpeter said that entrepreneurs swarm around innovation, collaborating in a way most others simply could not understand because it lay outside the realm of routine in an environment that resisted conformity and blind obedience to authority and standard practice.
+Over the last decade, MIT researchers have identified and mapped an expression of this phenomenon and call it the Collaborative Innovation Network (COIN).
+
+Consider the screw. Hammers, saws, levels and planes date back to pre-history. Screws are a relatively recent innovation, only finding their way into common use in the 18th century, only becoming mass produced in the 19th century, and only becoming standardized in the 20th century.The history of the screw, particularly standardizing on the phillips head, is a parable of the future of IT. The technically inferior philips head screw won that generation of standards war, and in so doing, ushered in the era of mass produceable mechanical consumer goods.LAMP is the philips head screw of our profession.Don't buy it? I'll prove it using Wordpress, ActiveDirectory, the Facebook Platform and others to point to a near-future where serious web applications built by non-programmers from loosely coupled server-side components -- oh for a better term than "enterprise mashups" -- and where sys-admin joins blacksmith as a profession left behind by progress.And that's just a setup for the next-next thing, loosely coupled zero administration virtualized applications...
+
+Open Source software is ubiquitous. It's easy to put some of your code out on the Internet and start a project. However, the dream of getting hundreds or thousands of eager developers to help you out is not as easy as it seems. There is also a cost of time and energy to keep a project going - do you really want to maintain it for many months or years into the future?
+Based on my experience with Satchmo, I'll cover some of the things that have gone well and maybe a few things we could have done better.
+Some of the topics I'll cover include:
+
+Come and ask your own questions about how virtualization can help your production and development environments. Learn how to implement and leverage virtualization to save energy and the planet!
+Questions that might be asked to start the discussion:
+
+Suspect you need a development build server but aren't sure? Need to set up a new test environment for your QA folks? Or may you've drunk the agile Kool-Aid, but just don't have time to set up a build server? If so, come see how quickly you can use Hudson to set up a Continuous Integration Server.
+
+Will Cover the pieces needed to setup an MPOS mining pool server.
+With basic coverage of Chef and ec2
+
+Together let's discuss the unique opportunities and challenges that women face in science, technology, engineering and mathematics fields.
+Also, learn about the She's Geeky conference (http://shesgeeky.org) to be held in the Twin Cities in August, 2010.
+
+Every entrepreneur loves online businesses. But there are many business challenges to selling goods and services online that good old fashion brick-and-mortar stores do not face. The intent of this session is to discuss several potential advantages to having a physical location (particularly in a retail space). This may be an odd discussion topic in an age when bookstores and video shops are closing all around us. And maybe the topic is just absurd. But my experience has been that there is great business potential in having BOTH an online and offline site.
+I would like to discuss 6 reasons why you should consider it (especially if you have an internet business). I'll also share some of my experiences (lessons learned) about doing brick-and-mortar businesses (especially integrating them with online businesses).
+My experience mostly revolves around opening The Tea Garden & Steepery Tea Bar locations, so my insights will stem from that tea-based business.
+
+These days you don't need a huge team to develop great software. Come to this session if you want to share the lessons learned and hear about the experiences and 'secrets' of small teams getting more things done with less. I'll moderate the discussion and provide several starter topics.
+
+Okay ... your organization has a Twitter account, Facebook Page, YouTube Channel, etc ... so what? This is a question facing many organizations. For many B2B companies, who do NOT sell to the consumer market, the return on investment in time using these well known social media sites is open to question. However, it is also a fact that there is a direct correlation between better communication with one's customer and sales growth. Rich Hoeg of Honeywell will lead a discussion / brain storming session on this topic. He will also share social media metrics he has been tracking since last year for his organization. Please come prepared to share your pain points and ideas. (visit your facilitator's blog http://www.northstarnerd.org/)
+
+Social media is a powerful catalyst for transformative learning in work, school, and community. Come share your experiences and favorite social media tools fostering technical and creative learning, regardless of where it occurs. David and Brian will share how they co-construct college classes with their students.
+As a follow-up to this session, a monthly user group will be formed for those with an interest in social media and learning spaces at work, school, or community. This is not about using social media for marketing. Back in the day computer user group members hauled their equipment into the basements of public spaces to teach and learn from each other. These get-togethers evolved into a number forms: some open and inviting like MinneBar, others with a "Screw You Noob!" attitude. Let's design a user group that appeals to disparate skill levels, interests, and learning space locations.
+Session Outcomes: Discover and share models for social media in learning spaces. Join like-minded people with a meaningful monthly meet-up group.
+
+This will basically be me showing what I think the future of the social web will look like, and you sitting there and accepting it.  I plan to knock out my powerpoint deck in about 10 or 15 minutes, then open this up for some general discussion (or Q&A if you think I have the slightest clue of what I'm talking about).
+
+Discuss and show examples of social search and networking inside the corporation. I will be happy to demonstrate Connectbeam which is a social search tool which resides inside our firewall, yet accesses external Google and our internal search engine to deliver work focused tags, user profiles, and bookmarks ... as well as one's normal search results.
+
+Social media has had a major impact on contemporary web design. Even "non-social" sites have been affected. Coupled with the wave of imitators trying to make their sites feel just like Facebook or Twitter, the look the web itself has changed. Is this really a change for the better?
+While many hallmarks of this brave new web are positive (interactivity, simple designs, more white space, the emergence of true web typography), some are downright destructive (usability fails, interface inconsistencies, lack of planning for new feature integration, ever-changing user agreements and privacy policies). Sadly, the success/popularity of some social sites has overshadowed their basic design flaws.
+Come prepared discuss what designers, developers and even users can do to get things back on track.
+
+Developing software for healthcare data management can be a difficult task. Managing data security, ontology, and interoperability between systems often seems nearly impossible. We will present new methods of data storage using NoSQL to manage large, evolving data sets of health information. We will guide attendees through the capture of healthcare data from various devices, securing this information through a .NET web service interface, and providing reports with an easy-to-use interface on a Windows 8 Metro-style application.
+
+Learn how to use SQL Server Management Studio's Execution Plans to debug poorly performing queries. Learn about what to look out for and how to resolve many common issues. This session is intended for developers who have little or no experience using Execution Plans to debug performance issues.
+
+
+Twisted is a framework for writing asynchronous, event-driven networked programs in Python -- both clients and servers. Stackless, is an experimental implementation of the Python programming language, so named because it forgoes the C call stack in favor of its own stack. The language supports generators, microthreads, and coroutines. Mixing Stackless Python's threading model and Twisted's asynchronous I/O model would seem like a real bad idea, right? Let's find out.
+
+Inspired by Startup School and Coder to Co-Founder: Entrepreneuring for Geeks, Startup Camp is Minneapolis-St. Paul's own day-long startup bootcamp. Basic premise: developers spend a day learning from successful startup founders, venture capitalists, etc. Give us 50 minutes now; help us flesh out our outline by telling us what you want out of Startup Camp and we'll put it together by the end of summer.
+
+This session is about what tools can help you for free or very little cost as a startup. Many of them are better than what "the big guys" have. Find a startup perspective from a guy who works with Fortune 100 companies (and Fortune 500).
+
+If you're a reasonably smart, independent-minded techie, and you don't want to work for The Man, you have two good options: sell yourself by the hour to the highest bidder, or ride the startup roller coaster. This session will talk about the startup life and the consulting life. How similar or different are these options? How can you succeed at one or the other? And can startups and consultants get along?
+(* Not actually a smackdown. More of a reasoned exchange.)
+
+Stasis is "a flexible transactional storage library that is geared toward high-performance applications and system developers."
+It's a difficult challenge to build applications that have persistent state, yet are robust against failures. The typical way to solve this problem is to use a database. Transactions are an great technology for making sure the system is in a correct state on recovery, and the database's storage model ensures that application state is persistent.
+However, databases come with a cost and a predefined data model. Their "one size fits all" approach defines a storage abstraction upon which the application must be built. But relational databases and SQL are not a good fit for many areas, such as search engines, object-oriented databases, XML, streaming databases, or document management systems.
+
+A panel discussion on the state of technology in Minnesota.
+
+Becoming a Software Development Consultant can be a great career. It is also often a great temporary option for those switching corporations, or for those seeking cash flow to bootstrap a startup. But is being a consultant really the same day-to-day job as the corporate software developer? In this session well explore the best tips and advice for being a successful consultant. How do you win support in tough environments? How do you build your personal brand and be recognized for your skills? We will also explore some of the legal and tax issues for being self-employed, and how to get the most out of your business. Come ready to share your questions and best consulting advice.
+
+I'm building a social network for projects. The prototype is aimed at helping students at project-based high schools find advisors for their projects (up currently here, improved version coming soon to superquest.co). The core idea is to create a huge directory of active projects that can be searched -- which will invite more mentorship and collaboration between like-minded individuals.
+I would like to talk about 3 things for 20 minutes:
+
+Coding is cool, and in high demand. But here in 2014, we're still teaching only a small fraction of our kids to code. We can change that, Minnebar! This session describes local coding initiatives you can join as a mentor, volunteer, adviser or donor. It also describes some great coding resources and platforms you can use to inspire and assist beginning coders.
+Why learn to code? You know the answers: Its fun, profitable, useful, interesting and a fundamental skill for learning how to solve problems, understand how the world works, and make things happen. Most kids dont learn though, simply because they arent presented with the opportunity to do so. Fewer than 10% of Minnesota kids are learning to code, in or out of school. Let's work on that!
+Where? There are dozens of local initiatives that need your help, ranging from four CoderDojos to afterschool Code Clubs to a variety of projects targeting girls and lower-income kids. There are even a few school-based initiatives. Learn about:
+
+Teams aren't like boy bands - there's no formula that you can follow to guarantee a high performing team (though even if there was, many companies would probably ignore it anyway.)  The best you can do (provided you are in a position to influence any of this) is provide fertile ground for teams to sprout.  In many ways, its like being a farmer - all you can do is create a hospitable environment, one where greatness can thrive.  Whether or not anything sprouts is anyone's guess but clearly you've got a better chance if you plant in fertile ground and water regularly!  This talk will examine many of the ways companies spill herbicide all over their best teams...
+
+Increasingly our most commonly used applications are either built directly in the cloud using an AJAX based web interface or are referencing services through the network. These types of server applications have continued to increase the scalability and reliability requirements of the applications and are requiring us to re-think how we build applications, moving from a small set of servers to one relying upon servers spread across many machines.
+In this session we will discuss some of the different issues that arise when scaling server based applications and some of current approaches to solving these problems. Some topics to be covered include load balancing, event ordering, coordination and replication management.
+
+Are you B to C? B to B? or.... both!!! Let's explore the differences between personal and corporate blogging! Whether you are a startup or a been around for years, blogging B to B present challenges...let's talk Best Practices and learn from each other!
+
+Message queuing is an art of handling background processing.  Most processes can be off loaded to the background for processing.  This presentation goes through why message queues are needed, what they help to solve, available software and a few quick examples.
+Slides: http://www.slideshare.net/mwillbanks/the-art-of-message-queues
+
+We are betting the farm that we can make money with a proactive approach to web design & development.
+We believe in it, and we believe in ourselves.
+Are we crazy?
+
+This session will cover key elements of the evolution of retail over the last few years. It will focus on the store in store concept, change management (#$/? ego effect), data breeches (red circle), mobile apps, loyalty marketing, and the threat of on-line sellers. It will mostly focus on Target, JCP, Best Buy, and Amazon because they have made so much press recently.
+The session will end with reasoned inferences (with your help) for creative new retail models that may likely arise from the current environment. This session hopes for a lively discussion.
+Disclosure: Although Mr. Swenson holds long positions in JCP and Best Buy this presentation cannot be construed as advice to buy or sell a stock. Investors must do their own research and make their own decisions as to if they want to buy or sell a stock considering all applicable disclosures, risks, and info.
+
+
+Advertising is just one of many industries that's undergoing a top to bottom industrial transformation enabled (and some might say enforced) by new technologies, but it's one that touches all of us.
+Old practices are fast becoming obsolete and new ones are still being figured out. Increasingly, attention can no longer be bought. Instead it must be earned. So how is that going to happen? What are the new rules of engagement? Is good targeting a bad thing? How can ads become experiences that people want? What actually makes us buy these days... how has it changed... and why?
+This session will offer some context for the discussion informed by some first hand experience in the trenches of today's ad game, but come prepared to mix it up and participate. After all, we're all consumers. We're all marketed to. And more than ever, we're all media.
+
+As consumers become more sophisticated and technology continues to proliferate around us, the digital ecosystem is quickly evolving. New technologies include the evolution of sensors, robotics, the "Internet of things", bio-interfaces, wearables and many more.
+In this presentation we will walk through the evolving needs of the digital consumer, the technologies coming on-line that are solving these needs and ways to get started on being a part of that community.
+
+We'll be scouring the landscape of futurists everywhere to present a session geared around the big trends and data points being forecasted around the future of technology, culture, science, health and other things vital to wanting to understand what's coming next.
+
+This panel discussion will explore the facts and fiction of crowdfunding and fundraising for entrepreneurs. What is likely to attract investors / supporters? What should one consider when having to deal with the rules and laws around fundraising? How much time and money will it cost to run a crowdfunding campaign. This panel will cut right to what you need - actionable information to make decisions around designing and launching a fundraising effort.
+
+Come hear an overview of the state of Electric Cars in Minnesota, and talk to the geeks that drive them. Then we will discuss everything from the in car tech to how does it handle the -20 days? We will have people with Tesla, Volt, Miev and other models.
+
+When you are in a rut you feel like, well, in the wrong place at the wrong time in your life. For many professionals it can feel like their skills, experiences, etc., have all of a sudden become irrelevant in the world where they make a living. During a recession ruts get a little too crowded, where everyone starts mimicking what they hear about negative stuff: like life and the future. It is far better to get out of the rut and leave your and others' baggage behind.
+Our session will look at three facets of escaping from not so great career ruts.
+
+Anyone can do a hardware startup so long as you know the steps. This talk will discuss those steps, the rationale for them and how to execute them. To get a good idea of what this talk will be about you can listen to the recent First Crack Podcast involving me.
+
+The advent of mass media in the 20th century created a profound shift in the public's relationship with art: what the big-screen TV was to the late 20th century, the piano was to the late 19th. The public changed from participant to consumer; the critical mass moved from the amateur to the star; art become an industry, not just a business. But new technology — the combination of the Internet and the plummeting cost of digital production of creative work — places all of that in question again. The Amateur is back, the industries are in a panic, and everybody's feathers are in a ruffle. What changes will come to the art landscape as a result? What technologies should we be inventing to make the best world possible for art? And how can artists today navigate the dizzying onslaught of new threats and opportunities — blogs, copyright violation, the Creative Commons, Garageband, the DMCA, mashups, podcasting — to create a home for the work they love? I'll share my own thoughts and experiences (from In the Hands); come share yours.
+
+
+Music is abstract and intangible — yet our minds experience it as powerfully and directly as a concrete object. There is perhaps no shorter path from math to emotion. The emotional side of that path is hard to verbalize, but there's a lot we can say about the math! This talk is a brief introduction to the patterns that emerge in music, and how they arise out of the physics of sound and our perception of it. No musical training and no advanced math skills required! You'll be fine so long as some basic algebra won't freak you out. The talk will feature musical examples from a wide variety of genres, including some of my own recordings.
+
+Remember when your professor in college taught you how to concept, design, engineer, test, optimize, launch, and promote quality websites? No? Of course you don't. That class didn't exist back then, and it may in fact never exist.
+In this session I will talk about reasons why web instruction in higher education is vastly disconnected from the real world, and propose solutions for improving the way we prepare students (and mid-career professionals) for jobs in the web industry. I'll draw from my experiences as an instructor at Hennepin Technical College in comparison to my experience as the owner of Bust Out Solutions.
+There will be plenty of time for discussion and questions.
+
+This is a media session, not tech or really design, although it involves both.
+Journalism is in a state of quite rapid evolution, like most other industries at the moment. Innovation is happening on so many fronts, it can be difficult to figure out where to look * the business model? mobile technologies? crowdsourcing and citizen journalism? data visualization? rethinking the article? 
+In this session, we'll catalogue some of the most interesting among these frontiers, and take a look at some of the most innovative efforts to address each.
+
+Klout, Kred, and other "social influence" ratings companies are self-appointed masters of measuring how you and I are influenced by what we see and hear online.
+But let's talk really about how big a problem measuring digital influence is, and then just how well various companies are actually doing that. (And Klout is barely at the starting line)
+I'll present a snappy 20 minute tour of the challenge, how current efforts are actually measuring or not measuring social influence online, and then provide a chart of how social influence could be used by marketers, politicians, social trend setters and even you and your neighbors. We'll look into big data projects like Factual and Dachis Group's Social Business Index, and attempts to use DNA in marketing to see how meaningfully we're currently measuring social influence and how much father we need to go in order to effectively use that measurement in the marketplace and in society.
+
+
+With hundreds of millions of active web sites on the web and millions of new web pages added every day, the knowledge contained on the internet far surpasses even the largest cache of big data. Today, many web developers still primarily publish web pages solely for human consumption. Researchers of the "semantic web" have spent years exploring options of making structured data available through web pages we publish every day. In 2010, Google, Yahoo!, Bing and Yandex joined forces to form schema.org, a collaborative that promotes common vocabularies and markup techniques that enable web developers to easily publish data for both human and machine consumption.
+This talk will examine the history, techniques and technology around schema.org that will enable a smarter web -- not just for search, but also next-gen data tools and applications that will connect entities and facts from across the internet, all enabled by developers publishing data directly to the web.
+
+
+This could be called the inverse of Scott Davis' Success in Software Consulting session because I think there will most likely be topics and questions that overflow that discussion.
+Consulting can be very rewarding both financially and from a personal development and experience standpoint but it is not without its risks and downsides. I'll have some examples from my experiences running the software development consultancy, Refactr and we'll collectively explore questions and circumstances that other Minnesota consultants will bring to the session.
+Some topics we may get to include:
+
+This session will EXCLUDE HYPE. It will talk about the real value of data and give several REAL examples of how big business is using this technology. Presenters Colin Tuggle and Joe Hebl will talk in simple terms about what they've learned in recent years from big and small data experiments that have brought significant value in some cases and other times been a waste.
+
+The hottest topic inside the mobile space right now is talent acquisition, or the lack thereof.
+Everyone seems to want the brightest individual that the market has to offer. What if we are looking in the wrong location or supplementing our talent pool with only local candidates.
+Ill present how we ramped up our mobile dev team from 6 to 22 in 6 months with all of the highlights and lowlights along the way.
+
+
+The opportunity in civic technology and hacking is just being realized. By integrating a design mindset in this movement we can ensure that we're uncovering real local challenges and bringing those impacted by those challenges into developing solutions.
+
+Your technology startup company is on track to realize $2.5M in annual revenues, youre an Inc. 5000 company, and you are 16 hours away from being out of cash and out of business.
+In the fast-paced world of startup culture, every entrepreneur needs a few more hours -- or a little more space -- to separate the obstacles and get to the next milestone. What if there was a way to help you focus better, manage stress better, and even SEE better?
+Modern Survey CEO and co-founder Patrick Riley and super-yogi and Yoga Garden founder Laurel Van Matre present their experiences building successful startups while remaining committed to their yoga practices. Learn how theyve tackled intractable startup problems by working through the challenges metaphorically on their yoga mats.
+
+Live events, podcasts, online marketing, each have their own problems of getting audiences engaged and staying engaged. Learn how to use todays web and smart phone technology to build a customized interaction specific for your needs that can replace current elements and lower costs and management of such variables as printing, polling, surveys, reporting and prize drawings.
+Encourage audiences to sign up Encourage more interaction including submission of questions and comments during a live presentation Allow presenters to follow up with unanswered questions which will again increase engagement Facilitate surveys which reduces management, printing costs and reporting time Facilitate prize drawings way more efficiently and effectively with winners drawn immediately with opportunity for follow up Collection of individual contact data such as email and/or cell phone for continued communication Provide social media links such as Facebook, Linked In and Twitter to encourage more digital media engagement Facilitate panel discussions with more effective Q&A through moderation Provide sponsorship outlets to increase revenue Overall, it is simple, effective and dynamic.
+If you're a company or organization that wants to learn about effective audience engagement sign up for this session.
+
+Find out why you should Twitter. Or not. This will be a social web discussion including Twitter, Friendfeed, Seesmic, Brightkite, and of course the ancient ones, FaceBook and MySpace. What the hell is going on out there?
+
+This is the session that makes you smarter, more productive and better looking (well maybe not the last but you will be more awesome). It's the session that gives you the opportunity to share your tip/trick/lifehack/etc.. with the technology community.
+Tips/Tricks can range from sweet keyboard shortcuts you can't live without or awesome programs that automate/innovate a process. (If you need some inspiration, visit Lifehacker)
+Here's the deal:
+
+UPDATE! Check out the slides!
+Appcelerator Titanium is an open source platform for building native mobile and desktop apps using web technologies including HTML, CSS, JavaScript, Python, PHP, and Ruby.
+Titanium Mobile will let you create apps for the iPhone and Android without having to know Objective-C or Java.
+
+No secrets here...everything is open for discussion.
+In early 2007 the US Army had missed its recruiting goal for two consecutive months despite having a marketing budget that exceeded $450 million. A change was necessary.
+We developed our FY08 planning objectives to accomplish two goals:
+
+How to improve communication and demonstrate technical accomplishments with Fit-based executable documentation. Customers get to give requirements by example, QAs get a test case language that can be run directly in the application, developers get red light/green light specs: it's a beautiful thing.
+
+There has been a lot of funding momentum in the upper Midwest this past year.
+For any entrepreneur considering raising equity capital to fund their business, Patrick Meenan from Arthur Ventures and Ryan Broshar from Confluence Capital will be sharing their first-hand observations on what types of opportunities are/are not resonating with investors (i.e., market, business model, funding history, team structure, traction, etc), valuation trends and successful/unsuccessful fundraising tactics.
+Plenty of time will be saved for Q&A.
+
+Varnish cache is a front-end caching server that can literally save your rear when traffic starts to hit a new level. Varnish is all about scale and minimalizing the need for extra web servers when they are unnecessary. This talk will discuss the reasons you should use varnish and why it is good, show examples of how it can literally scale your website to handling a slashdotting effect, pushing through to handling more efficiently and then showing you how to do this with dynamic content.
+Now the down right crazy? Well you might just have to come and see how the cache can be utilized to make even the dynamic portions of your website scale beyond what you even thought possible.
+
+Online video is big these days, from Youtube's $1.65B price tag, to the many Youtube clones/competitors, to video blogs, to Apple's iTunes/iTV video strategy. This session will discuss the technical and business issues related to online video, including: video codecs; accepting user-submitted video; tools for transcoding video (and audio); and deploying a video transcoder. A Ruby-based video file inspector will be shown. Discussion is encouraged, so if you have experience with or questions about video transcoding, please share!
+
+I know you have a digital point-n-shoot that does short video clips. So lets make some panoramic photos at minnebar together !
+How about using your panoramic photo as UV map for 3D environment?
+Lets make some "mug" shots !
+How about if we spend 1/3 time looking at code, 1/3 time video and 1/3 time processing into panoramic or 3D ?
+
+Get up to speed with the fresh SDK from Google that extends the Android platform from your phone to your wrist. Learn about integrating your existing applications with Android Wear, writing custom UI components for wrist size displays, and how to send data to the phone from the wearable device.
+
+Real world, revenue generating applications to tackle the financial services world online with examples from the new API-based Javascript tools Dow Jones has launched called LiveQuotes and shortly LiveNews.
+
+An open discussion for those involved with designing, building, and marketing web-based products.
+Possible discussion topics: 
+	* Dev process
+	* Team makeup
+	* Product support
+	* Marketing channels that work
+	* Challenges
+	* //Add to this list//
+
+An introduction bitcoin.
+I'm surprised by how many of my technically minded friends don't know anything about bitcoin. This session will be an attempt to help more people understand it.
+I'm an engineer, not an economist, so the discussion will probably begin with an introduction to what bitcoin is and then tend toward the technical side mining, cryptography, whatever the groups wants to talk about.
+
+Want to know about this Content Management System (CMS) called Drupal? In this session Peter will be doing the amazing 5-minute install before your very eyes as well as showing basic theming using only his bare hands (and a little HTML and CSS). If the audience is well behaved, inquisitive, and above average he may even reveal other well-kept secrets such as the real Nature of Nodes, the Mystery of Modules, the Untouchable Core and, and even (oh my!) Taxonomies.
+Here is a link to my presentation out on SlideShare. (Use full-screen mode in SlideShare to access the links in the upper right corner of the slides. This will allow you to watch the YouTube demo videos.)
+
+
+An open forum on developing for Apple's mobile devices. With Apple's closed system for mobile application distribution and unpredictable behavior, are these platforms worth developing for? Is the beautiful hardware and growing audience worth the risk of running afoul of Apple's continually changing rules and regs? Is everyone just overreacting?
+No right or wrong answers - just curious on the community's opinion of the state of affairs in developing for Apple devices.
+
+Join us as we discuss ideas and solutions to tackle social and information overload.
+What challenges does the 'social web' face? What emerging technologies are helping us control it?
+We will discuss the future of collecting, consuming and experiencing articles, images, videos and other content on the web.
+
+
+On any given request for a website, there is precious little we know about the players involved. We don't know who the user is, where they live, what they speak, really anything about them. They are using a browser, but we don't know what that browser is. We don't know how they interact with that browser. That browser is on some device that we don't know about and we don't know how that device connects to to the internet.
+All we know is about the server where our website is hosted and the files we put there. We can make a better web by accommodating these unknowns.
+
+In this session we'll go over what has changed and what's new in PHP 5.4. We'll also take a more in-depth look at some of the big features including: binary notation, short-hand and dereferencing arrays, class instantiation chaining, traits, session handling, file upload tracking, and the new built-in webserver.
+
+Even though WordPress and Drupal are popular CMSs they fall short in significant areas. WordPress is great for sites with few pages, and a blog and it provides great themes. But it doesn't give you the kind of control over design, and functionality that you may need for larger sites.
+Drupal does large sites, but it is complex. Administering Drupal can be challenging especially for beginners. It also requires you to learn Drupal theming to control design.
+Setting up multiple sites with one core code is difficult with both WordPress and Drupal.
+
+It's the obligatory (but totally necessary and awesome) "women in tech" session!
+We'll talk about issues women in tech face, organizations such as Girls in Tech, and the upcoming unconference She's Geeky.
+This is a group discussion facilitated by Jacqueline Urick, MD of the Minneapolis / St. Paul Girls in Tech chapter.
+
+As entrepreneurs, who we know plays a critical role in our venture creation process and the probability of our success.
+We draw on advice, support, knowledge, and help from many different people in our social networks. How we use this social capital can provide us better access to financial capital, resources, novel information, necessary knowledge, and trusted feedback. Consciously assessing our entrepreneurial social capital can help us weave more productive networks, enhance our entrepreneurial expertise, and increase our competitive advantage.
+In this participative session, learn how to evaluate your own entrepreneurial social capital so that you can more effectively weave your social networks for greater success.
+
+Thinkering through the behavior of blogging.
+The data I am reading suggests that there are 5M active (updated in the last 90 days) blogs in the US out of 300+M people. However, if you ask people if they would like to have a "successful" blog most answer "Yes." That's an odd separation.
+Further... the most frequent objection to blogging is that it takes to much time. However, the average US household has the TV on for something like 5+ hours a day and it seems Clay Shirky is right... we have a Cognitive Surplus. So... why don't we blog more?
+
+Each year, more award-winning, (high-profile sites are 'going Drupal'. It functions as a content management tool, a community platform, and an application framework. Is it trying to do too much? Can it be both powerful and economical? Will it work well for you? (hint: the short answers are No, Yes, and Probably ) Learn the technical and business reasons for choosing Drupal, and find out how to get the resources you need to get going.
+
+You've heard of Drupal, but why would should you use it? When does Drupal make sense compared to other content management systems? How should you go about getting in to Drupal?
+Whether you're an independent developer, a shop building sites, an organization looking to update their site or develop a new site - Drupal might be for you. Come with your questions and get some answers from local Drupal experts!
+
+I've used many an editor in my day and I love and hate them all, but there's none that I love and hate more than Emacs.
+Why on earth would anyone use an ancient, slow piece of bloatware like Emacs here in the... what century is it?
+That very question led me on a journey of discovery through Vim, TextMate, SublimeText, Vim, Emacs, back to Vim, back to Emacs, off to jEdit, Eclipse, IntelliJ, home to Vim, Notepad++, Vim, and back to Emacs again, each step of the way, lugging the best of what I'd discovered with me.
+
+Functional programming is a topic being discussed a lot lately with the inclusion of lambda functions and default interface methods in the recently released Java 8. Scala, has had these features since the start. Importantly though, it also has many other features Java does not have; to name a few: implicit variables, pattern matching, type variance, macros, lazy immutable variables, existential types, and higher-kinded types. But are these things actually important to day to day programming? Should companies start switching out maven for sbt in mass? And what about Clojure or just ditching the JVM for Haskell?
+I don't know the answers to these questions, and I am far from being an expert, but I do have real world experience working with Scala solo and with other developers, some who understand higher-kinded types, and some who think you're speaking Latin. In this talk, I hope to present the basics of what developing applications in Scala means for the individual developer and for project lifecycles, while having a dialog about where Scala might make sense, and where it might not.
+And yes, there will be code.
+
+A wiki is an incredibly useful way to create document-centric websites, but if you are working with a structured data and want to run queries across that data, a wiki can result in chaos. With the right tools though, a wiki can be incredibly useful for both structured and unstructured data.
+In this session we'll cover using MediaWiki and the powerful Semantic Bundle to create data rich wikis with very structured data. To demonstrate this we will create new templates, properties and forms using MediaWiki and Semantic Bundle. We'll also look at advanced examples of these tools using three wikis I setup and help run, Creative Computer Book Club, Road Sign Math and TOS Redux.
+This session will be beneficial to anyone looking to create useful sites using MediaWiki. To illustrate these concepts we will build a structured wiki for Minnebar.
+
+Even if you have no plans to ever build an application for WP7, you may want to know what is possible and how the platform is differentiating itself from iPhone and Android. See why Gartner and IDC believe WP7 will overtake the iPhone in the next few years. In this session you will see a high-level overview of the phones features, the developer capabilities, and what is coming in the next update. We will also build a simple application from scratch, showing how easy it is to take the same code and build an application for the desktop (WPF), the web (Silverlight), and the Windows Phone 7.
+
+Have you tried to use Drupal or Joomla, but found yourself confused and frustrated by their complicated interfaces and feature implementation procedures? Want to use a content management system (CMS) that is intuitive and easy to use? In this session, I will walk you through the basics of how to turn your static website into a dynamic experience using Wordpress's user-friendly environment. Presentation link
+
+Toby Cryns (themightymo.com) and Peter Fleck (@pfhyper) want to talk WordPress with you. The guys will be sharing their ideas, so bring along questions to ask and your tips and shortcuts to share in this discussion session.
+Suitable for all level of geekiness you just need to love WordPress!
+
+Have you been hurt by a plugin in the past? Don't know where to start looking for your perfect match? We'll simplify the selection process to reveal the must-haves, the most useful and the next great WordPress plugin to capture your heart.
+
+In this presentation, I will discuss the challenges faced by global organizations in sharing and synchronizing data on a large scale between multiple geographic sites and across heterogeneous platforms and operating systems. I will discuss the results of some global experiments conducted between 2004 and 2014 between the US, Europe, Africa and Asia. We will learn about the legal and technical challenges faced by the systems and the operations staff. Issues such as reliability, industrial espionage, ISP bandwidth control, state controls and content censures will also be discussed.
+
+Soashable is a web based, Open Source, multi-protocol instant messenger based on XMPP (Jabber) using BOSH (XEP-0124 and 0206); it is similar to Meebo. XMPP is anything from an IM protocol to a poor-man's middleware solution. Subject matter will range from technical details of XMPP and Soashable, to high level discussion of Jabber and standardization, to direction of the Soashable project.
+
+Clients are often wary of Agile methods, if for no other reason than we have been telling them for years that they must define every detail up front so we can build it right. Now we want to tell them that iteration and collaboration is the way to go. Why should they listen? Come discuss this topic and tell us how you do it.
+
+Online DIY financial tools abound. A handful of straightforward, free sites and low-cost services can help you choose what to put into your 401(k), where to invest your IRA, and how to track your spending and savings, all leading to greater likelihood of an MIT education for your child and/or an expedited retirement for you. We will also cover key questions to ask if you decide to delegate responsibility to your father's broker or your college buddy. I make only a small portion of my income from financial advice, and only through transparent, hourly fees. Bring your last-minute questions on what to do with your 2013 retirement contribution before completing, or amending, your taxes for last year.
