@@ -1,0 +1,345 @@
+1) Do “data science” 2) ??? 3) PROFIT!
+101 Ways to Make Cool Maps
+2 for 1 - Neighborhoods Online and Social Advocacy via Twitter
+3D Printing on a Makerbot
+410 Gone: A Discussion of Burnout, Depression, and Finding Happiness in the Technical World
+5 Crippling Habits That Kill Your Productivity (And the Tools to Fix It)
+7 Deadly Sins of Startup Marketing
+A Blog is a Book is a Blog
+A Bootstrapper's Guide to the Startup Universe
+A Country Club For Tech
+A Highly Kinetic, Semi Dangerous Exposition
+A look around the corner: How permission-based marketing, data-alignment, and RFID will shape the future of commerce.
+A Talk About Talks
+Ad hoc Processing data visualization session
+Agile Design (MinneBar 1)
+Agile Financial Modeling
+Agile methods for infrastructure groups
+AJAX (MinneDemo 1)
+Algorithms and Refutations
+All the monitoring; forget everything you knew about nagios, zabbix and ganglia
+Ambition: A new MVC web framework in Vala
+An explosion of startups...in the Land of 10,000 Corporate Drones – a very serious proposal
+An Introduction to Groovy and Grails: or, How I learned that I could save my knowledge without losing my mind
+An Introduction to HTML5
+Ancient UNIX Tools You Should be Using but Probably Aren't
+Android * What is that robot up to?
+Anonymity: a real trend or just hype?
+Assholes Are Killing Your Project
+Asynchronous Social Pythoning
+Automating Infrastructure with Opscode Chef
+Ban Helvetica * Or Why Ignoring Web Safe Fonts Makes Your Website Better
+Ban Helvetica Part 2: How to Pair Fonts
+Beautiful Chaos: The Evil Genius' Introduction To Juila, The New Scientific Computing Language
+Beyond coffee, cigarettes, and the morning paper: Building hyperlocal news systems and engaging community
+Beyond DevOps: User-Centered IT
+Beyond Mobile: How Connected Devices are the Next Evolution of Mobile
+Bootstrapping your Tech Start-up: Building a Company the Old Fashion Way
+Bowling for Marketshare--How to Grow Your Startup by Narrowing Its Focus
+Brain-computer Interfaces: Hacking Wetware
+Brewing Technology
+Browser Automation (For Development and Testing)
+Build and Deploy Ridiculously Advanced MediaWiki Websites
+Building a File System From Scratch
+Building A Global, Privacy-Conscious CDN On $20 A Day
+Building Awesome Online Communities with WordPress
+Building Google Voice with Rails, Knockout, and Twilio
+Building jQuery plugins: Back-end development for a front-end language
+Building The Tech Community You Want to See
+Building Web Apps Discussion
+Bulletproof WordPress
+Business Apps for the Corporate Environment
+Business Idea Speed Dating 2.0
+Business Idea Speed Dating: Idea Guys versus Geeks versus Entrepreneurs
+Can you legally sell, lend, or give away purchased digital content? What happens to digital assets when you die?
+Cassandra and Riak at BestBuy.com
+Chasing Ninja Rockstars: Searching For Top Talent and Why We're Doing It All Wrong
+Chasing Waterfalls: Exploring the airwaves with RTL-SDR and software-defined radios
+Civic Tech and Open Government Year 1 - Open Twin Cities Showcase
+Clojure for Newbs: An Introduction
+Coin, how to make a CopyCatCoin in 50 minutes or less
+Collaboration 2.0
+Color Theory and Consumption: A Matter of Life and Death?
+Color Theory: Hot-Neutral-Anchor
+Consulting for fun and profit
+Content 101—101 Ways to Publish Content
+Content is a Banquet: Trends, Tactics, Tools
+Coworking (MinneBar 2)
+C cont.
+Create a Integrated VISUAL Image across Social Media Platforms
+Creating an Early Stage Fund - Group Discussion
+Creating Crackberry Apps That ''Don't'' Suck : How To and What's New in Waterloo
+Creating products that inspire passionate users
+CrowdSourcing Platforms: What Works, What Doesn't?
+CSS frameworks when and why to use them
+Cucumbers for UX Designers
+Curation FTW
+Data and performance driven UX design
+Data Center 101
+Data mining: what is it good for?
+Design + Dev + QA + Ops =
+Design 2.0: What's a web designer to do?
+Designing for Use
+Developing For The SmartThings Platform
+DevOpsDays Minneapolis
+Discovering Scala
+Do Not Track: Remarketers, Tracking Bugs, and Online Privacy
+Dojo Javascript Toolkit
+Dont Quit Your Day Job - Lean Startup in the Enterprise
+Doppler Value Investing: the next generation of value investing
+Drupal Experiments
+Enterprise Management for the Mac OS
+Every HTTP Status Code
+Exploring NFC on Android
+Facebook: Fan Pages versus Tabs versus Apps
+Farmsourcing Rails: or How I Stopped Worrying and Love the Enterprise
+Fiery Inferno A web consultant roundtable
+Fiery Inferno!!! A web freelancer roundtable
+Fight's On: An Introduction to Distributed Interactive Simulation
+Find a co-founder
+Five Marketing Points to Tackle BEFORE You Start Coding
+Flex (MinneBar 2)
+From idea to deployment: How I built a web app while riding to work on the bus
+From Open Source to Open Space: The Growth of Coworking and Collaboration Spaces in Minnesota and Across the Globe
+Fund Raising using social media
+Funding a startup: a discussion of three approaches
+Fundraising in Minnesota (Minnebar 8)
+Game Development with XNA
+Gamify Your Equity Model
+Gaming and Gamification
+Gearman: A Job Server to Scale
+Geeks Connecting Neighbors - BeNeighbors.org Tech Input Session
+Get Connected: Resource Map Your Way to Success
+Get Emotional: Designing for engagement in native mobile apps
+Getting started with CSS3
+Getting started with iPhone and iPad Development
+Getting Started with jQuery Mobile
+Getting to know BuddyPress
+Getting your Fiber: Fiber-to-the-premise planning with PostGIS and pg routing
+Gigabit (Speed) SYN, SYN-ACK, ACK (Networking) for Geeks
+Global Robotics Innovation Park
+Going Social: Discovering Enterprise Social Media Touch Points
+Google Page Speed Upgrades - Optimizing Website Downloads with a Simple Plugin
+Government and Civic Engagement
+Groucho Marx Meets Aristotle- A Humorous Look at Technology Agreements
+Growing communities of practice
+Growing Pains: Life of a Tech Startup
+Growing Your iPhone and iPad App Business
+Hey Startups, Ask an Ad Agency (and Vice Versa)
+High-Performance GPU Computing on the iPad
+How Can Minnesota be Better?
+How entrepreneurs waste their development budget
+How I Learned to Stop Worrying and Love Localization (in CakePHP)
+How to Apply the Solution Selling Framework to Scale Your Startup
+How to Fireproof Your Career and Chortle at Recession Worries
+How to Get a Job at a Major Software Company Even Though You're not a Geek or a Nerd
+H cont.
+How to Measure PandL When Your Price is Free
+How to Raise Investment for Your Startup, Guaranteed
+How to Start a Company Based on U of M Technology
+HTML5, CSS3, and Mobile: Responsive Design
+I Blog, You Blog, Weblog. Why?
+I Think I Want to Be a Startup
+I Yam What I Am
+I'm a guru, not a god: A Tao of System Architecture
+Idea to Beta: Tips and Tools for making your idea a reality
+Ill with a keyboard. Sick with a mouse.
+Improving the Performance and Stability of your iOS App
+Integrating with and building social networks
+Intro to Drupal
+Intro to Git: What's the big deal?
+Intro to iPhone Development
+Intro to iPhone Game Development
+Introduction to Android Development for Startups
+Introduction to Satchmo
+Introduction to TYPOlight - feature rich, accessible, Open Source CMS
+IOS Development for the Beginner
+Is a community for Designers and Developers possible?
+Job Search = SUCKS: 12 Tips To Make The Process Less Painful
+Journey to the Bottom of the Storage Stack
+JVM Bytecode for Dummies
+Landing the First Hundred Customers
+Legal Implications of Limewire on File-Sharing Business Models
+Lessons from a failed startup
+Lessons in Gravity
+Lessons on Recruiting Open Source Contributors from the Google Summer of Code
+Leveraging Cloud Hosting: Principles and Profits
+Leveraging Zend Framework for Sending Push Notifications
+LigerMobile - True Hybrid App Development
+Lightning Sessions
+Lightning Talks
+Lightning Talks and Demos
+Lightning Talks (MinneBar 3)
+LiveCode Cross-Development System
+Local 'Indie' Video Game Development
+Making Music Like a Nerd
+Making Music Like a Nerd II
+Making RESTful Android Restful
+Malvertising, Black-hat SEO, Phishing
+Managing Your IT Career v5
+Managing Your IT Career v6 - (Why do recruiters suck so bad?)
+Managing Your IT Career: Part III
+Managing Your IT Career: Part IV
+Managing your social media with Clove. Get an introduction to building on our SDK
+Mapping Your World With OpenStreetMap
+Mapping Your World With OpenStreetMap (Minnebar 8)
+Marketing Your Technology Startup
+Me, You and EC2
+Metaprogramming in Groovy
+Midwestern Startups: What is Possible?
+MinneBar 8 on MinneBar
+Minnebar 9 on minnebar
+MinneBar on MinneBar
+Minnesota Indie Game Developer Microtalks
+Minnesota's tech startup community: what's next?
+Mirah: A Pragmatic Replacement for Java
+Mobile App development using Ruby
+Mobile Web Flow Best Practices
+Monitoring and analyzing news coverage via NewsRack
+Monitoring at a SaaS Startup: Tradeoffs and Tools
+Musician + Internet. Discuss.
+Nailing Your First Client: Customer Acquisition for Geeks
+Native Android, Blackberry, and iPhone OS apps in JavaScript
+Negotiating Consulting Contracts That Work
+Neighborhoods and Social Media
+Networking Online
+Non-profits: Strengthening Gives in a Social Media World
+NoSQL Patterns for Startups
+OmniFocus Meetup
+On the Couch with David Heinemeier Hansson
+Open Analytics Discussion
+Open Source Hardware
+OpenGL ES from the Ground Up
+OpenPGP-GnuPG Key Signing Party
+OpenStreetMap 101
+OpenStreetMap 201
+Pack Your Own Chute - The Personal Decision to Join a Startup
+Paper Prototypes: There and Back Again
+Percolate Your Trep Net - Expanding Your Entrepreneurial Social Capital
+Percolate Your Trep Net II—Expanding Your Social Network Focus for Greater Entrepreneurial Social Capital
+Percolating TurboGeeks: Exploring Why Innovation Networks Form The Way They Do
+Personal Rapid Transit
+Phonegap + jQuery Mobile = Awesome
+PHP Security 101: Securing Your PHP Applications
+Physics-based Interfaces with UIKit Dynamics
+Piranha Pool (TM)
+Power WordPress plus MinneWordCamp Discussion
+Presentation and Discussion: E-Democracy - Online Neighborhoods
+Presentation and Discussion: Groupserver
+Product Launch: From the initial itch to a global marketplace
+Program your Contracts with LaTeX
+Pseudo Elements for Fun and Profit
+Put your API to REST or NOT
+Putting a Neighborhood Online: Creating Sustainable Online Communities
+Quick and Dirty Introduction to Drupal
+Recruiting 2013: For Start Ups Or Any Size Company
+Recruiting For Start Ups (Or any Size Company)
+Recruiting For Start Ups 2012 (Or any Size Company)
+Remix + Adaptive Avenue: A Commercial Application of Best Buy's Open API
+Reputationland
+Revenge of the Type Systems
+RFP - an open source, mobileweb voting system
+Rise of the Fiber Project: Transforming a Small Town into a Gigabit City
+RoboSpock -- wake up your Android project with some dynamic language testing
+Rocking the Geek(ette) Career Track
+Room and Bored
+Ruby on Rails (MinneBar 1)
+Ruby on Rails: An Overview
+Running a Virtual Server with Confidence
+S is for Strategy
+S cont.
+Scalable, Adaptive, Agnostic: the Next-Generation CMS Authors Need You to Build
+Scheduling MinneBar with Simulated Annealing
+Schumpeters HiveConsciously Weaving Our Collaborative Innovation Networks
+Screw You LAMP. Plus Virtualization
+Secrets of a Successful Open Source Project
+Serverified Virtualification
+Set up a Continuous Integration Server in 10 minutes
+Setting up an Altcoin mining pool (Using chef, Stratum, And MPOS)
+She's Geeky? Why are you geeky?
+Six Reasons to Open an Offline Store (Especially if you Sell Online) and How to do it Right (or at Least More Right)
+Small Teams, Big Results
+Social Media ... So What?
+Social media for learning spaces in work, schools, and communities: Extending the spirit of Minnebar
+Social Next: What Being Human Online Will Look Like
+Social Search in the Corporate Enviroment
+Social Web Design: One Step Forward, Two Steps Back
+Software Development for Healthcare Data
+SQL Server Performance Tuning with Execution Plans
+SSH: Best kept secrets
+Stackless Python Twisted-Style -- There will be blood
+Startup Camp Is Coming
+Startup Tools
+Startups vs. Consulting: smackdown
+Stasis: Transactions Without SQL
+State of the State: Technology in Minnesota
+Success in Software Consulting
+SUPERQUEST: A Social Network for Projects (my first website)
+Teaching Kids to Code -- why, where and how.
+Team Anti-Patterns
+Techniques and Algorithms for Building Distributed Systems
+The (A)BC's of Corporate Blogging
+The Art of Message Queues
+The Bet: Why we feel your project is worth talking about and why its costing us
+The Changing Landscape of Retail: Winners, Losers, Game Changers, and Lessons Learned for Tech and Marketing Pros
+The Crowdfunding Panel
+The Evolution of Advertising
+The Evolving Digital Ecosystem
+The FUTURE
+The future of crowdfunding and fundraising
+The Geek Car, State of EVs in Minnesota Panel Discussion.
+The Great Escape From The Not So Great Career Rut
+The Hardware Startup: From Napkin To Retail Shelf
+The Internet and the Future of Art
+The Mathematical Foundations of Music
+The Missing Web Curriculum: What Every Web Professional Should Have Learned
+The most interesting challenges ahead for journalism
+The Myth of Digital Influence
+T cont.
+The Narrative Platform of A Brand
+The Next Web of Linked Data
+The Non-Designers Guide to WordPress (Making Your Site Look Awesome)
+The Perils and Pitfalls of Consulting
+The REAL Value of Data - Big or Small
+The Secrets of International Talent Acquisition
+The Tech Behind Obama's 2012 Campaign
+The Value of Design in the Civic Technology Movement
+The Yogi and The Entrepreneur
+Think Live Social Networking, Technology to Get Your Audience Engaged
+This Thing called Twitter
+Tips and Tricks to Hack da Planet (by You for You)
+Titanium Powered Desktop and Mobile Apps
+TOP SECRET - Army Marketing Secrets
+Translating Geek: Executable Documentation
+Transparent VC
+Varnish, The Good, The Awesome, and the Downright Crazy
+Video Transcoding
+Video2Panorama
+Wearing Android: An introduction to the Android Wear platform
+Web 2.0 in the Real World
+Web App Builders Roundtable
+What is Bitcoin?
+What is Drupal?
+What Obama (and Romney) Can Teach You About Mobile.
+What should we do about Apple?
+What the F is Social Curation?
+What to Look For When Hiring a Communications Professional or Agency
+What We Don't Know
+What's New in PHP 5.4
+When WordPress Gives You too Little and Drupal too Much, Choose Contao
+Where My (Tech) Ladies At? - Let's Connect
+Who Do You Know - Evaluating Your Entrepreneurial Social Capital
+Why Don't You Blog More?
+Why Drupal?
+Why Drupal? An expert panel
+Why Emacs?
+Why Scala? Is functional programming on the JVM worth it?
+Wikis with Structured Data
+Windows Phone 7 What You Should Know
+Wordpress as a Content Management System
+WordPress Geek-Out
+WordPress Plugin Speed Dating
+Worldwide Data Synchronization Challenges and Solutions in a Global Enterprise
+XMPP on the Web: Soashable
+You can do that? Selling agile to the enterprise
+You made $ with code, now save (and keep) more of it
