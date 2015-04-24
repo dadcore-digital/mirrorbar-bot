@@ -1,9 +1,13 @@
 # Pull noun phrases from corpus
-f = 'dystopia/raw/pkd-scanner.txt'
-filename = '%s/corpus/%s' % (f, os.getcwd())
 from textblob import TextBlob
-import codecs
-a = codecs.open("/Users/ianfitzpatrick/code/dystopiabar/pkd-shortstories.txt","r", "utf-8").read()
+import codecs, os
+
+corp_dir = '%s/corpus/dystopia' % os.getcwd()
+corp_filename = 'pkd-scanner.txt'
+file_in = '%s/raw/%s' % (corp_dir, corp_filename)
+file_out = '%s/parsed/%s' % (corp_dir, corp_filename)
+
+a = codecs.open(file_in,"r", "utf-8").read()
 blob = TextBlob(a)
 
 # All Noun Phrases
@@ -15,10 +19,11 @@ import operator
 np_sorted = sorted(blob.np_counts.items(), key=operator.itemgetter(1))
 
 for i, (a, b) in enumerate(np_sorted):
-	myfile = open("/Users/ianfitzpatrick/code/dystopiabar/pkd-shortstories-np.txt", "a")
+	myfile = open(file_out, "a")
 	try:
-		myfile.write(a.encode('utf-8'))
-		myfile.write('\n')
+		if len(a.split(" ")) > 1:
+			myfile.write(a.encode('utf-8'))
+			myfile.write('\n')
 	except:
 		pass
 
