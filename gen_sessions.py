@@ -66,7 +66,8 @@ def create_session_titles():
 	for item in session_copy:
 		blob = TextBlob(item)
 
-		if blob.noun_phrases:
+
+		if len(blob.noun_phrases) > 1:
 
 			rand_pos = randint(0, len(dyswords_copy)-1)
 			d = dyswords_copy[rand_pos] 
