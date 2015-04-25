@@ -1,3 +1,72 @@
+#####################################
+# Create dystopian names from files #
+#####################################
+import codecs, random
+first_names = codecs.open("/Users/ianfitzpatrick/code/dystopiabar/names-fantasy.txt","r", "utf-8").read().split('\n')
+last_names = codecs.open("/Users/ianfitzpatrick/code/dystopiabar/names-real.txt","r", "utf-8").read().split('\n')
+
+for i in range(300):
+	print random.choice(first_names) + " " + random.choice(last_names)
+
+	myfile.write(desc.encode('utf-8'))
+
+# Create dystopian session descriptions (eh this didn't really give good results)
+from textblob import TextBlob
+import codecs, random
+sessions = codecs.open("/Users/ianfitzpatrick/code/dystopiabar/session_corpus_descriptions.txt","r", "utf-8").read()
+slist = sessions.split('.')
+pkd = codecs.open("/Users/ianfitzpatrick/code/dystopiabar/dystopian-words.txt","r", "utf-8").read().split('\n')
+blob = TextBlob(sessions)
+np = blob.noun_phrases
+
+for item in slist:
+	blob = TextBlob(sessions)
+	np = blob.noun_phrases
+	if np:
+		item = item.lower().replace(blob.noun_phrases[-1], random.choice(pkd))
+
+	title = item.lower().replace(blob.noun_phrases[-1], random.choice(pkd)).title()
+
+sessions = sessions.replace(item, random.choice(pkd))
+
+for i, a in enumerate(np):
+    if i % 5 == 0 :
+
+# Generate  Makrov Chains
+python markov.py parse sessions 2 /Users/ianfitzpatrick/code/dystopiabar/session_corpus_descriptions.txt
+python markov.py gen sessions 800
+
+# Trim Session Markov Output (delete short sentence/one-line paragraphs)
+import codecs, random
+descs = codecs.open("/Users/ianfitzpatrick/code/dystopiabar/markov_session_desc.txt","r", "utf-8").read().split('.\n')
+
+result = []
+for item in descs:
+	if len(item) > 224:
+		result.append(item + '.\n')
+
+# Light Dystopianization of Session Phrases
+import random, codecs
+from textblob import TextBlob
+pkd = codecs.open("/Users/ianfitzpatrick/code/dystopiabar/dystopian-words.txt","r", "utf-8").read().split('\n')
+sessions = codecs.open("/Users/ianfitzpatrick/code/dystopiabar/markov_session_desc.txt","r", "utf-8").read().split('\n')
+
+for i in xrange(len(sessions)):
+    data[i] = "everything"
+
+for i in xrange(len(sessions)):
+	blob = TextBlob(sessions[i])
+	np  = blob.noun_phrases
+	if np:
+		sessions[i] = sessions[i].replace(random.choice(np).lower(), random.choice(pkd))
+		sessions[i] = sessions[i].replace(random.choice(np).lower(), random.choice(pkd))
+		sessions[i] = sessions[i].replace(random.choice(np).lower(), random.choice(pkd))
+		sessions[i] = sessions[i].replace(random.choice(np).lower(), random.choice(pkd))
+		sessions[i] = sessions[i].replace(random.choice(np).lower(), random.choice(pkd))
+		sessions[i] = sessions[i].replace(random.choice(np).lower(), random.choice(pkd))
+
+
+
 # Trim Bio Markov Output (delete short sentence/one-line paragraphs)
 import codecs, random
 descs = codecs.open("/Users/ianfitzpatrick/code/dystopiabar/markov_presenter_bios.txt","r", "utf-8").read().split('\n')
