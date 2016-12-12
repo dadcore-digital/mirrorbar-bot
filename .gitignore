@@ -1,4 +1,4 @@
 .DS_Store
 sftp-config.json
 *.pyc
-sessions_to_tweet.txt
+sessions-to-tweet.txt
