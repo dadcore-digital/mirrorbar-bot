@@ -343,3 +343,354 @@ Worldwide Data Synchronization Challenges and Solutions in a Global Enterprise
 XMPP on the Web: Soashable
 You can do that? Selling agile to the enterprise
 You made $ with code, now save (and keep) more of it
+The Pros and Cons of Micro Capital: Should You Take $6,000
+Dept of Redundancy Department: How to Avoid Service Failures in Web Startups
+I'll lead a session on OpenID, the wickedawesome decentralized authentication system that You Should Use Now!
+Mobile Social Networking Roundtable: What have we learned, and what's in the future 
+Ruby on Rails: what's all the hype about?
+Keeping community momentum past BarCamp2
+A session for Python programmers -- Let's get together and discuss/recommend tools, libraries, frameworks, etc
+Inventing the un-unconference: What's next?
+Secure web applications: why so rare? Coding practices to look out for
+ConnexTo: The Mobile Code Scanning solution and its cool applications
+Podcasting (and social media, if somone wants to jumo in) -- Who? What? How? and Why?
+The Basics Of Startup Marketing: Now that you have something built, how do you find users?
+Beyond RoboCal, Ted Gilchrist: Towards a Poor Man's Blackberry. (calendar, RSS aggregator, email on vanilla phone) 
+What Sucks (or does not suck) about BarCamp?
+Using AxKit + xHTML and XSLT to create simple, easy-to-maintain, standards-compliant websites
+MH - The true UNIX mail system. Open/Collaborative/Green Maps
+State of Online Music - Freeform discussion of developments in online music
+User Generated Content: legals risks and remedies for next generation media companies 
+Genetic Algorithms for Board Game Trading: A practical look
+A conversation about online reveune and marketing: an open dialogue about driving and converting traffic
+Students/Programmers: Help Define a New Kind of Education Program
+Open-source Hardware Bio: A Global Culture
+Introduction to the Heroic Path
+Accessibility is for Everyone
+Engineer to Product Manager: How? Why? Discuss. 
+SEO Open Discussion
+Safeguard Your Venture: A hands-on approach to protecting your idea, code, customers and -- your money
+Democratic Corporations: The USER-OWNER TAKEOVER of social networks & much of CAPITALISM
+A Look at Windows 8 
+Bar Campers: Solutions to Challenges in Software Development
+Cloud Computing 101
+PhD in $$$: Lessons Learned Bringing My Thesis to Walmart
+Grow & Leverage your Entrepreneur Network
+Great UX for startups & new products: what works? what's hard?
+Painless, Fast Audio on iOS and OSX 
+The New Job Search: Emphasis on social, Open Discussion
+Profit Sharing: Evolution of Impact-Based Compensation
+Networking for Introverts
+Getting Government to Work Again through Social Media (and Real World) Activism
+Food + Tech Potluck/Open Discussion for Food Bloggers, Health App Developers, Molecular Gastronomists and Geek Chefs
+Email Deliverability 
+Boglehead Investing: Investing using the Philosophy of Vanguard Founder John Bogle
+APIs and the Future of Programming
+Business Model Generation: Brainstorm Session
+Dynamic Organic Pattern Formation 
+Using Google Sites for Your Non-Profit Organization
+Entrepreneurship: Lessons from Hollywood
+Well-Formed Outcome: A Strategy to Achieve the Goals and Happiness that you Desire
+Minimum Viable Branding for Startups
+Marketing with WordPress: Tools, Plugins and Methodologies
+Building Better Online CommunitiesThrough Novel UX / UI
+STACK WARS: Which Open Source Stack for my Startup?
+What's wrong with ebooks? What's right?
+A KIM-1 for the 21st Century: Arduino? ARM? Linux? 7 Segment LEDs?
+How we decide: lessons from mice playing video games
+Online Bank Robbery 
+How to Feed Google to your Data 
+Portable 3D Rendering: Processing, Android, Meshlab
+Responsive Design: Round-table Discussion
+Getting Started with HDR Photography
+Improving Email Deliverability
+Big Data for Big Problems - Intelligence augmentations and the future of enterprise decision making
+Elastic Search and Big Data in the Cloud
+Science of Cooking
+Sell Your Products/Skills to the China Market
+Roundtable on Collaborative Mapping
+Protect Your Passion - IP, TM, TD, Patents, Licensing, Strategy, Contracts
+Robots Are Awesome! -- Let's geek out about them
+Dating for Nerds!
+Quatemions (t, x, y, z): The Numbers of the Universe, Math/Physics/Programming
+Favorite iPad apps - Open Discussion
+JavaScript Web Apps - What's in your toolkit?
+How the Brain Smells
+The Growling Rainbow: Mathematics, Complex Analysis, AUI Visualization
+Building Web Services with Erlang 
+Tools, Tricks, and Science in Digital Photography
+Cuba + information technology + libraries (based on a real trip!) 
+Are Biological Patterns Turing-Complete?
+Best Practices for Cross-browser HTML & CSS
+Innovating the Next Generation of Medical Devices
+Open Discussion on Perception + Bias
+Data Visualization - Charting With Javascript / HTML5
+Music Discovery and Analysis with The Echo Nest API 
+Mobile Apps for Developing Countries
+Democratic D-Corps: User-owned DemoCorps - Takeover the social net, wall St, & much of capitalism
+Company Culture 
+Intro to Contradance
+Intro to Backbone.js
+Understanding Pointers in C
+Dating for Nerds - Part II!
+Discussion: Measuring How We Think 
+Genomes, Freedom, Privacy, and Science: The Personal Genome Project
+Intro to Django Web App Development
+Engaging People - emotions vs. rational, data vs information, mobile vs static
+Introduction to AutoHotKey 
+Everyone's Learning to Code! Now What?!
+DDOS Attacks How they Work and How to Stop Them
+Working at a small, medium, large company 
+MaxMSP 
+Power of Psychology - What's stopping you? How to get out of your own way
+Wordpress Themes From Scratch
+21st Century Model Railroading
+Supercollider Audio Programming
+Make Forign Language + Mobile Ready Websites 
+Intro to the Language History Words + Grammar
+A tour of the BarCamp Map App 
+Real Estate Records for Fun & Profit
+Your Brain on Pron -- Mark Hildreth
+Social Enterprise and Global Health
+Unlocking Media on the Internet
+Playing with wGet - Mini talk / workshop
+Android with Boilerplate - Using Scala to Scrape it 
+How to give a presentation people love & learn from
+Gloriously impossible: oil and water and chemistry & art
+API's w/ Scala and other cool things
+Things that suck in K-12 education
+Banks Suck!
+Idea generation in financial services
+Mobile UI Tests & Feedback & Discussion
+How to run a company like Genghis Khan
+UX Games Design for people not like us
+True social media- website integration
+We will be using a real estate website to demo
+How to teach 6 yr olds to program 
+The idea super collider, social network for ideas
+Why you shouldn't send your kids to college
+Engaging & Enchanting Your Community
+Crafting a Killer Pitch
+Please find me if you have a laptop
+Toscanini: Music & Motion
+Android Dev: War Stories & Antipatterns
+I spent the last 10 months building a Linux board - web services on embedded systems
+Re-inventing education
+Startup Marketing Discussion
+Arduino "Physical Programming"
+Meet at the Vineyard if you are looking for co-founders!
+Democratizing surveillance Technology: building your own counter surveillance network
+the Art of BBQ
+Solution marketing lessons from the Apple iPad
+Making word clouds with WordCram, open-source processing library
+Life Hacking Round Table: How have you made your life better
+Confessions of a Copyright Geek
+Crowdsourcing Transparency & Democracy
+JavaScript & HTML5 FTW!
+Building Fast Websites
+The True Value of a check-in 
+Getting the most out of your mentors and advisors
+Introduction to Google Apps Script
+NoSQL Round Table
+How to increase your intelligence and achieve something big
+iPhone and Android Development New Technology
+Sass (Software as a Service) Integration & Distribution
+Get your app to market
+Why Quantum Mechanics is Weird
+Discussion on Gaining Fans and Followers
+Superheroes & Startups: Bootstrapping with Batman
+Predictive analytics: the future of predicting the future
+Marketing & Negotiations Strategy
+Agile Development War Stories
+What's it Like being Agile
+Alternative Data for Investing (twitter, Google Trends, etc.) 
+Can we talk about being women in tech without sounding whiny?
+Science in Silico -- ask an MIT researcher about the state of solar energy
+When Viral Went Viral: Social media norms and the story of Minecraft
+3 Marketing Ideas You Can Use Today
+AppEngine (Python) Meetup & War Stories
+Using Ruby for Map Reduce Big Data on Hadoop
+Choose Your Own Adventure Videos (for Education!) -- and -- PUPPETS!
+Building a Maker Space -- Tools + Electronic + Welding, oh my! -- Urban vs. Rural Hackerspaces
+Insights from a $15MM Fundraising + Live Pitch
+Intro to Erlang & Concurrency without Locks & Keys
+Travel Hacking - Making the most out of customer loyalty programs for air, hotel, & cruises
+Thinking about doing a startup? - Finding cofounders & ideas discussion
+Using Games to Make a Better World
+Content Creation a Mind Map Approach
+Location Based Networking
+Grid-based graphic design on the web for programmers
+Rainbows Unicorns & Uncle Sam $ for your startup
+Practical LAMP on Amazon Web Services
+Classical Economics of Open Source
+Solar-powered Super Computing
+Manufacturing in Personal Spaces 
+Creating Interactive Fiction with Inform 7
+Getting started with mobile web apps with jQuery Mobile
+Let's Code NodeJS
+Opensource Redistricting
+Selling Things Via Facebook: Social Commerce, Does selling on Facebook work?
+Help! I'm new to freelance work.
+Interviewing Well As A Coder
+Target Markets: Why Republicans rarely vote Democrat
+Game Mechanics to Motivate Job Hunting
+Can the internet make you healthier?
+Anonymity and the Internet 
+Intro to XMPP in Web Apps
+Python in 30 minutes
+What can we learn from python while programming in C#
+Bleeding Edge of the Web Node.js, CoffeeScript, CounchDB, jQuery Mobile, HTML5 Kris Walker
+Forget Google: Run your Own Analytics
+Photoshop: making selections for composites & more
+So you want a CMS? 
+Why Django:Python based web framework for perfectionists with deadlines 
+Vagrant Veewee:Cloud on the Desktop
+Prioritization Strategies 
+Talk w/ your hands; intro to American Sign Language
+Copyright & The New Economy Video: Lawrence Lessig's Comments to the ASMP
+Energy and Transport Reform From the Ground Up
+The Internet Culture & Industry in China
+Cappuccino Web Apps without HTML & JS
+IP Strategy / Patents -- How to Protect Your Passion
+Visualizing Your Twitter Graph 
+Demo your STUFF in 120 seconds!
+Agile + User Experience 
+My week at culinary boot camp @ Culinary Institute of America 
+Don't be a Douche - Game Mechanics Best Practices for your Web App
+Mobile Analytics
+Data in Cultural/Learning Accessibility Using Locative Mobile Devices
+Rapid iPad Development
+Additive Manufacturing - Limitations and Future Direction
+Use of Artificial Intelligence in Network Security
+Making Software Usable
+User Experience Design from A - Z
+Inside the Cloud at Engineyard
+CSS Best Practices - Let's Talk Performance, Maintainability, and Progressive Enhancement
+What Will the Future of Internet-Enabled Collaborative Science Be?
+Tech Solutions for New Geek Dads
+The Rise of Location-Based Apps
+FoodTech - Bringing Restaurants into the 21st Century
+9 Hard Social Media Questions and 1 Easy Answer
+A Bargain-Bin MoMA - Content Curation on a Budget
+Monetizing Social Media Broadcasts
+Tips on Fun-Enabling
+The FOSS@RIT Campaign Ecosystem
+Starting up in a Down Economy
+Securing Windows Home PCs
+How to Drive a Million Users to Your Site for Free
+Technical Videography
+How is the Culture Changing Society?
+What I want My Computer (or the Internet) to do that It Can't
+How to Spank Google
+Accelerating Startup Results Using Agile Scrum
+How to Capture and Produce Amazing Audio for Your Video
+Ambient Connectivity
+Turn Your Blog into a Book
+Body Hacking - Diet and Fitness for the Geek Mindset
+Algorithmic Composition - Composing Code
+Building Social Media Audiences
+Power of Minimum Viable Product
+Taking the Cable Companies to Bitch School
+How to collaborate and not feel like you're losing control
+Python, HTML5, Javascript
+MongoDB as a Persistent Cache
+The Outernet Guidelines Initiative 
+Using Adobe Stratus to Create Distributed RIA
+IA in Wordpress
+Friendly Text Formats for Diplomacy
+PR is Dead - Why Sales and Social Networking is Killing Traditional PR
+Startup Inside Sales for SaaS and Cloud
+Enterprise Uses of Virtual Worlds
+Database Scalability - Is the Relational Database Really Dead?
+Mobile Apps for Learning Disabled Children
+How Community & Culture (Re)shape Online Platforms
+Building Alternative Digital Economies with Real-World Impact
+Game AI - Beyond Pathfinding
+If You Like Two Junctions You're Going to Love Three - Fun with Thyristors
+Direct Audio Stream Access in Firefox - Read and Write Audio Data in JavaScript. No Plug-ins Required!
+Who's the Major? A Discussion on the New Check-in GeoLocation Crazestarted by Foursquare
+Tweetups 101 - How to Leverage Event + Social Media to Plan / Promote Your Brand/Product/Service
+Mathematical Movie Making on the Cheap
+Future Technology Applications for the Healthcare/Wellness Space
+Startup 101 - How to Find the Right Pieces and Make them Fit
+Social Media, Collaboration, and Higher Education
+Integrating Communication and Presence/Status on Android
+City as a Platform
+Applying 5 Whys
+Hacker Sabbatical - A[ ]way to build it
+Google's Go Language
+M_sic -- What's Missing is YOU
+Art Galleries in your Pocket - Strange and Beautiful Things People Are Making for Mobile Devices
+Don't be a Yes Man/Woman
+Open Source Redistricting
+Move Along Now, Nothing to See Here - The Private Discussion Spheres of Wikipedia
+A Look at YUI Gallery
+Guerrilla Usability Testing Techniques
+So You've Got a Software Idea. Now What?
+Social Media Trends
+Visualizing your Sleep
+Real-deal Fundraising - Why, Why Not, and When to Raise Money from Yourself, Incubators,Angels, and VCs
+Security Architect
+FreeBSD - The other, other OS A.K.A. FreeBSD and It's Uses at Home and in the Corporate Environment
+Using Open Government Data to Make Awesome Happen
+Personal Investing for Hackers
+The Real Time Web
+Dynamic Charts and Graphs with XSLT and SVG
+Open Source Election Software - For Real?
+Approaching Venture Capital
+Custom objects with CSS3
+Drawing in the Fourier Domain
+Make it easy - 6 Things to Skip When Managing a Distributed Software Team
+Connecting U.S. Communities with African Communities
+Health Everyware - Making Mobile Beautiful
+Mobile App Development on Linux
+Biotech Industry Opportunities
+What I've Learned in Ten Years of Self-publishing Novels for Geeks
+Confessions of a Full-time Freelancer
+Unified Field Theory that Fits on a T-shirt
+Feedback and Future of Alternative/Common Mobile Application Development Frameworks
+Joinery for Fun and Profit
+LBS in Social Networking
+What Makes a Web-Based Game Truly Social?
+Hadoop 101
+Stego me crazy
+Making Your Idea and Company Big Enough for an IPO
+Android Beyond Mobile Cloud Computing
+Building the Boston Startup Community
+Humans and Regular Expressions Working Together to Tag Data
+How to Find a Co-Founder - FounderMatch
+Desktop 3D Printing - Show and Tell with the MakerBot CupCake 3D Printer
+Creative Coding with openFrameworks
+Moving Web Development to the Browser
+History 2.0 - Remaking the Study and Preservation of History Using Collaborative Web-based Tools
+Why Does Nonprofit Technology Suck?
+Using Ruby on Rails with Twitter OAuth
+Sex and Design Axioms
+Analysis is Painless
+Web 3.D - The Future Of Desktop Manufacturing
+Frameworks: Coding on the Scaffold
+Analytic Animations
+Free Latte Art Classes
+Code Secrets
+Entrepreneur Anonymous
+Computer vision -- face detection and recognition
+Right Brain Design
+Programming like a Saiyan
+Battlestar Galactica: The Aftermath
+Development Processes, And Considerations When Setting One Up
+Rapid Application Development Frameworks Showdown
+Functionally Filtering Images In Processing, Pixel-by-Pixel
+Silicon Valet: Create Voice Apps to Unlock the Power of Google Data
+Big MySQL: Tips, Tricks and Challenges
+Art Software Omnibus: A speedy trip through a dozen or so software tools for new media artists
+Online Privacy Awareness in business
+Aspect.NET: A New Twist on Aspect-Oriented Programming
+Making games in 5 minutes with Mekanimo
+Creating a Local Code Commons
+I accidentally an entire RubyGem in less than 30 minutes
+Multilingual Web Application in Django
+Live web applications with TurboGears2 and Moksha
+CIVX.us - An Opensource Public Information System
+Git and the Feature Branch Methodology
+Copyleft Gaming Business Models
+Business and Social Media
